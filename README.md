@@ -45,6 +45,18 @@ If soil is healthy, it is a living entity teeming with life such as worms, fungi
 | Pesticide and fungicide sprayed on crop after picking | Addition of manure and green waste
 | No need for documentation of production practices| |
 
+## ***Types of Teeth***
+
+1. **Incisors:-** Incisors are the eight teeth in the front and center of your mouth. These are the teeth that use to take bites of food.
+
+1. **Canines:-** These are your sharpest teeth and used for ripping and tearing food apart.
+
+1. **Premolars:-** Premolars or bicuspids are used for chewing and grinding food.
+
+1. **Molars:-** Primary molars are also used for chewing and grinding food.
+
+1. **Third Molars:-** Third molars are commonly known as wisdom teeth.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
