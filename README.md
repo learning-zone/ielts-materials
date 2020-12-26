@@ -115,43 +115,43 @@ There are several different types of collocation made from combinations of verb,
 
 There are several different types of collocation. Collocations can be adjective + adverb, noun + noun, verb + noun and so on.
 
-1. **adverb + adjective**
+**1. adverb + adjective**
 
 * Invading that country was an **utterly stupid** thing to do.
 * We entered a **richly decorated** room.
 * Are you **fully aware** of the implications of your action?
 
-1. **adjective + noun**
+**2. adjective + noun**
 
 * The doctor ordered him to take **regular exercise**.
 * The Titanic sank on its **maiden voyage**.
 * He was writhing on the ground in **excruciating pain**.
 
-1. **noun + noun**
+**3. noun + noun**
 
 * Let\'s give Mr Jones a **round of applause**.
 * The **ceasefire agreement** came into effect at 11am.
 * I'd like to buy two **bars of soap** please.
 
-1. **noun + verb**
+**4. noun + verb**
 
 * The **lion** started **to roar** when it heard the **dog barking**.
 * **Snow was falling** as our **plane took off**.
 * The **bomb went off** when he started the car engine.
 
-1. **verb + noun**
+**5. verb + noun**
 
 * The prisoner was hanged for **committing murder**.
 * I always try to **do my homework** in the morning, after **making my bed**.
 * He has been asked to **give a presentation** about his work.
 
-1. **verb + expression with preposition**
+**6. verb + expression with preposition**
 
 * We had to return home because we **had run out of money**.
 * At first her eyes **filled with horror**, and then she **burst into tears**.
 * Their behavior was enough to **drive anybody to crime**.
 
-1. **verb + adverb**
+**7. verb + adverb**
 
 * She **placed** her keys **gently** on the table and sat down.
 * Mary **whispered softly** in John\'s ear.
