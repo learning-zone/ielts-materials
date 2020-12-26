@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg  version="1.1" 
+      xmlns="http://www.w3.org/2000/svg"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      width="auto" height="150px">
+        <text font-size="16" x="10" y="20" width="auto" height="150px">
+            <tspan fill="red">Generally speaking, it is many years later that people appreciate their education.</tspan>,
+            <tspan fill="gray" x="10" dy="25">For example, people who can read might have found it boring to learn this skill when they were children. </tspan>
+            <tspan fill="gray" x="10" dy="25">Also, we cannot be sure of the future benefits of studying certains subjects. </tspan>
+            <tspan fill="gray" x="10" dy="25">In my case, I regretted not having studied some natural science in high school after I realised</tspan>
+            <tspan fill="gray" x="10" dy="25">that I would have to study statistics and mathematics ar university.</tspan>
+            <tspan fill="green" x="10" dy="25">Therefore, it is often later in life that the importance of a good education is realised.</tspan>
+        </text>
+</svg>
