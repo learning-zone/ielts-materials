@@ -71,7 +71,7 @@ If soil is healthy, it is a living entity teeming with life such as worms, fungi
 
 ## # ***Collocation***
 
-Collocation refers to how words go toghter or from fixed relationship.
+Collocation refers to how words go together or from fixed relationship.
 
 **Typical Collocations**
 
