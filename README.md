@@ -26,6 +26,25 @@ If soil is healthy, it is a living entity teeming with life such as worms, fungi
   <img src="assets/layers-of-soil.png" alt="Layers of soil" />
 </p>
 
+**Layers of Solis**
+
+* Decomposing Organic Matter
+* Topsoil
+* Eluviation
+* Subsoil
+* Regolith
+* Bedrock
+
+**Farming Methods**
+
+|Conventional               | Organic                     |
+|---------------------------|-----------------------------|
+| Monoculture               | Crop Rotation |
+| Synthetic fertilizers and chemicals used for pest control | Covering crops |
+| Genetically modified seeds | Use of insects as natural Predators
+| Pesticide and fungicide sprayed on crop after picking | Addition of manure and green waste
+| No need for documentation of production practices| |
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
