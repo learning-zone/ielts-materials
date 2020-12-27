@@ -181,9 +181,9 @@ However, the decreased use of local language would lead to its death and languag
 
 To conclude, while proficiency in english is a much needed aspect to lead a successful life, one should also take pride in learning their local languages which is mandatory for the survival of these languages.
 
-|Words used    | Meaning    |
-|--------------|------------|
-|lingua franca |a language that is adopted as a common language between speakers whose native languages are different. |
+|Words used    | Meaning                              |
+|--------------|--------------------------------------|
+|lingua franca |A common language used by speakers of different languages |
 |competent     | (of a person) efficient and capable. |
 |imperative    | of vital importance; crucial.        |
 |seldom        | rarely                               |
