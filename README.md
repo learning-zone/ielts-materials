@@ -171,7 +171,7 @@ Aluminum cans were first recycled in 1986, starting at about 5%, but this figure
 
 Overall, the proportion of paper and cardboard that was recycled was the highest of the four class of material, but this category experienced a decline after 1994, whereas there was a continuing upward trend in the recycling of the other materials.
 
-## Q. ***Learning english at school is often seen as more important than learning local languages. If these are not taught many are at risk of dying out. In Your Opinion, is it important for everyone to learn english? Should we try to ensure the survival of local languages and if so, how?***
+## Q. ***Learning English at school is often seen as more important than learning local languages. If these are not taught, many are at risk of dying out. In your opinion, is it important for everyone to learn English? Should we try to ensure the survival of local languages and, if so, how?***
 
 Over the recent years, globalization has led to the free exchange of ideas and cultures. This inturn led to an extensive use of english as a **lingua franca**. In todays world learning this language is mandatory to succeed in life. At the same time local languages have to be preserved.
 
