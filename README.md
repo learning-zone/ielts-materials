@@ -183,7 +183,7 @@ To conclude, while proficiency in english is a much needed aspect to lead a succ
 
 |Words used    | Meaning    |
 |--------------|------------|
-|<pre>lingua franca<pre> |a language that is adopted as a common language between speakers whose native languages are different. |
+|lingua franca |a language that is adopted as a common language between speakers whose native languages are different. |
 |competent     | (of a person) efficient and capable. |
 |imperative    | of vital importance; crucial.        |
 |seldom        | rarely                               |
