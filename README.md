@@ -171,6 +171,25 @@ Aluminum cans were first recycled in 1986, starting at about 5%, but this figure
 
 Overall, the proportion of paper and cardboard that was recycled was the highest of the four class of material, but this category experienced a decline after 1994, whereas there was a continuing upward trend in the recycling of the other materials.
 
+## Q. ***Learning english at school is often seen as more important than learning local languages. If these are not taught many are at risk of dying out. In Your Opinion, is it important for everyone to learn english? Should we try to ensure the survival of local languages and if so, how?***
+
+Over the recent years, globalization has led to the free exchange of ideas and cultures. This inturn led to an extensive use of english as a **lingua franca**. In todays world learning this language is mandatory to succeed in life. At the same time local languages have to be preserved.
+
+To begin with, the usage of as a bridge language desirable as it enhances cross cultural communication. These days job opportunities are various for people who are proficient in this language as this is the language of business. Most of the multinational companies open their branches across the world and mostly people who are well versed with english language are provided with high paid job. Apart from that if a country is to become competent in any field it is imperative for it to learn english. Succeeding in life is seldom seen without this.
+
+Furthermore, it embodies a clear accessible standard for everybody to follow be it in books, movies or the internet. Most of the books, movies and magazines published in the world are in english. This is the language of technology, science, medicine, industry and education.
+
+However, the decreased use of local language would lead to its death and language death means loss of culture. Culture forms language and language resolves around culture, the of one means the same for the other. Government must take appropriate action to protect their language from **extinction**. Appropriate legislation should be made and government must provide **adequate** funds for local language training institutions. Additionally individuals should continue using their mother langue.
+
+To conclude, while proficiency in english is a much needed aspect to lead a successful life, one should also take pride in learning their local languages which is mandatory for the survival of these languages.
+
+|Words used    | Meaning    |
+|--------------|------------|
+|lingua franca |a language that is adopted as a common language between speakers whose native languages are different. |
+|competent     | (of a person) efficient and capable. |
+|imperative    | of vital importance; crucial.        |
+|seldom        | rarely                               |
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
