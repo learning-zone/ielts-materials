@@ -157,7 +157,7 @@ There are several different types of collocation. Collocations can be adjective 
 * Mary **whispered softly** in John\'s ear.
 * I **vaguely remember** that it was growing dark when we left.
 
-## Q. The graph below shows the proportion of four different materials that were recycled from 1982 to 2010 in a particular country. Summarize the information by selecting and reporting the main features and make comparison where relevant.
+## Q. ***The graph below shows the proportion of four different materials that were recycled from 1982 to 2010 in a particular country. Summarize the information by selecting and reporting the main features and make comparison where relevant.***
 
 <p align="center">
   <img src="assets/recycling_materials_proportion.png" alt="RECYCLING MATERIALS PROPORTION" width="600px" />
