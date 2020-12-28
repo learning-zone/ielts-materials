@@ -67,11 +67,6 @@ If soil is healthy, it is a living entity teeming with life such as worms, fungi
 
 ## GRAMMARS
 
-* Task Achievement: ?
-* Coherence & Cohesion: ?
-* Lexical resources: ?
-* Grammar: ?
-
 <br/>
 
 ## # ***Collocation***
@@ -192,6 +187,38 @@ To conclude, while proficiency in english is a much needed aspect to lead a succ
 |competent     | (of a person) efficient and capable. |
 |imperative    | of vital importance; crucial.        |
 |seldom        | rarely                               |
+
+## IELTS TASK 2 WRITING SECTION - TIPS
+
+<br/>
+
+**1. TASK ACHIEVEMENT: 9.0**
+
+* Answer all parts of the question
+* Present relevant ideas
+* Fully explain these ideas
+* Support ideas with relevant, specific examples
+* Word Count
+
+**2. COHERENCE AND COHESION: 9.0**
+
+* Structure your answers in logical paragraphs
+* One main idea per paragraph
+* Include an introduction and conclusion
+* Support main points with an explanation and then an example
+* Use cohesive linking words accurately and appropriately
+* Vary your linking phrases using synonyms
+
+**3. LEXICAL RESOURCE: 9.0**
+
+* Try to vary your vocabulary using accurate synonyms
+* Use less common question specific words that accurately convey meaning
+* Check your work for spelling and word formation mistakes
+
+**4. GRAMMATICAL RANGE: 9.0**
+
+* Use a variety of complex and simple sentences
+* Check your writing for errors
 
 ## Q. ***Some people think that having a set retirement age (e.g. 65 years) for everybody, regardless of occupation is unfair. They believe that certain workers deserve to retire and receive a pension at an earlier age. Do you agree or disagree? Which type of workers do you think should benefit from early retirement?***
 
