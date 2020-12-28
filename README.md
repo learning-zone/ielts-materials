@@ -183,10 +183,10 @@ To conclude, while proficiency in english is a much needed aspect to lead a succ
 
 |Words used    | Meaning                              |
 |--------------|--------------------------------------|
-|lingua franca |A common language used by speakers of different languages |
-|competent     | (of a person) efficient and capable. |
-|imperative    | of vital importance; crucial.        |
-|seldom        | rarely                               |
+|Lingua franca |A common language used by speakers of different languages |
+|Competent     | (of a person) efficient and capable. |
+|Imperative    | of vital importance; crucial.        |
+|Seldom        | rarely                               |
 
 ## IELTS TASK 2: WRITING SECTION - TIPS
 
@@ -253,6 +253,24 @@ Firstly, countries with huge youth workforce have enacted rules to force an aver
 Secondly, some countries like Poland, Iceland etc. allow their citizens to work till 70 as these countries are enduring with low workforce and high ageing people, who hold a major share of the population.  Obviously, this has some repercussions over the productivity. But, many people support this idea as this allows them to muster enough money and resources to spend happy and independent life afterwards. For example, Austria,  a country with the highest share of senior citizens, allow people to work till 70, and in order to tackle the issue, the country has announced a skilled migration scheme to attract skilled workers from other countries.
 
 In conclusion, I believe that a retirement age should be selected after intensive research into a country\'s job market, population ratio and other factors impacting society. Also, certain occupations must be vetted differently as they required some specific skills. For example, politicians must not be barred after any age, and similarly, servicemen must get retired after 50.
+
+## ***Solar energy is becoming more and more popular as a source of household energy in may countries around the world. why is this? What are the advantages and disadvantages of solar energy?***
+ 
+Solar power as a source of domestic household energy is becoming more desireable because many individuals and governments are concerned that burning fossil fuels adds carbon to the atmosphere and thus accelerates global warming and climate change. Other fell that nuclear power is potentially unsafe and do not like its associated pollution from radioactive waste. Therefore, many researches and consumers have looked at alternative sources of energy and have found that solar power has many benefits and few drawbacks.
+
+The main advantage of solar energy is that after the initial installation, it is entirely free and renewable and there are no extra costs involved in producing the energy. Solar energy is silent and environmental friendly as well it doesn\'t destroy or poison the eco-system. This is became the row material;sunshine does not need to be extracted or refined, so there are no pollutants or toxic residue produced. Another major advantage is that it is produced where it is needed so there is no energy wasted on transport. This decentralization of the power source not only leads to savings on transmission but also to more self reliant communities the ability to produce their own power is a significant advantages for remote populations.
+
+There are also employment opportunities in the design and development manufacture, installation and maintenance of he new technology for solar panels which are consequently becoming less expressive  more available and much more efficient and maintenance of he new technology for solar panels, which are consequently becoming less expensive more available ans much more efficient.
+
+The greatest drawback of solar power is that it is totally reliant on sunlight, which is not always constant. In fact, there are some regions where it may not be practicable, as it does not work at night. Power from daytime sunshine must be stored in large batteries. In additions, the panels tends to be big and cumbersome. A major drawback for some is that the initial purchase and installation of the equipment is costly.
+
+In my view, the benefits of a clean, quiet, renewable eco-friendly source of energy for outright the drawbacks provided that there is sufficient sunlight available to make this source of power feasible.
+
+|Words used    | Meaning                   |
+|--------------|---------------------------|
+|Cumbersome    |difficult to handle or use |
+|Feasible      |practicable, possible      |
+
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
