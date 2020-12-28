@@ -188,7 +188,7 @@ To conclude, while proficiency in english is a much needed aspect to lead a succ
 |imperative    | of vital importance; crucial.        |
 |seldom        | rarely                               |
 
-## IELTS TASK 2 WRITING SECTION - TIPS
+## IELTS TASK 2: WRITING SECTION - TIPS
 
 <br/>
 
