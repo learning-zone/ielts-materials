@@ -67,6 +67,11 @@ If soil is healthy, it is a living entity teeming with life such as worms, fungi
 
 ## GRAMMARS
 
+* Task Achievement: ?
+* Coherence & Cohesion: ?
+* Lexical resources: ?
+* Grammar: ?
+
 <br/>
 
 ## # ***Collocation***
@@ -190,7 +195,7 @@ To conclude, while proficiency in english is a much needed aspect to lead a succ
 
 ## Q. ***Some people think that having a set retirement age (e.g. 65 years) for everybody, regardless of occupation is unfair. They believe that certain workers deserve to retire and receive a pension at an earlier age. Do you agree or disagree? Which type of workers do you think should benefit from early retirement?***
 
-Since the inception of human civilization the debate over the retirement age is widespread. Although people usually continue working after retirement in most countries retirement is regulated. Some countries with huge youth workforce, allow their citizens to retire early as 50. Similarly countries that struggle with lack of workforce allow people to work more than 60 as 65 or 70 too. However there are few occupations which demand exceptions over age limits. For example: in politics, people work with no age limit as this occupation is paramount and requires significantly long and skilled experience and in the military servicemen are allowed to actively serve till 45 years only as the necessitates impeccable physical fitness and dynamic adaptability.
+Since the inception of human civilization, the debate over the retirement age is widespread. Although people usually continue working after retirement in most countries retirement is regulated. Some countries with huge youth workforce, allow their citizens to retire early as 50. Similarly countries that struggle with lack of workforce allow people to work more than 60 as 65 or 70 too. However there are few occupations which demand exceptions over age limits. For example: in politics, people work with no age limit as this occupation is paramount and requires significantly long and skilled experience and in the military servicemen are allowed to actively serve till 45 years only as the necessitates impeccable physical fitness and dynamic adaptability.
 
 Firstly, countries with huge youth workforce have enacted rules to force an average workers to end their carreras early at an age of 50. Eminently, thi decision is influenced by the requirement to engage maximum workforce to employment. Moreover youth bring extra energy and new innovative ideas to turn job more productive and less costly. However, even in these countries we find retried people working as freelancers after retirement as early retirement for most is not a rewarding experience and in most cases, early retirement doesn\'t suffice all monetary requirement. For example: officially china, a country with the largest youth and overall population doesn\'t allow its citizens to work after 50.
 
