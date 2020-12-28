@@ -220,6 +220,30 @@ To conclude, while proficiency in english is a much needed aspect to lead a succ
 * Use a variety of complex and simple sentences
 * Check your writing for errors
 
+To get an excellent score in the IELTS Task 2 writing section, one of the easiest and most effective tips is structuring your writing in the most solid format. A great argument essay structure may be divided to four paragraphs, in which comprises of four sentences (excluding the conclusion paragraph, which comprises of three sentences).
+
+For we to consider an essay structure a great one, it should be looking like this:
+
+* Paragraph 1 - Introduction
+  * Sentence 1 - Background statement
+  * Sentence 2 - Detailed background statement
+  * Sentence 3 - Thesis
+  * Sentence 4 - Outline sentence
+* Paragraph 2 - First supporting paragraph
+  * Sentence 1 - Topic sentence
+  * Sentence 2 - Example
+  * Sentence 3 - Discussion
+  * Sentence 4 - Conclusion
+* Paragraph 3 - Second supporting paragraph
+  * Sentence 1 - Topic sentence
+  * Sentence 2 - Example
+  * Sentence 3 - Discussion
+  * Sentence 4 - Conclusion
+* Paragraph 4 - Conclusion
+  * Sentence 1 - Summary
+  * Sentence 2 - Restatement of thesis
+  * Sentence 3 - Prediction or recommendation
+
 ## Q. ***Some people think that having a set retirement age (e.g. 65 years) for everybody, regardless of occupation is unfair. They believe that certain workers deserve to retire and receive a pension at an earlier age. Do you agree or disagree? Which type of workers do you think should benefit from early retirement?***
 
 Since the inception of human civilization, the debate over the retirement age is widespread. Although people usually continue working after retirement in most countries retirement is regulated. Some countries with huge youth workforce, allow their citizens to retire early as 50. Similarly countries that struggle with lack of workforce allow people to work more than 60 as 65 or 70 too. However there are few occupations which demand exceptions over age limits. For example: in politics, people work with no age limit as this occupation is paramount and requires significantly long and skilled experience and in the military servicemen are allowed to actively serve till 45 years only as the necessitates impeccable physical fitness and dynamic adaptability.
