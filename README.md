@@ -283,7 +283,13 @@ In conclusion, I strongly support the idea of making physical exercise and sport
 |--------------|---------------------------|
 |Sedentary     |Requiring sitting or little activity |
 
-## Q. ***Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects like philosophy and history and only offers practical degree courses that maximize changes of employment. To what extends do you agree or degree?***  
+## Q. ***Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects like philosophy and history and only offers practical degree courses that maximize chances of employment. To what extends do you agree or degree?***
+
+Student spend a great deal of time and money on tertiary study, therefore, vocational subjects would be a better investment in terms of immediate job opportunities. However, not everyone has an aptitude for science, engineering or medical. and there is a need for graduates with expertise gained from arts courses.
+
+In Subjects such as philosophy students learn a valuable set of skills. They became active thinkers who lear how to solve problems, rather than passive learners who memorize facts and other peoples ideas. Philosophy students become proficient at scritical and moral thinking argumentation and debate. The ability to examine and analyse topical issue or challenge the status quo is very important. After all, someone needs to questions the results or indeed the usefulness of science research, the politicians assertions and historical events and assumptions in general. What is more scandals in business and government emphasis the need for ethics in the corporate and public domain. The science and business are clearly very important for our community and those who have talent should of course purse a university degree and a carrier in those fields. If however, they also have training in logic and analytical thinking or a broad general knowledge from studying arts subjects they are more likely to be able to solve problems, cerate initiatives, identify bias and avoid major pitfalls as they progress through their carriers.
+
+In short, I whole eartedly disagree wih the statement that arts subjects should not be taught. I suggest that every student should have instruction in philosophy, histroy or other arts subjects even if they elect to major in the sciences, because learninng cirtical thinking skills and developing a wide background knowledge will benefit them enormously in later life. In addition to this general training, we nedd specialiest graduates is arts, subjects to make their contribution to a well-rounded society.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
