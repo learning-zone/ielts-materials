@@ -281,7 +281,7 @@ In conclusion, I strongly support the idea of making physical exercise and sport
 
 |Words used    | Meaning                   |
 |--------------|---------------------------|
-|sedentary     |Requiring sitting or little activity |
+|Sedentary     |Requiring sitting or little activity |
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
