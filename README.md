@@ -283,7 +283,7 @@ In conclusion, I strongly support the idea of making physical exercise and sport
 |--------------|---------------------------|
 |Sedentary     |Requiring sitting or little activity |
 
-## Q. ***Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects like philosophy and history and only offers practical degree courses that maximize chances of employment. To what extends do you agree or degree?***
+## Q. ***Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects, like philosophy and history and only offer practical degree courses that maximise chances of employment. To what extent do you agree or disagree?***
 
 Student spend a great deal of time and money on tertiary study, therefore, vocational subjects would be a better investment in terms of immediate job opportunities. However, not everyone has an aptitude for science, engineering or medical. and there is a need for graduates with expertise gained from arts courses.
 
