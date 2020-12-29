@@ -254,8 +254,8 @@ Secondly, some countries like Poland, Iceland etc. allow their citizens to work 
 
 In conclusion, I believe that a retirement age should be selected after intensive research into a country\'s job market, population ratio and other factors impacting society. Also, certain occupations must be vetted differently as they required some specific skills. For example, politicians must not be barred after any age, and similarly, servicemen must get retired after 50.
 
-## ***Solar energy is becoming more and more popular as a source of household energy in may countries around the world. why is this? What are the advantages and disadvantages of solar energy?***
- 
+## Q. ***Solar energy is becoming more and more popular as a source of household energy in may countries around the world. why is this? What are the advantages and disadvantages of solar energy?***
+
 Solar power as a source of domestic household energy is becoming more desirable because many individuals are concerned that burning fossil fuels adds carbon to the atmosphere and thus accelerates global warming and climate change. Carbon emitted in the atmosphere from burning fuels has turned people to use alternative sources of energy. They have found that solar power has many benefits and fewer drawbacks.
 
 To begin with, the main advantage of solar energy is that after the initial installation, it is entirely free and renewable. Hence, there are no extra costs involved in producing the energy which is never going to expire. Individuals will continue to get solar energy as long as the Sun is there. Moreover, it is silent and environmentally friendly as well it does not destroy and poison the ecosystem. This is because the raw material -sunshine- does not need to be extracted. It has the capability to produce power in remote areas that are not necessarily connected to a power grid. A prime example of this is in space, where satellites are controlled by high productivity solar cells. The establishment of solar panels in remote areas is substantially more financially savvy than laying expensive voltage wires.
