@@ -279,6 +279,10 @@ Moreover, these exercises and sports help children to fight their sedentary life
 
 In conclusion, I strongly support the idea of making physical exercise and sports compulsory in primary and secondary learning institutions because sports benefit the overall growth and development of children.
 
+|Words used    | Meaning                   |
+|--------------|---------------------------|
+|sedentary     |Requiring sitting or little activity |
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
