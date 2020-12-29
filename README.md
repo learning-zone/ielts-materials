@@ -269,17 +269,15 @@ To conclude, the benefits of a clean, quiet, and eco-friendly source of energy f
 |Cumbersome    |difficult to handle or use |
 |Feasible      |practicable, possible      |
 
-## Q. It is generally accepted that exercise is good for children and teenagers. Therefore, physical education and sport should be compulsory for all students in all schools. What do you think? Give reasons for your answers and include any relevant examples from your own knowledge or experience.
+## Q. ***It is generally accepted that exercise is good for children and teenagers. Therefore, physical education and sport should be compulsory for all students in all schools. What do you think? Give reasons for your answers and include any relevant examples from your own knowledge or experience.***
 
-Exercise is important throughout life for all age groups in order to maintain both physical heath and mental wellbeing. Making sports instruction and physical education mandatory for all able bodied school students is a good idea, because it establishes beneficial exercise habits and enhances other aspects of their lives.
+According to a large number of people, exercise is good for young children and teenagers. Hence, schools should make physical education and sports mandatory for all students. In my opinion, I completely agree with this idea of giving importance to physical education and sport in the school curriculum.
 
-Sports is a great source of lessons for life. It teaches us to take nothing for grated and to treat others with respect. The smug individual or over confident team is always vulnerable and may be beaten by an opponent with less obvious skill but more tenacity and determination. Sport teaches us how to behave or how not to behave in defeat. Maintaining composure in the face of disappointment is a like skill well worth mastering, as is the ability to recover quickly after setbacks.
+To start with, exercise is the key to physical and mental health. It keeps the body of a child active and brings enthusiasm in him to complete other activities during the day. As most of the physical exercises are done in open grounds, they give young people a chance to connect with the nature. In addition, youngsters who play sports on a regular basis learn to accept success and defeat gracefully. These players get to compare their performance with each other and get encouraged to perform better. Team spirit is also one of the major benefits of playing sports which includes team participation.
 
-Sports teaches us concentration, discipline and a good works ethic ( essential for academic achievement as well). It is only by training hard, staying focused and exercising self-control that we attain success. We learn a lot about competition but sport teaches us restraint too. We need to keep a cool head in the midst of intense pressure to have a hance winning. To be calm and composed under pressure is an enormous advantage at exam time.
+Moreover, these exercises and sports help children to fight their sedentary lifestyle. For example, a child who has a sports competition next week will practice his skills at home as well. It also encourages the parents to spend their time with their children to train them for the league. This makes the entire family shift towards a healthy lifestyle that consists of regular physical exercise. Introducing exercise in the school timetable helps students to get a break from the exhaustive academic subjects and return to it with renewed interest. A student who is not very strong at academics gets a wonderful opportunity to build her career in sports if these sports are taught at school.
 
-Team Sports also teach us how to work a team. Being a team players is rated very highly by employers and knowing how to interact and co-operate with others prepare us not only for the workplace but for the rest of our social lives.
-
-To Conclude, sport definitely ha a place in the school curriculum because students will became fit and active, improve their attitude to study and learn many important life skills. For these reasons all students who are physically able should be required to participate in physical education in addition to their academic subjects. 
+In conclusion, I strongly support the idea of making physical exercise and sports compulsory in primary and secondary learning institutions because sports benefit the overall growth and development of children.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
