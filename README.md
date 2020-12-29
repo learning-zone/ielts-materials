@@ -254,7 +254,7 @@ Secondly, some countries like Poland, Iceland etc. allow their citizens to work 
 
 In conclusion, I believe that a retirement age should be selected after intensive research into a country\'s job market, population ratio and other factors impacting society. Also, certain occupations must be vetted differently as they required some specific skills. For example, politicians must not be barred after any age, and similarly, servicemen must get retired after 50.
 
-## Q. ***Solar energy is becoming more and more popular as a source of household energy in may countries around the world. why is this? What are the advantages and disadvantages of solar energy?***
+## Q. ***Solar energy is becoming more and more popular as a source of household energy in many countries around the world. Why is this? What are the advantages and disadvantages of solar energy?***
 
 Solar power as a source of domestic household energy is becoming more desirable because many individuals are concerned that burning fossil fuels adds carbon to the atmosphere and thus accelerates global warming and climate change. Carbon emitted in the atmosphere from burning fuels has turned people to use alternative sources of energy. They have found that solar power has many benefits and fewer drawbacks.
 
