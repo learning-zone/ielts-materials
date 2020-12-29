@@ -269,6 +269,17 @@ To conclude, the benefits of a clean, quiet, and eco-friendly source of energy f
 |Cumbersome    |difficult to handle or use |
 |Feasible      |practicable, possible      |
 
+## Q. It is generally accepted that exercise is good for children and teenagers. Therefore, physical education and sport should be compulsory for all students in all schools. What do you think? Give reasons for your answers and include any relevant examples from your own knowledge or experience.
+
+Exercise is important throughout life for all age groups in order to maintain both physical heath and mental wellbeing. Making sports instruction and physical education mandatory for all able bodied school students is a good idea, because it establishes beneficial exercise habits and enhances other aspects of their lives.
+
+Sports is a great source of lessons for life. It teaches us to take nothing for grated and to treat others with respect. The smug individual or over confident team is always vulnerable and may be beaten by an opponent with less obvious skill but more tenacity and determination. Sport teaches us how to behave or how not to behave in defeat. Maintaining composure in the face of disappointment is a like skill well worth mastering, as is the ability to recover quickly after setbacks.
+
+Sports teaches us concentration, discipline and a good works ethic ( essential for academic achievement as well). It is only by training hard, staying focused and exercising self-control that we attain success. We learn a lot about competition but sport teaches us restraint too. We need to keep a cool head in the midst of intense pressure to have a hance winning. To be calm and composed under pressure is an enormous advantage at exam time.
+
+Team Sports also teach us how to work a team. Being a team players is rated very highly by employers and knowing how to interact and co-operate with others prepare us not only for the workplace but for the rest of our social lives.
+
+To Conclude, sport definitely ha a place in the school curriculum because students will became fit and active, improve their attitude to study and learn many important life skills. For these reasons all students who are physically able should be required to participate in physical education in addition to their academic subjects. 
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
