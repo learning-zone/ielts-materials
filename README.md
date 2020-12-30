@@ -295,6 +295,20 @@ To conclude, practical subjects, no doubt, increase job opportunities for the pe
 
 ## Q. ***Most people accept that we now live in a globalised world but not everyone agrees that this is beneficial. To what extend is globalisation a positive or negative development?***
 
+Globalisation is here to stay, driven by advances in information technology and resulting in scientific technological and economic progress and increased international trade and investment. It has had  wde-ranging positive and negative effects on employment and economic development, scientific research, language and culture and the environment.
+
+One positive result of globalisation is the global distribution of labour. It is now much easier to move to other countries to find work and this leads to better employment prospects for individuals and to more diverse workspaces. In addition capital and industrial resources have migrated to developing  countries, thus providing local jobs and boosting local economies. It has also resulted in greater contract between different cultures, as travel has become relatively safer and les expensive than it used to be. Ease of communication has encouraged an unprecedented level of global scientific research and co-operation and a subsequent explosion of knowledge and information. 
+
+A downside of this global economy is that when a catastrophe occurs as in the recent global financial crisis  that started in the USA, it affects the whole world. Similarly, when a virus emerges in one region of the world, it spreads rapidly, threatening world wide health. Globalization affect culture and language too; minority languages are dying out because of the necessity of learning english for international business and indigenous cultures are being rejected in favour of a dominant often USA-based culture. Finally, levels of population are rising as countries strive for economic growth and a competitive edge in the global market.
+
+In conclusion, globalisation is a double edged sword that has created jobs and promoted international co-operation but has led to cultural losses, more environmental damage, increased health risks and exposure to economic crises. However, our world will continue to shrink as technology expands and we need to accept globalisation as fact of life in the 21st century.
+
+|Words used    | Meaning                   |
+|--------------|---------------------------|
+|unprecedented |never done or known before. |
+|strive        |make great efforts to achieve something. |
+|dominant      |having power and influence over others. |
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
