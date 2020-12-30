@@ -293,6 +293,8 @@ However, diminishing employment opportunities and increased university fees have
 
 To conclude, practical subjects, no doubt, increase job opportunities for the people and help them with their daily needs. Art subjects, however, are also crucial for the development of the individual and the society. Hence, in my opinion, universities should offer both types of courses.
 
+## Q. ***Most people accept that we now live in a globalised world but not everyone agrees that this is beneficial. To what extend is globalisation a positive or negative development?***
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
