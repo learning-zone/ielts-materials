@@ -1,7 +1,3 @@
-# IELTS WRITING SECTION
-
-<br/>
-
 ## IELTS WRITING: TASK - 1 ( 150 words )
 
 <br/>
