@@ -182,6 +182,16 @@ In conclusion, globalisation is a double edged sword that has created jobs and p
 |strive        |make great efforts to achieve something. |
 |dominant      |having power and influence over others. |
 
+## Q. ***Some people believe the aim of university education is to help graduates get better jobs. Others believe there are much wider benefits of university education for both individuals and society. Discuss both views and give your opinion.***
+
+These days more and more people are making the choice to go to university. While some people are of the opinion that he only purpose of a university education is to improve job prospects, others think that society and the individual benefits in much broader ways.
+
+It is certain true that oe of the main aims of university is to secure a better job. The majority of people want to improve their future career prospects and attending university is one of the best ways to do this as it increases a peoples marketable skills and attractiveness to potential employees. In addition, further education is very expensive for many people so must would not consider it if would not provide them with a more secure future and a higher standard of living. Thus job prospects are very important.
+
+However, there are other benefits for individuals and society. Firstly, the independence of living away from home is a benefit because it helps the student to develop better social skills and improve as a person. A case in point is that many student will have to leave their families, live in halls of residence and meet new friends. A a result, their maturity and confidence will grow enabling them to love more fulfilling lives. Secondly, society will gain from the contribution that the graduates can make to the economy. We are living in a very competitive world, so countries need education people in order to compete and prosper.
+
+Therefore, I believe that although a main aim of university education is to get the best job, there are clearly further benefits. If we continue to prompt and encourage university attendance it will lead to  better future for individual and society.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
