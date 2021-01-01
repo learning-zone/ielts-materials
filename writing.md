@@ -228,7 +228,7 @@ To conclude, parents and teachers both have an equally important role in mouldin
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## Q. ***Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected the types of relationship people make? Has this because a positive or negative development?***
+## Q. ***Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected personal relationships? Has this become a positive or negative development?***
 
 
 <div align="right">
