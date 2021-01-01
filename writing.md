@@ -194,9 +194,23 @@ To sum up, it is important for students to opt for university education. It equi
 
 ## Q. ***Some people think that the main factors influencing a child\'s development these days are things such as television, friends, and music. Others believe that the family still remains more important. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
 
-<p align="center"><b>OR</b></p>
+Nowadays, children have become addicted to electronic items, and also tend to give more importance to their friends and favorite music. Although many argue that these parameters have potential effects on a child's growth, I strongly believe that family plays a vital role in building a child's character. This essay will shed light on both these views.
+
+On one hand, some factors such as television, friends, and music are believed to be have more influence on children. For instance, news reports shown on television keep children updated with latest information around the world. Besides, children also obtain inspiration by watching talent shows on TV. Apart from television, children spend plenty of time with their friends and like listening to music. Friendship teaches them how to be supportive and now maintain trust. Moreover, another benefit music is that it keeps children calm and focused on their studies.
+
+On the other hand, the formation of a child\'s personality is mostly based on the family, in which he has grown up . The basis values such as respect, discipline and right behavior can only be taught by responsible parents. Moreover, a child learns family traditions and religious rituals by observing their elders. For example, during my childhood, I had always followed the footsteps of my parents and grand parents in numerous ways such as white putting on particular clothes according to occasions as well as respectfully treating my guests. Despite the fact that factors external to family have an impact on a child's development, family has the most significant potential to turn a child into a well-behaved adult.
+
+To recapitulate, this essay illustrated that television, friends and music are some of the key factors in the process of a child\'s development; however, family is the most prominent one among these factors.
 
 ## Q. ***Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
+
+Man is a social being and no one can exist as an island. While some people hold the view that parents have the responsibility to teach their children to become a good member of the society, others feel that the school is the best place to learn social values. In my opinion, both the parents and the teachers have an indispensable role in shaping the character of their children.
+
+Firstly, parents are the primary teachers and home is the first school where the personality development of children is initiated. From birth to preschool children are under the sole custody of their parents. They imitate the actions of their parents and for this reason it is important for parents to become a good role model for their children. Parents are the best people to teach them the concept of good and bad. When they are taught to make this distinction from a young age, they are unlikely to go astray when they grow up.
+
+However, parents are not the only influence on children. Teachers at school have an equally important role to play in the formation of their character. The school is essentially a microcosm of the universe. Here the children get to interact with other children of different character, personality and family backgrounds. This exposure that they get at school plays a crucial role in the formation of their parents. It is the duty of parents to instil in them the values of discipline and social commitment.
+
+To conclude, parents and teachers both have an equally important role in moulding the character of children. In my opinion, their roles are complementary.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
