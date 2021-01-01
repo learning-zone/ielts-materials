@@ -192,6 +192,12 @@ However, graduating from university has many other benefits too. Students become
 
 To sum up, it is important for students to opt for university education. It equips them with the skills to grow professionally and also enhance their overall personality and character.
 
+## Q. ***Some people think that the main factors influencing a child\'s development these days are things such as television, friends, and music. Others believe that the family still remains more important. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
+
+<h2><p align="center"><b>OR</b></p></h2>
+
+## Q. ***Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
