@@ -182,6 +182,10 @@ In conclusion, globalisation is a double edged sword that has created jobs and p
 |strive        |make great efforts to achieve something. |
 |dominant      |having power and influence over others. |
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 ## Q. ***Some people believe the aim of university education is to help graduates get better jobs. Others believe there are much wider benefits of university education for both individuals and society. Discuss both views and give your opinion.***
 
 University education is very important for the personal and professional growth of students and has various advantages. While some people might think that it is only useful for getting a good job, in my opinion, it enhances the overall personality of the student and thus offers multiple benefits.
@@ -191,6 +195,10 @@ Firstly, in my opinion, university education helps in building a very strong pro
 However, graduating from university has many other benefits too. Students become smart, independent and it enhances their all round development. For instance, students get a chance to organise inter-college events, educational trips and college festivals which boost up their confidence. They learn to socialize with their class and roommates and help each other in studies, health and so on. They also get chance to work on projects which gives practical experience. Education till high school is focussed and students stay at home. University education helps them to build a family away from family, enjoy life, polish their skills and learn about different cultures. Even if a student does not get direct college placement, he is well qualified to apply and get best offers from companies. University students have started to organize health awareness programs, teaching and other campaigns which benefit social causes. These campaigns / such initiatives empower the youth and contribute to the society.
 
 To sum up, it is important for students to opt for university education. It equips them with the skills to grow professionally and also enhance their overall personality and character.
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 ## Q. ***Some people think that the main factors influencing a child\'s development these days are things such as television, friends, and music. Others believe that the family still remains more important. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
 
@@ -202,6 +210,10 @@ On the other hand, the formation of a child\'s personality is mostly based on th
 
 To recapitulate, this essay illustrated that television, friends and music are some of the key factors in the process of a child\'s development; however, family is the most prominent one among these factors.
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 ## Q. ***Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
 
 Man is a social being and no one can exist as an island. While some people hold the view that parents have the responsibility to teach their children to become a good member of the society, others feel that the school is the best place to learn social values. In my opinion, both the parents and the teachers have an indispensable role in shaping the character of their children.
@@ -211,6 +223,13 @@ Firstly, parents are the primary teachers and home is the first school where the
 However, parents are not the only influence on children. Teachers at school have an equally important role to play in the formation of their character. The school is essentially a microcosm of the universe. Here the children get to interact with other children of different character, personality and family backgrounds. This exposure that they get at school plays a crucial role in the formation of their parents. It is the duty of parents to instil in them the values of discipline and social commitment.
 
 To conclude, parents and teachers both have an equally important role in moulding the character of children. In my opinion, their roles are complementary.
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected the types of relationship people make? Has this because a positive or negative development?***
+
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
