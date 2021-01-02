@@ -230,6 +230,13 @@ To conclude, parents and teachers both have an equally important role in mouldin
 
 ## Q. ***Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected personal relationships? Has this become a positive or negative development?***
 
+Advancements in technology have changed the way we interact with one another. People often debate whether this development has any negative impact on relationships. In my opinion, although technology has some negative aspects, its impact on our lives has been largely positive. The most important benefit of advanced communication tools is that they enable us to receive instant replies from the other person.
+
+Earlier, people had to wait for a longer time to get reply from the other person. However, with the advances of technology, an individual can communicate from any corner of the world without any interference or dependency on others. For example, the postman used to take days to deliver messages from sender to receiver because that message had to physically travel from its source to the destination. However, same message could be delivered instantly to the other person through digital applications like WhatsApp and Skype.
+
+On the other hand, there is an argument that new age technologies have made people less sociable. They do not interact with their family members or neighbors because they are busy communicating with their virtual friends on Facebook or Twitter. This is certainly an alarming development. Even so, these applications help people to remain in contact with each other even if they are located in faraway places. Using services like Facebook or Instagram, we can keep ourselves updated about the happenings in the lives This is because these platforms provide all the updates about the individual events in life like birthday, hobbies and many others, and these offer an opportunity to the people to interact with one another. By contrast, this was not possible in earlier years, because as a human one cannot remember every aspect of others’ life. Hence, these technologies have brought people closer than before.
+
+In conclusion, new communication tools have certainly made people less sociable; however, they also allow us to stay in constant touch with our near and dear ones wherever they may be. In my opinion, if these tools are used responsibly they are a boon to mankind.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
