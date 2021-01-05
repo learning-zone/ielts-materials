@@ -22,7 +22,7 @@ Plastic is the least recycled material. The recycling of plastic started around 
 
 <br/>
 
-**1. TASK ACHIEVEMENT: 9.0**
+**1. TASK ACHIEVEMENT: (25%)**
 
 * Answer all parts of the question
 * Present relevant ideas
@@ -30,7 +30,7 @@ Plastic is the least recycled material. The recycling of plastic started around 
 * Support ideas with relevant, specific examples
 * Word Count
 
-**2. COHERENCE AND COHESION: 9.0**
+**2. COHERENCE AND COHESION: (25%)**
 
 * Structure your answers in logical paragraphs
 * One main idea per paragraph
@@ -39,13 +39,13 @@ Plastic is the least recycled material. The recycling of plastic started around 
 * Use cohesive linking words accurately and appropriately
 * Vary your linking phrases using synonyms
 
-**3. LEXICAL RESOURCE: 9.0**
+**3. LEXICAL RESOURCE: (25%)**
 
 * Try to vary your vocabulary using accurate synonyms
 * Use less common question specific words that accurately convey meaning
 * Check your work for spelling and word formation mistakes
 
-**4. GRAMMATICAL RANGE: 9.0**
+**4. GRAMMATICAL RANGE: (25%)**
 
 * Use a variety of complex and simple sentences
 * Check your writing for errors
