@@ -329,6 +329,8 @@ There are two questions to answer:
 
 <br/>
 
+**Sample Answer:**
+
 Over the last half-century, there has been a dramatic increase in the number of vehicles. This has resulted in numerous traffic jams especially in the big cities and consequently, high levels of air pollution. Although, there are those who believe that increasing oil prices might help solve this problem. I am strongly inclined to believe that higher petrol prices will have serious drawbacks on our society.
 
 Firstly, oil and gas play a fundamental role in the industry, since most of the heavy machinery used in different industries are operated by petrol. For example, a recent study conducted in Japan has revealed that the nearly 80% of all businesses are sensitive to the price of petrol. In addition, higher prices of petrol will indirectly influence the prices of the various goods in the market through increasing the cost of their transportation. Lastly, this will burden the people and limit their freedom to travel to enjoy their leisure time. Undoubtedly, the growth of oil and gas prices will create new problems.
@@ -387,6 +389,20 @@ Solutions: **What measures could be taken to solve these problems?**
 * A healthy lifestyle, balance diet, exercise, outdoor activities can reduce this problem to a great extent.
 * Monitoring packet foods and fast food items and their ingredients by the food authority are required to control the quantity of fats and sugars these items contain.
 * Walking, making face-to-face communication and using the bicycle whenever possible.
+
+<br/>
+
+**Sample Answer:**
+
+Despite knowing the detrimental impact of obesity on health, people around the world are getting heavier than before. This essay will examine the major causes of this issue and suggest some viable solutions to tackle it.
+
+The main causes of increasing body weight and decreasing fitness levels are the sedentary lifestyle of people and excessive consumption of junk food. Fast food companies are spending millions of dollars to promote their products on TV and the internet. These commercials make unhealthy food seem extremely tempting and mouth-watering. As a result, people especially children unconsciously gorge on them. Unfortunately, excessive consumption of junk leads to obesity and health problems because obese people are more likely to develop diabetes and heart trouble.
+
+Another factor contributing to growing cases of obesity is the sedentary lifestyle of people. Due to the growing academic and work pressure, children as well as adults do not get enough time to work out. Worse, even when people are free, instead of working out in a gym, they prefer to watch a movie on the TV or computer. This way of life has a negative impact on their health.
+
+Promoting health awareness among people and enforcing strict censorship on food advertisements are the best ways to combat this issue. The government and the media should inform people of the harmful consequences of leading an inactive life. Once the public are aware of the negative effect of obesity, they are more likely to take actions to change their lifestyle. Another solution is to ban misleading food advertisements that target children. The government must ensure that food companies are not promoting unhealthy food as healthy.
+
+To conclude, there is no denying the fact that the growing cases of obesity and decreasing levels of health are a major concern around the world. To combat this issue, the government should launch health awareness campaigns and ban misleading ads that encourage the consumption of fast food.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
