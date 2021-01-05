@@ -82,6 +82,8 @@ For we to consider an essay structure a great one, it should be looking like thi
   * Sentence 2 - Restatement of thesis
   * Sentence 3 - Prediction or recommendation
 
+<br/>
+
 **STEP 1: INTRODUCTION**
 
 * **Repeat the question in your own words**
