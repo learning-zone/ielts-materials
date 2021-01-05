@@ -24,16 +24,16 @@ Plastic is the least recycled material. The recycling of plastic started around 
 
 **1. TASK ACHIEVEMENT: (25%)**
 
-* Answer all parts of the question
-* Present relevant ideas
-* Fully explain these ideas
-* Support ideas with relevant, specific examples
-* Word Count
+* Pay attention to ALL issues in the essay question
+* Write about the issues rather than just the general topic
+* Answer the essay question with relevant main points
+* Plan your supporting points so they don’t go off the topic
+* Write over 250 words
 
 **2. COHERENCE AND COHESION: (25%)**
 
-* Structure your answers in logical paragraphs
-* One main idea per paragraph
+* Have either four or five paragraphs but not more and not less
+* Have just one central topic in each body paragraph
 * Include an introduction and conclusion
 * Support main points with an explanation and then an example
 * Use cohesive linking words accurately and appropriately
@@ -41,14 +41,22 @@ Plastic is the least recycled material. The recycling of plastic started around 
 
 **3. LEXICAL RESOURCE: (25%)**
 
+* Pay attention to collocations (which verb matches which noun)
+* Paraphrase carefully to avoid errors
 * Try to vary your vocabulary using accurate synonyms
 * Use less common question specific words that accurately convey meaning
 * Check your work for spelling and word formation mistakes
+* Avoid using informal language
 
 **4. GRAMMATICAL RANGE: (25%)**
 
 * Use a variety of complex and simple sentences
 * Check your writing for errors
+* Use different grammar tenses (conditionals, perfect tenses, passive voice, past, future etc)
+* Pay attention to word order in your sentences
+* Use a range of sentence structures
+* Use the correct punctuation (full stops and commas)
+* Avoid errors in grammar (articles, plural nouns, uncountable nouns, word order)
 
 To get an excellent score in the IELTS Task 2 writing section, one of the easiest and most effective tips is structuring your writing in the most solid format. A great argument essay structure may be divided to four paragraphs, in which comprises of four sentences (excluding the conclusion paragraph, which comprises of three sentences).
 
