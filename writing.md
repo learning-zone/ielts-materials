@@ -244,6 +244,34 @@ In conclusion, new communication tools have certainly made people less sociable;
 
 ## Q. Increasing the price of petrol is the best way to solve growing traffic and pollution problems. To what extent do you agree or disagree? What other measures do you think might be effective?
 
+There are two questions to answer:
+
+1. Do you think increasing the price of petrol is the best way to solve growing traffic and pollution problems?
+2. What other measures do you think might be effective to solve traffic and pollution problems?
+
+* **Increasing the price of petrol:**
+
+  * if the price is increased, less people will be able to afford it
+  * if less people can afford petrol, less people will drive cars
+  * if less people drive cars, there will be less congestion on the roads
+  * if less people drive, there will be less air pollution
+
+* **Other ways to solve traffic and pollution problems:**
+
+  * traffic problems can be solved by improving public transport to encourage more people to use it rather than to  use their own cars
+  * public transport can be improved by having more public transport available, making it more punctual and reducing the price of tickets to make it more affordable to the average person
+  * another measure is to have no traffic zones in city centers which will  reduce both congestion and pollution in urban centers.
+
+<br/>
+
+Over the last half-century, there has been a dramatic increase in the number of vehicles. This has resulted in numerous traffic jams especially in the big cities and consequently, high levels of air pollution. Although, there are those who believe that increasing oil prices might help solve this problem. I am strongly inclined to believe that higher petrol prices will have serious drawbacks on our society.
+
+Firstly, oil and gas play a fundamental role in the industry, since most of the heavy machinery used in different industries are operated by petrol. For example, a recent study conducted in Japan has revealed that the nearly 80% of all businesses are sensitive to the price of petrol. In addition, higher prices of petrol will indirectly influence the prices of the various goods in the market through increasing the cost of their transportation. Lastly, this will burden the people and limit their freedom to travel to enjoy their leisure time. Undoubtedly, the growth of oil and gas prices will create new problems.
+
+On the other hand, there are some other ways to tackle traffic and pollutions problem in cities. To begin with, improving methods of public transportation as well as the increase in their availability everywhere around the clock, will significantly reduce the use of private cars. To illustrate, a recent study published in Canada has shown that the upward trend in the various means of public transportation such as buses and trains resulted in decrease the number of traffic jams and road accidents by around 25%. Moreover, the government should invest more on repairing and maintaining roads as well as constructing  new roads to solve the problem and traffic congestion. Furthermore, the scientists should search for the sources of clean energy such as solar power and nuclear power to replace the fossil fuel.
+
+To sum up, it can be clearly seen that the cons of increasing petrol prices outweigh the pros hence I am strongly against the idea of increasing gasoline prices. Government and scientists can prevent the situation from further deterioration through new mobility solutions and innovation in renewable energy.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
