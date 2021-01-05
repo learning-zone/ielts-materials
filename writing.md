@@ -88,9 +88,7 @@ For we to consider an essay structure a great one, it should be looking like thi
 
 * **Repeat the question in your own words**
 
-In the essay introduction, you should start by repeating the question. This does NOT mean that you should COPY the question.
-
-You should say the question again, but using different words that mean the same thing (synonyms).
+In the essay introduction, you should start by repeating the question. This does NOT mean that you should COPY the question. You should say the question again, but using different words that mean the same thing (synonyms).
 
 For example, if your question was something like: Some people believe that capital punishment should never be used. Others believe that it could be used for the most serious crimes. Discuss both views and give your opinion.
 
