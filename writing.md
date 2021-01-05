@@ -82,6 +82,63 @@ For we to consider an essay structure a great one, it should be looking like thi
   * Sentence 2 - Restatement of thesis
   * Sentence 3 - Prediction or recommendation
 
+**STEP 1: INTRODUCTION**
+
+* **Repeat the question in your own words**
+
+In the essay introduction, you should start by repeating the question. This does NOT mean that you should COPY the question.
+
+You should say the question again, but using different words that mean the same thing (synonyms).
+
+For example, if your question was something like: Some people believe that capital punishment should never be used. Others believe that it could be used for the most serious crimes. Discuss both views and give your opinion.
+
+Then the opening sentence of your introduction should use synonyms to say the question again in your own words. for example: It is a commonly held belief that the death penalty is a Draconian penalty and not appropriate in modern society. However, there is also an argument that the most despicable crimes should have this most severe of punishments.
+
+* **Give your opinion**
+
+As soon as you have restated the question, then give your opinion on the subject. This gives the examiner an overview of what is to come in your essay.
+
+It is important to note that it does not matter what your opinion is! There is no right or wrong answer to an IELTS essay question. You do NOT have to try and think "What will the examiner think is the right answer here". The examiner is only interested in the level of your English. So just give your first instinct opinion and don\'t try to out-think yourself.
+
+**STEP 2: Support your opinion**
+
+Now that you have given your opinion, you need to back it up. The best way to do this is to give examples.
+
+You can begin this paragraph with phrases like:
+
+Personally, I believe that...
+From my point of view...
+I am convinced that...
+In my opinion...
+In my view...
+
+So, if your opinion was that you are against capital punishment, then as an example you could write about situations where people have been jailed for life for murder and then decades later they have been released as they were proven to be innocent. The relevant vocabulary here is "a miscarriage of justice".
+
+Your argument would be that when a miscarriage of justice occurs, the prisoner would most likely have faced the death penalty and would have been killed even though they were innocent.
+
+Another example could be that many murders are committed in 'hot blood' and often as an 'act of passion'.. This means that the murder was so angry about something that they were not thinking properly.
+
+**STEP 3: Give the other side of the argument**
+
+In your next paragraph, you should look at the question from the opposite viewpoint to yours. This shows the examiner that you have balance in your writing and it is a sign of a good essay.
+
+You can start this paragraph with phrases such as:
+
+It can also be argued that...
+Someone who held the opposing view would say that...
+However, there is also another side to this discussion.
+In contrast, some people hold the view that...
+
+**STEP 4: Conclusion - Summarise your opinion**
+
+To finish off your IELTS task 2 essay, you need to summarise your whole argument as a conclusion. Essentially, this means that you give your opinion again that you stated in the introduction.
+
+To prove to the IELTS examiner that you have a good command of English vocabulary you should try again to use synonyms and not just copy your previous sentence. Now, you can add your expanded arguments (from step 2) into your opinion.
+
+A conclusion that weighs up the arguments already mentioned is a really good opportunity to use a conditional sentence.
+
+If capital punishment was reintroduced into society, I do not believe that it would act as a deterrent for heinous crimes. It is my strongly held belief that the death penalty would only result in future miscarriages of justice that serve no purpose in civilised society.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
