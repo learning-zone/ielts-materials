@@ -340,3 +340,9 @@ To sum up, it can be clearly seen that the cons of increasing petrol prices outw
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. In some countries, the average weight of people is increasing and their level of health and fitness is decreasing. What do you think are the causes of these problems and what measures could be taken to solve them?
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
