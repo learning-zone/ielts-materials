@@ -343,6 +343,51 @@ To sum up, it can be clearly seen that the cons of increasing petrol prices outw
 
 ## Q. In some countries, the average weight of people is increasing and their level of health and fitness is decreasing. What do you think are the causes of these problems and what measures could be taken to solve them? Give reasons for your answer and include any relevant examples from your own knowledge or experience.
 
+### IDEA GENERATION
+
+**Essay Type: Causes and Solutions**
+
+**Causes:** Why people\'s weight is increasing and their health condition and fitness are decreasing in many countries?
+
+* The popularity of eating high-calorie fast foods across the world.
+* People have become less active than before due to changing of lifestyle (Using more private vehicles, using  machines to do their tasks, or sitting in front of the computer and TV).
+* The role of food advertisement in the media, which has tremendously increased the rate of obesity among children.
+* Producing more variety of high caloric food products by food companies compared to the past.
+* Shortage of health budget in some developing countries due to overpopulation and obese patients are less monitored by doctors.
+* Trusting to other commercial methods for weight losing. People have less monitoring on their weight because they think there are better methods than sports to lose their weights.
+* The role video games and computer games on children\'s inactivity.
+* People\'s busy lifestyle forced them to depend on fast foods rather than cooking meals at home.
+* Parents' carelessness often causes obesity among children.
+* Ready to eat foods like chips, cheese and packet foods do more damage to our digestion system.
+* The GM (Genetically Modified) foods contain high fats and we are consuming these GM foods every day.
+* People\'s diet habit often makes them eat a large amount of food at a time rather than eating it in installments. 
+* Lack of awareness, sedentary lifestyle and lack of exercise.
+* People\'s choices of tasty but unhealthy foods lead them to gain weight.
+
+**Solutions:** What measures could be taken to solve these problems?
+
+* A healthy diet could be the best solution to tackle the obesity and health related issues.
+* Restricted legislation on TV food advertisements by governments.
+* School authorities must encourage young to do more daily exercise.
+* Timely consumption of meals and ensuring that they are full of nutrition\'s is the key factor in living a healthy lifestyle.
+* Considering more substantial health budget for obesity and its side effects.
+* Avoiding GM foods and eating more fresh and organic vegetables and fruits.
+* Popularizing bicycle as a more leading method of transportation in many cities.
+* Increasing the number of sports facilities.
+* Increasing sports facilities in schools and encouraging children to do exercise more.
+* Commercial methods for losing must be banned by health authorities.
+* Increasing the awareness of people about the heinous effects of obesity.
+* Parents should be more attentive to their children\'s health.
+* Arranging sports and exercise facilities at the workplaces.
+* People must be trained by the local council about how much is obesity dangerous for their health.
+* Unhealthy foods must be banned from schools.
+* Drinking a lot of water every day and avoiding alcohol totally.
+* Avoiding fast food and drinks that contain high fat and sugar.
+* Having more trained teachers who know more about children\'s diet.
+* A healthy lifestyle, balance diet, exercise, outdoor activities can reduce this problem to a great extent.
+* Monitoring packet foods and fast food items and their ingredients by the food authority are required to control the quantity of fats and sugars these items contain.
+* Walking, making face-to-face communication and using the bicycle whenever possible.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
