@@ -345,9 +345,9 @@ To sum up, it can be clearly seen that the cons of increasing petrol prices outw
 
 ### IDEA GENERATION
 
-**Essay Type: Causes and Solutions**
+Essay Type: **Causes and Solutions**
 
-**Causes:** Why people\'s weight is increasing and their health condition and fitness are decreasing in many countries?
+Causes: **Why people\'s weight is increasing and their health condition and fitness are decreasing in many countries?**
 
 * The popularity of eating high-calorie fast foods across the world.
 * People have become less active than before due to changing of lifestyle (Using more private vehicles, using  machines to do their tasks, or sitting in front of the computer and TV).
@@ -364,7 +364,7 @@ To sum up, it can be clearly seen that the cons of increasing petrol prices outw
 * Lack of awareness, sedentary lifestyle and lack of exercise.
 * People\'s choices of tasty but unhealthy foods lead them to gain weight.
 
-**Solutions:** What measures could be taken to solve these problems?
+Solutions: **What measures could be taken to solve these problems?**
 
 * A healthy diet could be the best solution to tackle the obesity and health related issues.
 * Restricted legislation on TV food advertisements by governments.
