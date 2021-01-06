@@ -318,16 +318,16 @@ There are two questions to answer:
 
 **1. Increasing the price of petrol:**
 
-  * if the price is increased, less people will be able to afford it
-  * if less people can afford petrol, less people will drive cars
-  * if less people drive cars, there will be less congestion on the roads
-  * if less people drive, there will be less air pollution
+  * If the price is increased, less people will be able to afford it
+  * If less people can afford petrol, less people will drive cars
+  * If less people drive cars, there will be less congestion on the roads
+  * If less people drive, there will be less air pollution
 
 **2. Other ways to solve traffic and pollution problems:**
 
-  * traffic problems can be solved by improving public transport to encourage more people to use it rather than to  use their own cars
-  * public transport can be improved by having more public transport available, making it more punctual and reducing the price of tickets to make it more affordable to the average person
-  * another measure is to have no traffic zones in city centers which will  reduce both congestion and pollution in urban centers.
+  * Traffic problems can be solved by improving public transport to encourage more people to use it rather than to  use their own cars
+  * Public transport can be improved by having more public transport available, making it more punctual and reducing the price of tickets to make it more affordable to the average person
+  * Another measure is to have no traffic zones in city centers which will  reduce both congestion and pollution in urban centers.
 
 <br/>
 
