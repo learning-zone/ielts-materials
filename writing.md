@@ -413,3 +413,9 @@ To conclude, there is no denying the fact that the growing cases of obesity and 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. ***Some people think that it is better to educate boys and girls in separate schools. Others, however believe that girls and boys benefits more from attending mixed schools. Discuss both views and give your own opinion.***
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
