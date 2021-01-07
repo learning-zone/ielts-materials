@@ -416,6 +416,51 @@ To conclude, there is no denying the fact that the growing cases of obesity and 
 
 ## Q. ***Some people think that it is better to educate boys and girls in separate schools. Others, however believe that girls and boys benefits more from attending mixed schools. Discuss both views and give your own opinion.***
 
+### IDEA GENERATION
+
+*Essay Type:* **Discuss both views + Opinion**
+
+<br/>
+
+*First View:* **It is better to educate boys and girls in separate schools**
+
+* Better concentration in the class and achieving higher grades because they spend less time on other activities.
+* Reduction the rate of inappropriate sexual relationship.
+* This does not contradict with some religious beliefs like Islamic belief.
+* It is observed that when boys and girls are separated, it would make them more disciplined.
+* Less report of sex discrimination (giving more opportunity to specific gender)
+* In this system, students tend to be more focused on studies rather than being distracted to all fantasies of  teenage.
+* This system is better in terms of students’ engagement in extra-curricular activities like sports.
+
+<br/>
+
+*Second View:* **It is better to have coeducation schools**
+
+* Better communication with opposite gender in real life (work, family, marriage).
+* Participation in more team working.
+* Being respectful to opposite gender.
+* Both genders have different abilities to learn different study materials, so they can help the opposite sex to learn better.
+* Co-education system enhances the understanding between the two genders.
+* Maintaining co-education system would be less costly. Clearly, to divide girls and boys, governments have to spend more money on education.
+* Each gender would be able to co-work as well as participate in competition with the other gender. Such friendly competition and co-working would enhance the overall performance of the students.
+
+**My opinion**
+
+* Both sides of the discussion have indisputable virtues and benefits. However, I agree that co-education system is far better than the unisexual schools. 
+* I opine that separate schooling for boys and girls has far more benefits and that's why I support this system.
+
+<br/>
+
+**Sample Answer:**
+
+Nowadays, the co-educational system is considered as the best option in many countries. Some believe that it is better that young females and males study separately, while others mention that studying together can be more beneficial. I will discuss both sides and will give my opinion.
+
+On the one hand, those believing that education systems should be a separate gender-based system have their own reasons. One is that this method can be safer. Every year, numerous sexual offences are reported by the local or national news, regarding of rape or other inappropriate sexual behaviors, especially in countries permitting both genders to study in one school. However, studying in single-gender-institutions can reduce the rate of these figures. As a prime example, thousands of sexual assaults are reported in the U.S. schools annually but had the government considered unisex education, these rates would have dramatically decreased. Another reason is that this system may raise religious conflicts. In some countries, some opponents are not interested in sending their children to these types of schools, and this has become hot potato between different religious groups. For instance, French Islamic citizens prefer their children to study in a single sex school, whereas the administration admits both genders in one educational place.
+
+On the other hand, I personally give a green light to those supporting co-educational system. The first reason behind it is that this system definitely would be less costly. Clearly, to divide girls and boys, governments have to spend more money on education because they cannot use empty spaces of a female school for a male one, or vice versa. As a result, less educational facilities should be provided for scholars, declining the total education budget. Furthermore, this method can improve students’ communication skills. Obviously, having a better relationship with the opposite sex, juveniles will have a closer relationship not only during their study but during their matrimonial life. They generally have fewer marriage problems with their partner due to having a better experience before. In this way, Sigmund Freud, a very familiar former psychologist, believe that humans’ social skills are fundamentally developed as they have closer feelings to their opposite sex during childhood.
+
+In conclusion, although in some countries co-educational system is not popular, I agree with it. Not only in this measure more governmental budget can be saved, but youth can have better relationships with the opposite gender. Hopefully, a global tendency will propagate this method of education in the near future.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
