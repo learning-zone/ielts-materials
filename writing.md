@@ -464,3 +464,17 @@ In conclusion, although in some countries co-educational system is not popular, 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. The best way to reduce youth crime is to educate their parents with parental skills. To what extent do you agree or disagree?
+
+A number of crimes are happening on the streets of the planet and increasing rapidly. The majority of those crimes are done by youngsters. Some people believe, that educating the parents solely can help decrease these offences, while others are of diverse opinion. In my opinion, society is equally responsible for this and hence teaching skills to parents alone, cannot help in improving this dire situation.
+
+Firstly, society can influence the youngsters to a great extent. As, the young minds are impressionable, they tend to imitate, what they see. To cite an example, a child growing up in high criminal activity sectors, is likely to learn the same acts. Therefore, a crime free society is, the prominent, for resolving this situation. This can be done through strict law enforcement. For instance, If fear is instilled, in the minds of criminals, they are less likely to commit offences.Hence, the chances of youth being exposed to misdeeds, will be significantly reduced, which can help improve the current condition.
+
+On the other hand, parenting skills can help reduce crimes, as this can assist the guardians on how to use adequate techniques to teach discipline, control and balanced supervision and how to set boundaries, when a child disobeys the rules. For example, a survey conducted in 2015, showed that parents who participated in these classes, we're able to avoid their young children, from being involved in criminal offences. These methods are vigorously tested and supported by evidence, which is the reason behind the success of these programs. Hence, it can be said, that parenting skills can assist in bringing down the teen crime rates.
+
+To conclude, community as well as parents is responsible for the increasing offences committed by the minority and hence, in my view, providing parental skills alone cannot reduce the felonies.
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
