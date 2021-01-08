@@ -465,7 +465,7 @@ In conclusion, although in some countries co-educational system is not popular, 
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## Q. The best way to reduce youth crime is to educate their parents with parental skills. To what extent do you agree or disagree?
+## Q. ***The best way to reduce youth crime is to educate their parents with parental skills. To what extent do you agree or disagree?***
 
 A number of crimes are happening on the streets of the planet and increasing rapidly. The majority of those crimes are done by youngsters. Some people believe, that educating the parents solely can help decrease these offences, while others are of diverse opinion. In my opinion, society is equally responsible for this and hence teaching skills to parents alone, cannot help in improving this dire situation.
 
@@ -474,6 +474,22 @@ Firstly, society can influence the youngsters to a great extent. As, the young m
 On the other hand, parenting skills can help reduce crimes, as this can assist the guardians on how to use adequate techniques to teach discipline, control and balanced supervision and how to set boundaries, when a child disobeys the rules. For example, a survey conducted in 2015, showed that parents who participated in these classes, we're able to avoid their young children, from being involved in criminal offences. These methods are vigorously tested and supported by evidence, which is the reason behind the success of these programs. Hence, it can be said, that parenting skills can assist in bringing down the teen crime rates.
 
 To conclude, community as well as parents is responsible for the increasing offences committed by the minority and hence, in my view, providing parental skills alone cannot reduce the felonies.
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Q. ***High school students are usually not good at managing money. What are the reasons? What are the solutions?***
+
+Many young people do not have a basic understanding of financial management when they leave school. This lack of knowledge is primarily due to the upbringing and limited education at school.
+
+One main reason is that the young people are dependent on their parents and they get everything for free until secondary education. Parents always want their children to be happy and successful and in order to achieve that they hide the financial pressure and provide them with sufficient money. The second reason is the curriculum at school. Subjects such as mathematics, science or languages included in the syllabus do not teach real life skills. As a result, both parents and teachers fail to prepare their children for the real world.
+
+This is indeed a cause for concern but fortunately, there are some solutions. Parents should consider giving children a certain amount of money every month and insist that it should last them a whole month. This will encourage the child to monitor their spending habits. As the child grows, they should teach them how household expenses are managed and also involve them in decision making. Apart from these, they can give the child the responsibility of running the household for a day or two.
+
+Secondly, the school authorities ought to include the subject on life management skills in the final year of the curriculum. This will help a student to learn how their finances need to be budgeted and managed.
+
+In conclusion, it is crucial for young people to learn financial management skills apart from the regular course and both parents and teachers play a vital role in achieving this by equipping them with the right knowledge.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
