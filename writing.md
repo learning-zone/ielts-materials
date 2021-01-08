@@ -481,15 +481,13 @@ To conclude, community as well as parents is responsible for the increasing offe
 
 ## Q. ***High school students are usually not good at managing money. What are the reasons? What are the solutions?***
 
-Many young people do not have a basic understanding of financial management when they leave school. This lack of knowledge is primarily due to the upbringing and limited education at school.
+There is no doubt that money has became key ingredient in various walks of our life than before. Teaching financial management to juvenile students is always a topic of debate. Some people feel that teaching money management skill to teenage student s will help them realise the importance of money, while few feel that exposing children to money math at this age may turn fatal. In my view, I agree to fact that higher school student s should be made aware of the money management.
 
-One main reason is that the young people are dependent on their parents and they get everything for free until secondary education. Parents always want their children to be happy and successful and in order to achieve that they hide the financial pressure and provide them with sufficient money. The second reason is the curriculum at school. Subjects such as mathematics, science or languages included in the syllabus do not teach real life skills. As a result, both parents and teachers fail to prepare their children for the real world.
+The reason why I think teenager students need to understand the money management basis is, primarily when secondary school students attain the age of undergoing graduation, student ought to stay in hostels or with friends and away from family during such situations when money management will have increased sense of responsibility and confidence. For example, when I was a kid my father used to do the same for my keep track of my pocket money expenses, during my future course of life this became a practice and help em in planning my expenses.
 
-This is indeed a cause for concern but fortunately, there are some solutions. Parents should consider giving children a certain amount of money every month and insist that it should last them a whole month. This will encourage the child to monitor their spending habits. As the child grows, they should teach them how household expenses are managed and also involve them in decision making. Apart from these, they can give the child the responsibility of running the household for a day or two.
+In addition, If financial management i taught at an early age, students will have better sense of understanding of their family financial background and status, students coming up with unrealistic whims and fancies are minimized. For example, buying a gaming console may not be big deal for a student from an affluent financial background. However, for a student coming from middle class buying a gaming console may not be the need of te hour. Hence, having exposed to money management at a high school level will help them in prioritizing the financial commitment efficiently.
 
-Secondly, the school authorities ought to include the subject on life management skills in the final year of the curriculum. This will help a student to learn how their finances need to be budgeted and managed.
-
-In conclusion, it is crucial for young people to learn financial management skills apart from the regular course and both parents and teachers play a vital role in achieving this by equipping them with the right knowledge.
+In conclusion, I think students understanding the money management technique will have more positive effects than negative impact. However, the teaching should be in a constructive manner and students should not feel that they are being bullied for every expense.
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
