@@ -492,3 +492,9 @@ To conclude, money management is all about making the best use of the available 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
+
+## Q. ***The mobile phone is used both for work and personal phone calls at all times for the days every day of the week. Do you think this has more positive or negative effects both for individuals and society?***
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
