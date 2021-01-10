@@ -495,6 +495,54 @@ To conclude, money management is all about making the best use of the available 
 
 ## Q. ***The mobile phone is used both for work and personal phone calls at all times for the days every day of the week. Do you think this has more positive or negative effects both for individuals and society?***
 
+### IDEA GENERATION
+
+**Pros:**
+
+<br/>
+
+* Being accessible for company work 24/7 is great for business.
+* Customer always have a number to call for problems or enquires.
+* Bosses can keep better contact with their employees.
+* It enables some people to work from home and be more flexible.
+* People can use their phones in emergencies.
+* People will feel safer knowing hey can contact people wherever they are.
+* People can easily and quickly report accidents and get help.
+* Parents can keep contact with their children and offer them more support regardless of where they are.
+* Family member can easily contact each other over long distances.
+* People can feel connected to the wider world.
+* Disabled people are no longer isolated.
+* People in remote areas can have immediate contact with other people.
+
+**Cons:**
+
+<br/>
+
+* Some people use their mobile phones while driving
+* Using mobil phones around certain medical equipment is not safe.
+* Constant use of mobile phones is supposed to be bad for people health.
+* Being accessible for work through a mobile phone 24/7 means lack of rest time and constant stress.
+* Demanding bosses may put too much work pressure on staff.
+* There is not cut off between work and free time.
+* Children may feel bothered by their parents continual surveillance.
+* Children can't escape from peer pressure.
+* If people know you are easily accessible by phone, they will expect to always be able to reach you.
+* Constant calling can exhaust people.
+* Some people continue distance relationship by phone rather than know their neighbors.
+* Local community has less important due to long distance communication.
+
+<br/>
+
+**Sample Answer:**
+
+In the modern world, The technology is upgrade and make life simple such as phone, we used to communicate or answer the office calls and family calls at anytime at anywhere. I think this progress and more positive effect some negative effect. Because it is very comfortable and easy way to learn. However, it's miss used. In the coming paragraphs I will discuss both effects. 
+
+Firstly, The mobile is an electronic gadget which makes life easier and more pleasant. Because it helps to communicate anywhere and we learn a lot of things through this electronic device. Furthermore, it improves our relationship, such as a man who live in United kingdom, he makes a call to contact with their relative. Because he do not come, but he makes better way to talk. Although it is the best device to earn money. For instance, nowadays, some people create a channel on YouTube and share their video with other people, it’s also earn money through steaming to sit at home.
+
+Secondly, this electronic media have some negative effects. If we use over mean whole day this phone will be affected on our eyes and mentally healthy. Therefore, some people do not get information through mobile, they used to acquire bad habits. Moreover, it was the cause of some unemployment. For example, before this improvement people used post offices to send their documents but nowadays people use email to send their papers. These facts Make unemployment.
+
+In conclusion, after analyzing all the information I reach in my opinion, these developments have more positive effects compare with negative affect.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
