@@ -497,9 +497,9 @@ To conclude, money management is all about making the best use of the available 
 
 ### IDEA GENERATION
 
-**Pros:**
-
 <br/>
+
+**Pros:**
 
 * Being accessible for company work 24/7 is great for business.
 * Customer always have a number to call for problems or enquires.
@@ -514,9 +514,9 @@ To conclude, money management is all about making the best use of the available 
 * Disabled people are no longer isolated.
 * People in remote areas can have immediate contact with other people.
 
-**Cons:**
-
 <br/>
+
+**Cons:**
 
 * Some people use their mobile phones while driving
 * Using mobil phones around certain medical equipment is not safe.
