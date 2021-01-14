@@ -549,6 +549,15 @@ In conclusion, after analyzing all the information I reach in my opinion, these 
 
 ## Q. ***Unemployment remains the biggest challenge to school-leavers in most countries. How far do you agree with this assessment? What other challenges face young people today?***
 
+Unemployment is on the rise. In fact, even highly qualified graduates are now finding it difficult to get a job. There are several reasons behind this unfortunate development.
+The ongoing economic crisis is one of the main reasons of unemployment. Recession has forced many organizations to stop hiring new people. As a result, fresh graduates receive no job offer. Even employed people are getting laid off due to the financial turmoil in world’s major economies. It should also be noted that major economies like the US, the UK and Germany have long stopped growing. When economic growth remains stagnant, the need for new talent also diminishes. This is the main reason behind the increase in unemployment in the developed world.
+
+At the same time, there is an increase in the number of people graduating from universities. This is particularly true in the case of developing nations. Thanks to the economic growth in these nations, more and more students can now afford university education. For example, in India, the number of people who graduated in 2016 was significantly higher than the number of people who graduated from universities ten or fifteen years ago. Unfortunately, in spite of its rapid economic growth, the country still does not have enough jobs for all of its people. Another reason that leads to unemployment in developed nations is the outsourcing of jobs to developing nations where cheap labour is available.
+
+Unemployment is likely to be a cause for concern in the coming years too. In my opinion, young graduates should stop waiting for job offers from Fortune 500 companies. Instead, they should find jobs themselves. The internet has actually made this easier. It allows people to sell their products or services to interested parties all over the world. Also, graduates seeking employment must stop the obsession with white collar jobs. If they don’t mind sweating it out, jobs are still available.
+
+To conclude, unemployment can be attributed to two factors – the increase in the number of graduates and the decrease in economic growth. The only way to solve this problem is to encourage people to find employment themselves. This might require them to take up manual jobs but having a job is way better than having none at all.
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
