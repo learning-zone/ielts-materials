@@ -558,6 +558,12 @@ Unemployment is likely to be a cause for concern in the coming years too. In my 
 
 To conclude, unemployment can be attributed to two factors – the increase in the number of graduates and the decrease in economic growth. The only way to solve this problem is to encourage people to find employment themselves. This might require them to take up manual jobs but having a job is way better than having none at all.
 
+|Words used    | Meaning                   |
+|--------------|---------------------------|
+|turmoil       |a state of great disturbance, confusion, or uncertainty. |
+|stagnant      |Not circulating or flowing |
+|obsession     |craze |
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
