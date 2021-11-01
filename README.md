@@ -10,7 +10,6 @@ IELTS (**I**maginative **E**xcellent **L**aid-back **T**uned-in **S**mart)
 * *[Reading](reading.md)*
 * *[Writing](writing.md)*
 * *[Speaking](speaking.md)*
-* *[Vocabulary](vocabulary.md)*
 
 <br/>
 
