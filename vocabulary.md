@@ -2,7 +2,7 @@
 
 ## Vocabulary for IELTS speaking topics
 
-* [Friends and Family](#friends and family)
+* [Friends and Family](#friends-and-family)
 * [Food and Nutrition](#food-and-nutrition)
 * [Travel and Tourism](#travel-and-tourism)
 * [Modern Technology](#modern-technology)
