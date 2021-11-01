@@ -27,34 +27,34 @@
 
 ## Friends and Family
 
-* **A lifelong friend** -- A friend that you have had for most of your life
-* **A relationship of trust** -- a connection with another in which you have faith and confidence
-* **Arrange a dinner date** -- Plan to share an evening meal
-* **A shoulder to cry on** -- Someone to sympathize with you
-* **Close knit family** -- A close family with common interests
-* **Dear to my heart** -- Someone that I care about
-* **Distant cousins** -- People who share a common ancestor but are not closely related
-* **Extend the hand of friendship** -- Reach out to someone in a friendly manner
-* **Extended family** -- Uncles, aunts and cousins form part of the extended family
-* **Face to face** -- In person
-* **Get to know one another** -- Learning different aspects of each other
-* **Get together** -- Meet up
-* **Immediate family** -- Spouse, parents, children, grandparents
-* **Long lost friend** -- A friend that you have lost contact with
-* **Long-term relationships** -- A committed relationship between partners
-* **Nurture our friendships** -- Looking after our relationships with friends
-* **Professional relationships** -- The relationships that we have in the workplace
-* **Relationship problems** -- Difficulties with people with whom we interact regularly
-* **Share a common background** -- The share a similar heritage or culture
-* **Share the same ideas** -- To have similar opinions and views
-* **Stand the test of time** -- To last a long time
-* **Struck up a friendship** -- To make friends
-* **To enjoy someone\'s company** -- To enjoy spending time with someone
-* **To have a good working relationship** -- To work together well
-* **To have a lot in common** -- To have shared interests
-* **To hit it off** -- To like each other straight away
-* **To keep in touch with** -- To keep in contact
-* **To lose touch with** -- To lose contact
+* **A lifelong friend** -  A friend that you have had for most of your life
+* **A relationship of trust** -  a connection with another in which you have faith and confidence
+* **Arrange a dinner date** -  Plan to share an evening meal
+* **A shoulder to cry on** -  Someone to sympathize with you
+* **Close knit family** -  A close family with common interests
+* **Dear to my heart** -  Someone that I care about
+* **Distant cousins** -  People who share a common ancestor but are not closely related
+* **Extend the hand of friendship** -  Reach out to someone in a friendly manner
+* **Extended family** -  Uncles, aunts and cousins form part of the extended family
+* **Face to face** -  In person
+* **Get to know one another** -  Learning different aspects of each other
+* **Get together** -  Meet up
+* **Immediate family** -  Spouse, parents, children, grandparents
+* **Long lost friend** -  A friend that you have lost contact with
+* **Long-term relationships** -  A committed relationship between partners
+* **Nurture our friendships** -  Looking after our relationships with friends
+* **Professional relationships** -  The relationships that we have in the workplace
+* **Relationship problems** -  Difficulties with people with whom we interact regularly
+* **Share a common background** -  The share a similar heritage or culture
+* **Share the same ideas** -  To have similar opinions and views
+* **Stand the test of time** -  To last a long time
+* **Struck up a friendship** -  To make friends
+* **To enjoy someone\'s company** -  To enjoy spending time with someone
+* **To have a good working relationship** -  To work together well
+* **To have a lot in common** -  To have shared interests
+* **To hit it off** -  To like each other straight away
+* **To keep in touch with** -  To keep in contact
+* **To lose touch with** -  To lose contact
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -136,41 +136,41 @@ Answer: I think that it is important to nurture our friendships whether or not w
 
 ## Food and Nutrition
 
-* **A balanced diet** -- A diet that has the right amount of nutrients
-* **A bottle of bubbly** -- Sparkling wine
-* **A decadent chocolate pudding** -- Luxurious or self-indulgent chocolate pudding
-* **A doggy bag** -- The leftovers of a meal in a restaurant taken home
-* **A scrumptious meal** -- A delicious meal
-* **A sweet tooth** -- An enjoyment of sweet food
-* **An English breakfast** -- A large cooked breakfast that includes egg and bacon
-* **Calm the hunger pangs** -- To reduce the discomfort caused by hunger
-* **Candle lit dinner** -- A romantic dinner by candlelight
-* **Covered in a rich sauce** -- Covered in a creamy gravy
-* **Cut down on** -- To reduce consumption
-* **Daily consumption** -- The amount that you eat everyday
-* **Dying of hunger** -- Very hungry
-* **Exotic meals** -- Meals that originate in other countries
-* **Fine dining** -- Food catering to expensive tastes in a formal setting
-* **Food preparation** -- Preparing food
-* **Food production** -- Producing food
-* **Fussy eater** -- Someone dislikes many foods
-* **Home cooked meals** -- Meals cooked at home
-* **Homemade food** -- Food made at home
-* **Junk food** -- Food with little nutritional value
-* **Leafy vegetables** -- Vegetables such as spinach and cabbage
-* **Mouth-watering meals** -- Delicious meals
-* **Nutritious food** -- Food with many nutrients
-* **Packed with vitamins** -- Full of vitamins
-* **Piping hot cup of coffee** -- Very hot coffee
-* **Pub lunch** -- Lunch served in a bar
-* **Rabbit food** -- Salad vegetables
-* **Ready meals** -- Heat and eat meals
-* **Refined carbohydrates** -- Foods such as white rice, white bread
-* **Savouring the food** -- Enjoying the food
-* **Scrumptious meal** -- An exceptionally tasty meal
-* **Seasonal fruits** -- Fruits that grow in season
-* **Starving hungry** -- Extremely hungry
-* **Wining and dining** -- Entertainment that includes good food
+* **A balanced diet** -  A diet that has the right amount of nutrients
+* **A bottle of bubbly** -  Sparkling wine
+* **A decadent chocolate pudding** -  Luxurious or self-indulgent chocolate pudding
+* **A doggy bag** -  The leftovers of a meal in a restaurant taken home
+* **A scrumptious meal** -  A delicious meal
+* **A sweet tooth** -  An enjoyment of sweet food
+* **An English breakfast** -  A large cooked breakfast that includes egg and bacon
+* **Calm the hunger pangs** -  To reduce the discomfort caused by hunger
+* **Candle lit dinner** -  A romantic dinner by candlelight
+* **Covered in a rich sauce** -  Covered in a creamy gravy
+* **Cut down on** -  To reduce consumption
+* **Daily consumption** -  The amount that you eat everyday
+* **Dying of hunger** -  Very hungry
+* **Exotic meals** -  Meals that originate in other countries
+* **Fine dining** -  Food catering to expensive tastes in a formal setting
+* **Food preparation** -  Preparing food
+* **Food production** -  Producing food
+* **Fussy eater** -  Someone dislikes many foods
+* **Home cooked meals** -  Meals cooked at home
+* **Homemade food** -  Food made at home
+* **Junk food** -  Food with little nutritional value
+* **Leafy vegetables** -  Vegetables such as spinach and cabbage
+* **Mouth-watering meals** -  Delicious meals
+* **Nutritious food** -  Food with many nutrients
+* **Packed with vitamins** -  Full of vitamins
+* **Piping hot cup of coffee** -  Very hot coffee
+* **Pub lunch** -  Lunch served in a bar
+* **Rabbit food** -  Salad vegetables
+* **Ready meals** -  Heat and eat meals
+* **Refined carbohydrates** -  Foods such as white rice, white bread
+* **Savouring the food** -  Enjoying the food
+* **Scrumptious meal** -  An exceptionally tasty meal
+* **Seasonal fruits** -  Fruits that grow in season
+* **Starving hungry** -  Extremely hungry
+* **Wining and dining** -  Entertainment that includes good food
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -249,40 +249,40 @@ Answer: I know that food preparation can be time-consuming, but if everyone help
 
 ## Travel and Tourism
 
-* **Affordable destinations** -- Places within a reasonable price range
-* **Affordable travel** -- Travel which is within your price range
-* **Around the world** -- In all corners of the globe
-* **Arts and culture** -- The art, music and other cultural aspects of an area
-* **Craft markets** -- Stalls where goods made by the local people are sold
-* **Do as the locals do** -- Enjoy the activities as the local people do
-* **Efficient public transport** -- A functioning transport system intended for the use of residents and visitors
-* **Exotic destinations** -- Unusual or strange holiday destinations
-* **Get around** -- Get from place to place
-* **Guided tours** -- Walking, hiking or driving visits led by a guide who knows the area
-* **Holiday brochures** -- Pamphlets advertising holiday destinations
-* **Holiday destination** -- Place to which you leave on holiday
-* **Long haul flights** -- Long distance flights
-* **Lush rainforests** -- Luxuriant equatorial forests
-* **Magnificent landscapes** -- Impressive scenery
-* **Make advance reservations** -- Booking ahead of time
-* **Memorable experiences** -- Activities that you will remember for years
-* **Off the beaten track** -- A place that is not on the main thoroughfare
-* **Out of season** -- Outside the most popular holiday period
-* **Packaged deals** -- Travel deals that are put together by an agency and sold as a package
-* **Quaint villages** -- Old fashioned or charming small towns
-* **Scenic views** -- Lovely scenes
-* **Self-catering accommodation** -- A Place to stay where you see to your own food
-* **Spectacular beaches** -- Impressive sandy shorelines
-* **Stunning architecture** -- Magnificent buildings
-* **Swarming with tourists** -- Full of holidaymakers
-* **Time on their hands** -- Available time to do as you choose
-* **To get away from it all** -- To get away from everyday routines
+* **Affordable destinations** -  Places within a reasonable price range
+* **Affordable travel** -  Travel which is within your price range
+* **Around the world** -  In all corners of the globe
+* **Arts and culture** -  The art, music and other cultural aspects of an area
+* **Craft markets** -  Stalls where goods made by the local people are sold
+* **Do as the locals do** -  Enjoy the activities as the local people do
+* **Efficient public transport** -  A functioning transport system intended for the use of residents and visitors
+* **Exotic destinations** -  Unusual or strange holiday destinations
+* **Get around** -  Get from place to place
+* **Guided tours** -  Walking, hiking or driving visits led by a guide who knows the area
+* **Holiday brochures** -  Pamphlets advertising holiday destinations
+* **Holiday destination** -  Place to which you leave on holiday
+* **Long haul flights** -  Long distance flights
+* **Lush rainforests** -  Luxuriant equatorial forests
+* **Magnificent landscapes** -  Impressive scenery
+* **Make advance reservations** -  Booking ahead of time
+* **Memorable experiences** -  Activities that you will remember for years
+* **Off the beaten track** -  A place that is not on the main thoroughfare
+* **Out of season** -  Outside the most popular holiday period
+* **Packaged deals** -  Travel deals that are put together by an agency and sold as a package
+* **Quaint villages** -  Old fashioned or charming small towns
+* **Scenic views** -  Lovely scenes
+* **Self-catering accommodation** -  A Place to stay where you see to your own food
+* **Spectacular beaches** -  Impressive sandy shorelines
+* **Stunning architecture** -  Magnificent buildings
+* **Swarming with tourists** -  Full of holidaymakers
+* **Time on their hands** -  Available time to do as you choose
+* **To get away from it all** -  To get away from everyday routines
 * **To go sightseeing ­– Take a trip around an area to see what it has to offer
-* **Travel abroad** -- Travel to overseas destinations
-* **Travelling light** -- Travelling with little luggage
-* **Value for money** -- A good return on investment
-* **Visa regulations** -- Laws that relate to entry into a country
-* **Wildlife safari** -- A guided tour through a game park
+* **Travel abroad** -  Travel to overseas destinations
+* **Travelling light** -  Travelling with little luggage
+* **Value for money** -  A good return on investment
+* **Visa regulations** -  Laws that relate to entry into a country
+* **Wildlife safari** -  A guided tour through a game park
 
 ## Examples of questions about holiday travel
 
@@ -352,35 +352,35 @@ Answer: My country has stringent visa regulations. If these were relaxed, I thin
 
 ## Modern Technology
 
-* **Access to the Internet** -- Able to connect to the Internet
-* **Advances in technology** -- Progressive forward movement in technology
-* **Back up your files** -- To save your data to another device
-* **Become rapidly obsolete** -- Quickly become out of date
-* **Computer literate** -- Adequate knowledge of a computer
-* **Control remotely** -- To control technology from a distance
-* **Downloading from the Internet** -- Take data off one computer to another via the Internet
-* **Electronic Funds Transfer** -- EFT Payment via the Internet
-* **Emerging technology** -- Brand new machines and software
-* **Glued to the screen** -- Unable or unwilling to leave the digital device
-* **Hacking into the network** -- To gain illegal access to the computer
-* **Internet access** -- The ability to enter the Internet
-* **Internet of Things** -- A network connecting machines in a location so that they can be remotely controlled
-* **Internet-enabled** -- Machines or appliances that have Internet access
-* **Keep a hard copy** -- Keep a paper copy
-* **Labour saving device** -- An appliance that saves work
-* **Not rocket science** -- It is not very difficult
-* **Online piracy** -- The downloading of licenced media without payment
-* **Re-install the programs** -- To put computer programs back onto the computer
-* **Shop online** -- Shop via the Internet
-* **Shut down** -- Turn the computer off
-* **Social media networks** -- Online platforms for communication between people and organisations
-* **State of the art technology** -- The best technology available
-* **Surfing the web** -- To move from one site to another on the Internet
-* **To click on an icon** -- To use the mouse to click on the pictures to get into programs
-* **To crash** -- To stop working suddenly
-* **To Log in** -- To sign onto the computer
-* **To upgrade your computer system** -- To get a larger, quicker or more modern computer
-* **Wireless hotspots** -- A location where the Internet is available
+* **Access to the Internet** -  Able to connect to the Internet
+* **Advances in technology** -  Progressive forward movement in technology
+* **Back up your files** -  To save your data to another device
+* **Become rapidly obsolete** -  Quickly become out of date
+* **Computer literate** -  Adequate knowledge of a computer
+* **Control remotely** -  To control technology from a distance
+* **Downloading from the Internet** -  Take data off one computer to another via the Internet
+* **Electronic Funds Transfer** -  EFT Payment via the Internet
+* **Emerging technology** -  Brand new machines and software
+* **Glued to the screen** -  Unable or unwilling to leave the digital device
+* **Hacking into the network** -  To gain illegal access to the computer
+* **Internet access** -  The ability to enter the Internet
+* **Internet of Things** -  A network connecting machines in a location so that they can be remotely controlled
+* **Internet-enabled** -  Machines or appliances that have Internet access
+* **Keep a hard copy** -  Keep a paper copy
+* **Labour saving device** -  An appliance that saves work
+* **Not rocket science** -  It is not very difficult
+* **Online piracy** -  The downloading of licenced media without payment
+* **Re-install the programs** -  To put computer programs back onto the computer
+* **Shop online** -  Shop via the Internet
+* **Shut down** -  Turn the computer off
+* **Social media networks** -  Online platforms for communication between people and organisations
+* **State of the art technology** -  The best technology available
+* **Surfing the web** -  To move from one site to another on the Internet
+* **To click on an icon** -  To use the mouse to click on the pictures to get into programs
+* **To crash** -  To stop working suddenly
+* **To Log in** -  To sign onto the computer
+* **To upgrade your computer system** -  To get a larger, quicker or more modern computer
+* **Wireless hotspots** -  A location where the Internet is available
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -483,29 +483,29 @@ Answer: All the information we require is available on the Internet, so everyone
 
 ## Pollution and the environment
 
-* **outskirts of large towns** --areas outside the city centre, suburbs or industrial district
-* **factory emissions** --smoke and pollution from factories
-* **toxic fumes** --smoke which is poisonous
-* **traffic jams** --large queues of cars not moving
-* **pollutants in foods** --dangerous chemicals
-* **pesticides** --chemicals to keep bugs and animals away from plants
-* **chemical fertilizers** --chemicals added to make soil stronger
-* **commute to work** --drive or travel to work every day
-* **Mantra** --frequently repeated statement
-* **reuse and recycle** --use products again or find another purpose for them
-* **industrial waste is incinerated** --waste which is burnt
-* **facilities for recycling** --places where you can dispose of plastic / cardboard
-* **education programme** --teaching and learning in school or elsewhere
-* **consequences** --the outcomes
-* **interspersed with (birds)** --mingled with, mixed with
-* **campaign** --high profile policy for the public
-* **scientists predict** --ideas for the future
-* **disintegrate** --break down into small particles
-* **microplastics** --very tiny pieces
-* **single-use applications** --use once then throw out
-* **own- brand products** --unique to the shop or supermarket
-* **policy should be rolled out** --implemented all over the country
-* **documentaries** --factual TV programmes
+* **outskirts of large towns** - areas outside the city centre, suburbs or industrial district
+* **factory emissions** - smoke and pollution from factories
+* **toxic fumes** - smoke which is poisonous
+* **traffic jams** - large queues of cars not moving
+* **pollutants in foods** - dangerous chemicals
+* **pesticides** - chemicals to keep bugs and animals away from plants
+* **chemical fertilizers** - chemicals added to make soil stronger
+* **commute to work** - drive or travel to work every day
+* **Mantra** - frequently repeated statement
+* **reuse and recycle** - use products again or find another purpose for them
+* **industrial waste is incinerated** - waste which is burnt
+* **facilities for recycling** - places where you can dispose of plastic / cardboard
+* **education programme** - teaching and learning in school or elsewhere
+* **consequences** - the outcomes
+* **interspersed with (birds)** - mingled with, mixed with
+* **campaign** - high profile policy for the public
+* **scientists predict** - ideas for the future
+* **disintegrate** - break down into small particles
+* **microplastics** - very tiny pieces
+* **single-use applications** - use once then throw out
+* **own- brand products** - unique to the shop or supermarket
+* **policy should be rolled out** - implemented all over the country
+* **documentaries** - factual TV programmes
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -594,24 +594,24 @@ There have been many incredible documentaries informing us all about the global 
 
 ## People, Personalities and characters
 
-* **confident** --in control
-* **awkward** --uncomfortable
-* **underneath the surface, I am paddling like a swan** --looking calm but not feeling it.
-* **put up a façade** --to pretend to be something you are not
-* **a control freak** --to want to do things yourself
-* **an eye for detail** --making sure everything is perfect
-* **reliable and dependable** --be trusted not to let someone down
-* **punctuality** --being on time
-* **disrespectful** --impolite
-* **a negative trait** --bad characteristic
-* **parental way** --behave like a mother or final
-* **interpersonal skills** --be good at talking to others
-* **empathetic** --understanding others emotions
-* **generous listener** --take time to hear what others are saying
-* **to emulate** --to be like
-* **considerate** --kind and thoughtful
-* **insecure** --shy and not confident
-* **moody** --sometimes happy and sometimes sad/ cross
+* **confident** - in control
+* **awkward** - uncomfortable
+* **underneath the surface, I am paddling like a swan** - looking calm but not feeling it.
+* **put up a façade** - to pretend to be something you are not
+* **a control freak** - to want to do things yourself
+* **an eye for detail** - making sure everything is perfect
+* **reliable and dependable** - be trusted not to let someone down
+* **punctuality** - being on time
+* **disrespectful** - impolite
+* **a negative trait** - bad characteristic
+* **parental way** - behave like a mother or final
+* **interpersonal skills** - be good at talking to others
+* **empathetic** - understanding others emotions
+* **generous listener** - take time to hear what others are saying
+* **to emulate** - to be like
+* **considerate** - kind and thoughtful
+* **insecure** - shy and not confident
+* **moody** - sometimes happy and sometimes sad/ cross
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -708,21 +708,21 @@ That said, to be defined by an algorithm or computer program is terrifying and c
 
 ## Fitness and Health
 
-* **balanced diet**: eating a sensible mix of different foods
-* **conscientious about my health**: watching and caring about your heath
-* **flavoursome and appealing**: good to eat and looking attractive
-* **convenient take away**: food which you can eat at home
-* **healthier eating habits**: eating less sugar or salt
-* **productive at work**: achieving more, better results
-* **processed meat**: meat in which there are additives or chemicals
-* **function successfully**: to work, perform in a great way
-* **tempted by diets**: interested in other ways of eating
-* **adopted a vegan diet**: a vegan does not eat meat, or dairy foods
-* **broad minded**: open to other ideas
-* **Sceptical**: not believing something
-* **over production of meat**: factories or agricultural methods which are focused on this
-* **Public service education message**: advice from the government
-* **Positive reinforcement**: rewarding people for doing the right thing
+* **balanced diet** -  eating a sensible mix of different foods
+* **conscientious about my health** -  watching and caring about your heath
+* **flavoursome and appealing** -  good to eat and looking attractive
+* **convenient take away** -  food which you can eat at home
+* **healthier eating habits** -  eating less sugar or salt
+* **productive at work** -  achieving more, better results
+* **processed meat** -  meat in which there are additives or chemicals
+* **function successfully** -  to work, perform in a great way
+* **tempted by diets** -  interested in other ways of eating
+* **adopted a vegan diet** -  a vegan does not eat meat, or dairy foods
+* **broad minded** -  open to other ideas
+* **Sceptical** -  not believing something
+* **over production of meat** -  factories or agricultural methods which are focused on this
+* **Public service education message** -  advice from the government
+* **Positive reinforcement** -  rewarding people for doing the right thing
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -809,27 +809,27 @@ As well as education in school, governments could educate adults through as seri
 
 ## School and Education
 
-* **authentic**: real, true
-* **old-school strict**: traditional learning with punishments and controlling teachers
-* **teacher centred**: where the teacher is leading the class
-* **encourage collaboration**: learning together through discussions
-* **pressure to meet deadlines**: having to finish work by a certain time / date
-* **assignments**: homework or essays
-* **sail through them**: not to have to work hard and to find things easy
-* **learning expectations**: what the teacher expects from their student
-* **role plays**: acting out a situation to simulate or practice it
-* **dictation**: writing down what the teacher says, accurately and fast.
-* **breakthrough**: a new development
-* **inspiring**: something which makes you want to do better
-* **intonation**: the 'singing' sound of speech
-* **paid off**: was worth the effort
-* **outdated**: old fashioned
-* **league tables**: tables which rank the position of schools according to  academic success
-* **alumni**: students who used to go to a certain school or college
-* **boarding school**: where students live at school during the term time
-* **extra- curricular activities**: anything NOT academic, eg sport, drama
-* **peer group**: students of your own age, in your class
-* **remote**: not being physically there / learning via computer
+* **authentic** - real, true
+* **old-school strict** - traditional learning with punishments and controlling teachers
+* **teacher centred** - where the teacher is leading the class
+* **encourage collaboration** - learning together through discussions
+* **pressure to meet deadlines** - having to finish work by a certain time / date
+* **assignments** - homework or essays
+* **sail through them** - not to have to work hard and to find things easy
+* **learning expectations** - what the teacher expects from their student
+* **role plays** - acting out a situation to simulate or practice it
+* **dictation** - writing down what the teacher says, accurately and fast.
+* **breakthrough** - a new development
+* **inspiring** - something which makes you want to do better
+* **intonation** - the 'singing' sound of speech
+* **paid off** - was worth the effort
+* **outdated** - old fashioned
+* **league tables** - tables which rank the position of schools according to  academic success
+* **alumni** - students who used to go to a certain school or college
+* **boarding school** - where students live at school during the term time
+* **extra- curricular activities** - anything NOT academic, eg sport, drama
+* **peer group** - students of your own age, in your class
+* **remote** - not being physically there / learning via computer
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -918,24 +918,24 @@ It is usually agreed that some find that this method of learning suits them bett
 
 ## Work and Careers
 
-* **A field (of work)**: an area or type of career
-* **Motivated about**: wanting to do well in
-* **Internship**: working for a short time, sometimes unpaid
-* **Apprenticeship**: hands on, or practical work to learn a job
-* **Hands on**: getting involved and doing everything to help
-* **Innovative small companies**: with new, creative ideas
-* **Cutting edge**: the best new technology
-* **Diagnose**: to find out what is wrong
-* **Pediatrics**: specialist child medicine (also spelled paediatrics)
-* **Routine check ups**: a regular  (not urgent) visit to the doctors
-* **Huge appreciation**: gratefulness and gratitude
-* **Follow up care**: an appointment after an operation or illness
-* **Lucrative**: money making or profitable
-* **Highly merited**: well deserved
-* **Career ladder**: moving up through promotions to the top of the company
-* **Pension scheme**: money for retirement
-* **Job security**: knowing you can keep your job / job safety
-* **Start up community**: new small businesses sometimes internet based
+* **A field (of work)** - an area or type of career
+* **Motivated about** - wanting to do well in
+* **Internship** - working for a short time, sometimes unpaid
+* **Apprenticeship** - hands on, or practical work to learn a job
+* **Hands on** - getting involved and doing everything to help
+* **Innovative small companies** - with new, creative ideas
+* **Cutting edge** - the best new technology
+* **Diagnose** - to find out what is wrong
+* **Pediatrics** - specialist child medicine (also spelled paediatrics)
+* **Routine check ups** - a regular  (not urgent) visit to the doctors
+* **Huge appreciation** - gratefulness and gratitude
+* **Follow up care** - an appointment after an operation or illness
+* **Lucrative** - money making or profitable
+* **Highly merited** - well deserved
+* **Career ladder** - moving up through promotions to the top of the company
+* **Pension scheme** - money for retirement
+* **Job security** - knowing you can keep your job / job safety
+* **Start up community** - new small businesses sometimes internet based
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -1027,28 +1027,28 @@ Raff:  As far as I know, more and more people, especially the young generations 
 
 ## University and Student life
 
-* **Challenging**: academically difficult
-* **Day in, day out**: full time with out a break
-* **Wide ranging**: covering a large spectrum / area of different knowledge
-* **Undergraduate**: studying for a degree but having not yet achieved it.
-* **Postgraduate**: having achieved a degree and now studying for a higher qualification, possibly a professions qualification
-* **STEM subjects**: Science, Technology, Engineering and Maths
-* **Further education**: studies after leaving school
-* **Technical colleges**: places which do not demand such high entrance qualifications as university
-* **Vocational studies**: focus on learning or mastering a skill
-* **Hands on training**: practical work/ learning
-* **To apply for a course**: the process of registering for a university
-* **To get an (un)conditional offer**: an offer which does not depend on previous exam results
-* **Halls of residence / student accommodation**: a particular place to live for students
-* **Student union**: an organisation for students / sometimes a physical place
-* **A fresher / an undergraduate / a graduate**: a new student, someone studying for a Bachelors degree, a student who has finished their Degree
-* **A graduation ceremony**: a formal occasion when Degrees are given out
-* **To take a gap year**: a year between study and university
-* **To drop out of university**: to leave before the course is finished
-* **Out of my depth**: finding work / study too hard
-* **Seminar**: smaller class of students with a Professor leading the discussion
-* **Lecture theatre**: large building for a talk / lecture
-* **Extensive research**: in depth work done in a particular academic field
+* **Challenging** - academically difficult
+* **Day in, day out** - full time with out a break
+* **Wide ranging** - covering a large spectrum / area of different knowledge
+* **Undergraduate** - studying for a degree but having not yet achieved it.
+* **Postgraduate** - having achieved a degree and now studying for a higher qualification, possibly a professions qualification
+* **STEM subjects** - Science, Technology, Engineering and Maths
+* **Further education** - studies after leaving school
+* **Technical colleges** - places which do not demand such high entrance qualifications as university
+* **Vocational studies** - focus on learning or mastering a skill
+* **Hands on training** - practical work/ learning
+* **To apply for a course** - the process of registering for a university
+* **To get an (un)conditional offer** - an offer which does not depend on previous exam results
+* **Halls of residence / student accommodation** - a particular place to live for students
+* **Student union** - an organisation for students / sometimes a physical place
+* **A fresher / an undergraduate / a graduate** - a new student, someone studying for a Bachelors degree, a student who has finished their Degree
+* **A graduation ceremony** - a formal occasion when Degrees are given out
+* **To take a gap year** - a year between study and university
+* **To drop out of university** - to leave before the course is finished
+* **Out of my depth** - finding work / study too hard
+* **Seminar** - smaller class of students with a Professor leading the discussion
+* **Lecture theatre** - large building for a talk / lecture
+* **Extensive research** - in depth work done in a particular academic field
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -1209,22 +1209,22 @@ Alline: The trend for parents with young children has relocate from the metropol
 
 ## Books, Film and Art
 
-* **Curl up with a book**: to get comfortable and read.
-* **Thrillers or action books**: exciting and full of events
-* **A strong plotline**: good story which keeps moving
-* **Cover to cover**: from start to finish
-* **Rom-com movie**: a romantic comedy film
-* **Adapted from fiction**: a film which was first a book
-* **Strong characterisation**: the main people are well rounded and believable
-* **Recommended to me by a friend**: someone suggested that I read it
-* **Black humour**: funny but rather dark or mysterious as well
-* **Genre**: the type of film. E.g. horror or comedy
-* **Commercial blockbusters**: films made for the mass market to generate a lot of income
-* **A sea change in something**: a fundamental shift
-* **Online streaming**: watching via the internet
-* **To commission a film**: to ask for one to be made
-* **A valid perspective**: a real view / outlook/insight to something
-* **Cultural heritage**: the background and history of a country
+* **Curl up with a book** - to get comfortable and read.
+* **Thrillers or action books** - exciting and full of events
+* **A strong plotline** - good story which keeps moving
+* **Cover to cover** - from start to finish
+* **Rom-com movie** - a romantic comedy film
+* **Adapted from fiction** - a film which was first a book
+* **Strong characterisation** - the main people are well rounded and believable
+* **Recommended to me by a friend** - someone suggested that I read it
+* **Black humour** - funny but rather dark or mysterious as well
+* **Genre** - the type of film. E.g. horror or comedy
+* **Commercial blockbusters** - films made for the mass market to generate a lot of income
+* **A sea change in something** - a fundamental shift
+* **Online streaming** - watching via the internet
+* **To commission a film** - to ask for one to be made
+* **A valid perspective** - a real view / outlook/insight to something
+* **Cultural heritage** - the background and history of a country
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -1310,44 +1310,44 @@ Alline: In my opinion, paperback or hardback books are much better and reading a
 
 ## Climate Change
 
-* **The ravages of something**: destruction of something
-* **Hybrid car**: a car that uses both petrol and electricity
-* **Carbon footprint**: how much carbon dioxide is released as a result of one\'s activities
-* **Recycle**: breaking down products to create new products from the materials
-* **Growing season**: the time of the year when plants grow
-* **Yields**: amount of a crop produced
-* **Crops**: a plant grown in large amounts
-* **Eco-conscious**: describes someone who shows concern for the environment
-* **Natural fertilizer**: fertilizers that come from animal waste, animal matter or plant matter
-* **Chemical fertilizer**: fertilizers that are made from synthetic materials
-* **Contaminate**: to make something impure, poisonous or polluted
-* **Groundwater**: water that is below the earth\'s surface
-* **Vegetable scraps**: bits of vegetables that are discarded
-* **Non-chemical compost**: decaying matter such as food, leaves or manure used to fertilize soil
-* **Organic**: describes something that does not use chemical fertilizers
-* **Commute**: travel to and from work
-* **Solar panels**: panels that collect rays from the sun to be used as energy for electricity or heating
-* **Household cleaning products**: products that are used to clean one\'s home
-* **Time-consuming**: describes something that takes a lot of time
-* **Environmentally conscious**: when a person or business is aware of their effect on the environment and attempts to minimize this affect
-* **Green lifestyle**: a way of living that attempts to reduce usage of water & power, waste and toxic substances
-* **Sustainable**: describes something that causes minimal damage to the environment
-* **Emulate**: to copy someone\'s behavior out of respect
-* **Conventional products**: products that have been in use for a long time
-* **Energy saving**: describe products designed to reduce use of electricity or other form of energy
-* **Fuel emissions**: gases that lead to air pollution through the burning of fuel
-* **Electric cars**: vehicles that run on electricity
-* **Food miles**: the distance food travels from the time it is produced until it reaches its end customer
-* **Local food**: food that is produced a short distance from where it is consumed
-* **Fossil fuels**: coal, gas or oil that is used in industry, homes and vehicles
-* **Carbon monoxide**: a dangerous gas produced from the partial burning of fuels
-* **Dispose**: throw away
-* **Waterways**: lakes, rivers, oceans and canals
-* **Ecosystem**: the geographic area where animals, plants and other organisms interact
-* **Natural habitat**: the area where a plant or animal normally lives
-* **Tackle**: to try to deal with a problem
-* **Collective effort**: when a group of people try to do something
-* **Forge**: to create something strong or successful
+* **The ravages of something** - destruction of something
+* **Hybrid car** - a car that uses both petrol and electricity
+* **Carbon footprint** - how much carbon dioxide is released as a result of one\'s activities
+* **Recycle** - breaking down products to create new products from the materials
+* **Growing season** - the time of the year when plants grow
+* **Yields** - amount of a crop produced
+* **Crops** - a plant grown in large amounts
+* **Eco-conscious** - describes someone who shows concern for the environment
+* **Natural fertilizer** - fertilizers that come from animal waste, animal matter or plant matter
+* **Chemical fertilizer** - fertilizers that are made from synthetic materials
+* **Contaminate** - to make something impure, poisonous or polluted
+* **Groundwater** - water that is below the earth\'s surface
+* **Vegetable scraps** - bits of vegetables that are discarded
+* **Non-chemical compost** - decaying matter such as food, leaves or manure used to fertilize soil
+* **Organic** - describes something that does not use chemical fertilizers
+* **Commute** - travel to and from work
+* **Solar panels** - panels that collect rays from the sun to be used as energy for electricity or heating
+* **Household cleaning products** - products that are used to clean one\'s home
+* **Time-consuming** - describes something that takes a lot of time
+* **Environmentally conscious** - when a person or business is aware of their effect on the environment and attempts to minimize this affect
+* **Green lifestyle** - a way of living that attempts to reduce usage of water & power, waste and toxic substances
+* **Sustainable** - describes something that causes minimal damage to the environment
+* **Emulate** - to copy someone\'s behavior out of respect
+* **Conventional products** - products that have been in use for a long time
+* **Energy saving** - describe products designed to reduce use of electricity or other form of energy
+* **Fuel emissions** - gases that lead to air pollution through the burning of fuel
+* **Electric cars** - vehicles that run on electricity
+* **Food miles** - the distance food travels from the time it is produced until it reaches its end customer
+* **Local food** - food that is produced a short distance from where it is consumed
+* **Fossil fuels** - coal, gas or oil that is used in industry, homes and vehicles
+* **Carbon monoxide** - a dangerous gas produced from the partial burning of fuels
+* **Dispose** - throw away
+* **Waterways** - lakes, rivers, oceans and canals
+* **Ecosystem** - the geographic area where animals, plants and other organisms interact
+* **Natural habitat** - the area where a plant or animal normally lives
+* **Tackle** - to try to deal with a problem
+* **Collective effort** - when a group of people try to do something
+* **Forge** - to create something strong or successful
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -1438,29 +1438,29 @@ There must be a collective effort around the world where leaders agree to the st
 
 ## Working from home
 
-* **Flexibility**: being able to change or be changed depending on circumstances
-* **Work-life balance**: the time spent at your job in comparison to the time spent on your personal life
-* **Distraction**: something that takes away your attention from something else
-* **Burnout**: fatigue or tiredness from being overworked
-* **Sense of community**: when members of a group have a feeling of belonging and that they matter to one another
-* **Colleagues**: people you work with
-* **Camaraderie**: the feeling of friendship and trust that people who work together or spend time together share
-* **Teamwork**: when people work together to accomplish a goal
-* **Isolation**: the feeling or state of being separated from others
-* **Productivity**: how much you work you produce in relation to how much time you spend
-* **Workplace**: any location where a person performs a job
-* **Work remotely or remote work**: when an employee works from home rather than an office and uses the phone and/or computer to communication
-* **Telecommute**: same as “remote work”
-* **Chained to a desk**: when someone feels forced or obligated to work exclusively from their desk
-* **9 to 5**: the typical hours of work in many countries. Also can mean normal sometimes boring or mundane jobs.
-* **Carbon footprint**: how much carbon dioxide someone/ somethings actions create
-* **Sustainability benefits**: the results of protecting the environment through less waste and less pollution
-* **Environmentally friendly**: describes things or activities that do not harm the environment
-* **Financially viable**: describes something that allows companies to generate income, fulfill responsibilities and continue to grow
-* **Supervision**: when someone manages a person or department to make sure rules are followed and work is done correctly
-* **Lockdown**: when people are not allowed to leave an area as a security measure
-* **Hybrid work**: work from both home and office
-* **Autonomy**: when you make decisions for yourself without the control of others
+* **Flexibility** - being able to change or be changed depending on circumstances
+* **Work-life balance** - the time spent at your job in comparison to the time spent on your personal life
+* **Distraction** - something that takes away your attention from something else
+* **Burnout** - fatigue or tiredness from being overworked
+* **Sense of community** - when members of a group have a feeling of belonging and that they matter to one another
+* **Colleagues** - people you work with
+* **Camaraderie** - the feeling of friendship and trust that people who work together or spend time together share
+* **Teamwork** - when people work together to accomplish a goal
+* **Isolation** - the feeling or state of being separated from others
+* **Productivity** - how much you work you produce in relation to how much time you spend
+* **Workplace** - any location where a person performs a job
+* **Work remotely or remote work** - when an employee works from home rather than an office and uses the phone and/or computer to communication
+* **Telecommute** - same as “remote work”
+* **Chained to a desk** - when someone feels forced or obligated to work exclusively from their desk
+* **9 to 5** - the typical hours of work in many countries. Also can mean normal sometimes boring or mundane jobs.
+* **Carbon footprint** - how much carbon dioxide someone/ somethings actions create
+* **Sustainability benefits** - the results of protecting the environment through less waste and less pollution
+* **Environmentally friendly** - describes things or activities that do not harm the environment
+* **Financially viable** - describes something that allows companies to generate income, fulfill responsibilities and continue to grow
+* **Supervision** - when someone manages a person or department to make sure rules are followed and work is done correctly
+* **Lockdown** - when people are not allowed to leave an area as a security measure
+* **Hybrid work** - work from both home and office
+* **Autonomy** - when you make decisions for yourself without the control of others
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -1555,26 +1555,26 @@ We\'re realizing the Monday through Friday, 9 to 5 model does not fit everyone s
 
 ## Social Media
 
-* **Viral**: if a post/ video is viral or “has gone viral,” that means it is spreading very rapidly across the internet,
-* **Troll**: used as a verb and a noun. A troll is a person who purposely creates offensive or provocative posts or comments to arouse anger in other social media users.
-* **Hater**: a person who posts negative or critical comments about others
-* **Vlogger**: a person who regularly creates short videos to be posted online
-* **Meme**: a humorous image or text that is easily sent to others over the internet
-* **Anonymity**: The state of being anonymous, of people not knowing your identity
-* **DM**: direct message
-* **Emoji**: a small digital image used in social media/ emails/ text to display an emotion, object or idea
-* **Badger**: to bother someone repeatedly
-* **Derogatory**: offensive, hurtful, disrespectful
-* **Censor**: to keep certain images. Texts, etc from being displayed or published because it is offensive or immoral
-* **Follow**:  to subscribe to the page of a person or business on social media
-* **Harass**: to create a hostile situation through written or verbal communication
-* **Catfishing**: the act of creating a false internet profile in order to deceive or scam someone
-* **Grooming**: preparing someone (often a minor) over the internet in order to eventually commit a sexual offense
-* **Influencer**: a person who promotes a product online to his/her followers so that they may purchase it
-* **Photoshop**: software that allows users to digitally alter their images
-* **Filters**: preset photo enhancements that users can select to apply to their images or videos
-* **Block**: stopping or banning someone from interacting with you on social media or viewing your posts/ profile
-* **Scam**: a dishonest attempt to trick or cheat you
+* **Viral** - if a post/ video is viral or “has gone viral,” that means it is spreading very rapidly across the internet,
+* **Troll** - used as a verb and a noun. A troll is a person who purposely creates offensive or provocative posts or comments to arouse anger in other social media users.
+* **Hater** - a person who posts negative or critical comments about others
+* **Vlogger** - a person who regularly creates short videos to be posted online
+* **Meme** - a humorous image or text that is easily sent to others over the internet
+* **Anonymity** - The state of being anonymous, of people not knowing your identity
+* **DM** - direct message
+* **Emoji** - a small digital image used in social media/ emails/ text to display an emotion, object or idea
+* **Badger** - to bother someone repeatedly
+* **Derogatory** - offensive, hurtful, disrespectful
+* **Censor** - to keep certain images. Texts, etc from being displayed or published because it is offensive or immoral
+* **Follow** -  to subscribe to the page of a person or business on social media
+* **Harass** - to create a hostile situation through written or verbal communication
+* **Catfishing** - the act of creating a false internet profile in order to deceive or scam someone
+* **Grooming** - preparing someone (often a minor) over the internet in order to eventually commit a sexual offense
+* **Influencer** - a person who promotes a product online to his/her followers so that they may purchase it
+* **Photoshop** - software that allows users to digitally alter their images
+* **Filters** - preset photo enhancements that users can select to apply to their images or videos
+* **Block** - stopping or banning someone from interacting with you on social media or viewing your posts/ profile
+* **Scam** - a dishonest attempt to trick or cheat you
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -1653,29 +1653,29 @@ I think cyberbullies and trolls generally feel that a shield of anonymity protec
 
 ## Advertising
 
-* **Commercials**: an advert on tv or radio
-* **Imagery**: visual images
-* **Tantalizing**: something that creates desire and excitement
-* **Live up to its hype**: when something is as good as you expected it to be
-* **Product placement**: a practice in movies or tv shows when a product or its brand name appear on screen visibly in order to gain exposure
-* **Celebrity endorsement**: when a famous person advertises a product by saying he or she uses it
-* **Grating**: describes sounds that are annoying
-* **Inclined to purchase**: likely to buy
-* **Potential customers**: people who might possibly buy your product
-* **Turn someone off**: to make someone uninterested in something
-* **Pop-ups**: advertisements that suddenly appear on a computer or device screen.
-* **Subconscious**: the part of the brain that sees, hears or remembers things that you do not actively remember
-* **Subliminal**: describes something that can influence the subconscious mind without the conscious mind realizing it
-* **Billboards**: a large outdoor board, usually alongside large roads, used to display an ad
-* **Flyer**: a small paper advertising a product, business or event
-* **Website traffic**: the internet users who visit a website
-* **Brand awareness**: when customers recognize or remember a brand and its qualities
-* **Jingle**: music that accompanies commercials
-* **Telemarketing**: the marketing of good or services over the phone
-* **Bombard**: attack continuously
-* **Buying power**: the money someone has to buy things
-* **Free-for-all**: a situation with no rules, limits or restrictions
-* **Impressionable**: describes a person who is easily influenced
+* **Commercials** - an advert on tv or radio
+* **Imagery** - visual images
+* **Tantalizing** - something that creates desire and excitement
+* **Live up to its hype** - when something is as good as you expected it to be
+* **Product placement** - a practice in movies or tv shows when a product or its brand name appear on screen visibly in order to gain exposure
+* **Celebrity endorsement** - when a famous person advertises a product by saying he or she uses it
+* **Grating** - describes sounds that are annoying
+* **Inclined to purchase** - likely to buy
+* **Potential customers** - people who might possibly buy your product
+* **Turn someone off** - to make someone uninterested in something
+* **Pop-ups** - advertisements that suddenly appear on a computer or device screen.
+* **Subconscious** - the part of the brain that sees, hears or remembers things that you do not actively remember
+* **Subliminal** - describes something that can influence the subconscious mind without the conscious mind realizing it
+* **Billboards** - a large outdoor board, usually alongside large roads, used to display an ad
+* **Flyer** - a small paper advertising a product, business or event
+* **Website traffic** - the internet users who visit a website
+* **Brand awareness** - when customers recognize or remember a brand and its qualities
+* **Jingle** - music that accompanies commercials
+* **Telemarketing** - the marketing of good or services over the phone
+* **Bombard** - attack continuously
+* **Buying power** - the money someone has to buy things
+* **Free-for-all** - a situation with no rules, limits or restrictions
+* **Impressionable** - describes a person who is easily influenced
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -1753,52 +1753,53 @@ In my husband\'s country though it is a free-for-all where commercials during Sa
 
 ## Fashion and Shopping
 
-* **Clothes horse**: someone who really likes to buy nice clothes
-* **Well put together**: describes someone who looks good and who has made effort to do so
-* **Pick up**: buy
-* **Bargain price**: a discounted price
-* **Be up on the latest trends**: to be informed of what is fashionable
-* **Social media feed**: the updated list of new content available on various social media platforms
-* **In fashion**: fashionable
-* **Replicate**: to copy
-* **Looks**: appearance
-* **Lower priced**: inexpensive, cheap
-* **A fraction of the cost**: a small part of the total cost
-* **A (great) eye for something**: able to notice or make correct judgments about something
-* **Clothes rack**: rail where clothes are hung for display
-* **Shoe display**: place where shoes are shown
-* **Level of attention**: the amount of attention someone pays to something
-* **Luxury goods**: things that are very expensive to buy but are not considered necessities
-* **High-end designers**: people who design products sold at very high prices
-* **Out of my price range**: describes something that is too expensive for someone to buy
-* **Incomparable**: cannot be compared because it is so good
-* **Over the top**: extreme, excessive, exaggerated
-* **Avant garde**: describes music, art, etc, that are unconventional or experimental
-* **Ambience**: the atmosphere of a location
-* **Unparalleled**: exceptional; in a category of its own because of its excellence
-* **Customer service**: the assistance given to customers of a product or service
-* **Top-notch**: high quality
-* **Blow money on something**: spend large amounts of money
-* **“it” item**: something very fashionable
-* **Place pressure on**: to try to influence or persuade
-* **Stay current**: to be up to date
-* **Spoiled for choice**: to have a lot of options available to you
-* **High street**: the main street where shops, banks and businesses are located.
-* **Unfathomable**: unimaginable
-* **e-shops**: stores that do business online
-* **click of a button**: on a computer or device, something that requires very little effort
-* **at your doorstep**: at your home or near where you live
-* **superimposed**: when something is placed over something else so that the image of both items is clear
-* **frame**: the size and shape of someone\'s body
-* **digital imagery**: the collection of pixels on a screen that create an image
-* **brick and mortar stores**: a physical shop as opposed to an online shop
-* **counterparts**: someone who does the same job as someone else somewhere else
+* **Clothes horse** - someone who really likes to buy nice clothes
+* **Well put together** - describes someone who looks good and who has made effort to do so
+* **Pick up** - buy
+* **Bargain price** - a discounted price
+* **Be up on the latest trends** - to be informed of what is fashionable
+* **Social media feed** - the updated list of new content available on various social media platforms
+* **In fashion** - fashionable
+* **Replicate** - to copy
+* **Looks** - appearance
+* **Lower priced** - inexpensive, cheap
+* **A fraction of the cost** - a small part of the total cost
+* **A (great) eye for something** - able to notice or make correct judgments about something
+* **Clothes rack** - rail where clothes are hung for display
+* **Shoe display** - place where shoes are shown
+* **Level of attention** - the amount of attention someone pays to something
+* **Luxury goods** - things that are very expensive to buy but are not considered necessities
+* **High-end designers** - people who design products sold at very high prices
+* **Out of my price range** - describes something that is too expensive for someone to buy
+* **Incomparable** - cannot be compared because it is so good
+* **Over the top** - extreme, excessive, exaggerated
+* **Avant garde** - describes music, art, etc, that are unconventional or experimental
+* **Ambience** - the atmosphere of a location
+* **Unparalleled** - exceptional; in a category of its own because of its excellence
+* **Customer service** - the assistance given to customers of a product or service
+* **Top-notch** - high quality
+* **Blow money on something** - spend large amounts of money
+* **“it” item** - something very fashionable
+* **Place pressure on** - to try to influence or persuade
+* **Stay current** - to be up to date
+* **Spoiled for choice** - to have a lot of options available to you
+* **High street** - the main street where shops, banks and businesses are located.
+* **Unfathomable** - unimaginable
+* **e-shops** - stores that do business online
+* **click of a button** - on a computer or device, something that requires very little effort
+* **at your doorstep** - at your home or near where you live
+* **superimposed** - when something is placed over something else so that the image of both items is clear
+* **frame** - the size and shape of someone\'s body
+* **digital imagery** - the collection of pixels on a screen that create an image
+* **brick and mortar stores** - a physical shop as opposed to an online shop
+* **counterparts** - someone who does the same job as someone else somewhere else
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-IELTS speaking part 1 - sample questions and answers
+## IELTS speaking part 1 - sample questions and answers
+
 #### Examiner: Do you enjoy shopping?
 
 Archie: I do enjoy shopping – perhaps more than I should! My friends say that I am something of a clothes horse! I like to be well put together but I typically wait for the sales though so that I can pick up what I want at a bargain price. 
@@ -1881,46 +1882,46 @@ I also suspect digital imagery online will improve so that you can truly underst
 
 ## Fashion and Shopping
 
-* **Clothes horse**: someone who really likes to buy nice clothes
-* **Well put together**: describes someone who looks good and who has made effort to do so
-* **Pick up**: buy
-* **Bargain price**: a discounted price
-* **Be up on the latest trends**: to be informed of what is fashionable
-* **Social media feed**: the updated list of new content available on various social media platforms
-* **In fashion**: fashionable
-* **Replicate**: to copy
-* **Looks**: appearance
-* **Lower priced**: inexpensive, cheap
-* **A fraction of the cost**: a small part of the total cost
-* **A (great) eye for something**: able to notice or make correct judgments about something
-* **Clothes rack**: rail where clothes are hung for display
-* **Shoe display**: place where shoes are shown
-* **Level of attention**: the amount of attention someone pays to something
-* **Luxury goods**: things that are very expensive to buy but are not considered necessities
-* **High-end designers**: people who design products sold at very high prices
-* **Out of my price range**: describes something that is too expensive for someone to buy
-* **Incomparable**: cannot be compared because it is so good
-* **Over the top**: extreme, excessive, exaggerated
-* **Avant garde**: describes music, art, etc, that are unconventional or experimental
-* **Ambience**: the atmosphere of a location
-* **Unparalleled**: exceptional; in a category of its own because of its excellence
-* **Customer service**: the assistance given to customers of a product or service
-* **Top-notch**: high quality
-* **Blow money on something**: spend large amounts of money
-* **“it” item**: something very fashionable
-* **Place pressure on**: to try to influence or persuade
-* **Stay current**: to be up to date
-* **Spoiled for choice**: to have a lot of options available to you
-* **High street**: the main street where shops, banks and businesses are located.
-* **Unfathomable**: unimaginable
-* **e-shops**: stores that do business online
-* **click of a button**: on a computer or device, something that requires very little effort
-* **at your doorstep**: at your home or near where you live
-* **superimposed**: when something is placed over something else so that the image of both items is clear
-* **frame**: the size and shape of someone\'s body
-* **digital imagery**: the collection of pixels on a screen that create an image
-* **brick and mortar stores**: a physical shop as opposed to an online shop
-* **counterparts**: someone who does the same job as someone else somewhere else
+* **Clothes horse** - someone who really likes to buy nice clothes
+* **Well put together** - describes someone who looks good and who has made effort to do so
+* **Pick up** - buy
+* **Bargain price** - a discounted price
+* **Be up on the latest trends** - to be informed of what is fashionable
+* **Social media feed** - the updated list of new content available on various social media platforms
+* **In fashion** - fashionable
+* **Replicate** - to copy
+* **Looks** - appearance
+* **Lower priced** - inexpensive, cheap
+* **A fraction of the cost** - a small part of the total cost
+* **A (great) eye for something** - able to notice or make correct judgments about something
+* **Clothes rack** - rail where clothes are hung for display
+* **Shoe display** - place where shoes are shown
+* **Level of attention** - the amount of attention someone pays to something
+* **Luxury goods** - things that are very expensive to buy but are not considered necessities
+* **High-end designers** - people who design products sold at very high prices
+* **Out of my price range** - describes something that is too expensive for someone to buy
+* **Incomparable** - cannot be compared because it is so good
+* **Over the top** - extreme, excessive, exaggerated
+* **Avant garde** - describes music, art, etc, that are unconventional or experimental
+* **Ambience** - the atmosphere of a location
+* **Unparalleled** - exceptional; in a category of its own because of its excellence
+* **Customer service** - the assistance given to customers of a product or service
+* **Top-notch** - high quality
+* **Blow money on something** - spend large amounts of money
+* **“it” item** - something very fashionable
+* **Place pressure on** - to try to influence or persuade
+* **Stay current** - to be up to date
+* **Spoiled for choice** - to have a lot of options available to you
+* **High street** - the main street where shops, banks and businesses are located.
+* **Unfathomable** - unimaginable
+* **e-shops** - stores that do business online
+* **click of a button** - on a computer or device, something that requires very little effort
+* **at your doorstep** - at your home or near where you live
+* **superimposed** - when something is placed over something else so that the image of both items is clear
+* **frame** - the size and shape of someone\'s body
+* **digital imagery** - the collection of pixels on a screen that create an image
+* **brick and mortar stores** - a physical shop as opposed to an online shop
+* **counterparts** - someone who does the same job as someone else somewhere else
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
