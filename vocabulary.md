@@ -277,7 +277,7 @@ Answer: I know that food preparation can be time-consuming, but if everyone help
 * **Swarming with tourists** -  Full of holidaymakers
 * **Time on their hands** -  Available time to do as you choose
 * **To get away from it all** -  To get away from everyday routines
-* **To go sightseeing ­– Take a trip around an area to see what it has to offer
+* **To go sightseeing** ­– Take a trip around an area to see what it has to offer
 * **Travel abroad** -  Travel to overseas destinations
 * **Travelling light** -  Travelling with little luggage
 * **Value for money** -  A good return on investment
