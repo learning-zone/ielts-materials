@@ -1,4 +1,91 @@
-# IELTS Vocabulary
+# Speaking: Word List
+
+## Adding more information
+
+* and
+* also
+* as well as
+* another reason is
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Time Phrases
+
+* now
+* at the moment
+* at present
+* right now
+* these days
+* nowadays
+* in the past
+* before
+* then
+* at that time
+* years ago
+* When I was younger
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Expressing ideas
+
+* I think one important thing is
+* I guess one difference is
+* I suppose the main difference between X and Y is
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Cause and Solutions
+
+* I guess it\'s because
+* The main reason is
+* It was caused by
+* Because
+* I suppose the best way to deal with this problem is
+* I reckon the only answer is to
+* The best way to solve this is
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Giving Examples
+
+* for example
+* for instance
+* such as
+* like
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Being Clear
+
+* What I mean is
+* What I want to say is
+* As I was saying
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
+## Contrasting and concessions
+
+* but
+* on the other hand
+* while
+* although
+* or
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 ## A
 
