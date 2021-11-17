@@ -87,10 +87,9 @@
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## Synonyms
+## Synonyms for IELTS
 
-
-|English|Synonyms for IELTS|
+|Word   |Synonyms           |
 |-------|-------------------|
 |Amazing|Incredible, Fantastic, Fabulous, Astonishing, Extraordinary|
 |Answer|Respond|
