@@ -460,6 +460,7 @@
 * **sombre**
 * **suffice**
 * **syndicate**
+* **sermonise**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -483,6 +484,7 @@
 * **unfurls**
 * **turmoil**
 * **urges**
+* **Uproar**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
