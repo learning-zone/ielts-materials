@@ -153,6 +153,19 @@
 कहावत, लोकोक्ति
 
 * **amuse**
+
+> अˈम्‍यूज़्‌
+
+> 1. to make somebody laugh or smile; to seem funny to somebody
+किसी को हँसाना; किसी बात का मज़ेदार लगना
+
+> Everybody laughed but I couldn’t understand what had amused them.
+
+> 2. to make time pass pleasantly for somebody; to stop somebody from getting bored
+किसी का जी बहलाना; मनोरंजन करना
+
+> I did some crosswords to amuse myself on the journey.
+
 * **amicable**
 * **agnostic**
 * **ailing**
