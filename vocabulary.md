@@ -146,6 +146,12 @@
 ## A
 
 * **adage**
+
+> ˈऐडिज्‌
+
+> a well-known phrase expressing something that is always true about people or the world
+कहावत, लोकोक्ति
+
 * **amuse**
 * **amicable**
 * **agnostic**
