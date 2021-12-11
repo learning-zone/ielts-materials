@@ -165,6 +165,7 @@
 * **abduct**
 * **agile**
 * **absurd**
+* **Assignation**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -210,6 +211,7 @@
 * **caucus**
 * **cruise**
 * **calibration**
+* **cherish**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -239,6 +241,7 @@
 * **diktat**
 * **divestment**
 * **dupe**
+* **delineate**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -255,6 +258,9 @@
 * **expats**
 * **extradition**
 * **elevation**
+* **Esplanade** 
+* **Errand**
+* **Ephemeral**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -270,6 +276,8 @@
 * **fugitive**
 * **fable**
 * **fissure**
+* **foe**
+* **fuss**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -301,6 +309,7 @@
 * **hurl**
 * **hostage**
 * **hurl**
+* **homage**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -379,6 +388,7 @@
 
 * **outage**
 * **outcry**
+* **Opaque**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -462,6 +472,7 @@
 * **syndicate**
 * **sermonise**
 
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
@@ -501,6 +512,7 @@
 * **vest**
 * **vanity freak**
 * **vegetation**
+* **vitals**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
