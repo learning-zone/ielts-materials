@@ -510,7 +510,16 @@ a sudden attack on somebody/something
 * **regime**
 * **redact**
 * **replenish**
+* **remuneration**
 
+```
+रिˌम्‌यूनˈरेश्‌न्
+
+a payment made to somebody for the work they have done
+पारिश्रमिक, मेहनताना
+
+The remuneration packages were revised according to the employee's performance.
+```
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
