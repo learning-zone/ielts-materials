@@ -171,11 +171,60 @@ I did some crosswords to amuse myself on the journey.
 ```
 
 * **amicable**
+
+```
+ˈऐमिकब्‌ल्‌
+
+made or done in a friendly way, without argument
+सौहार्दपूर्ण, स्‍नेही
+```
+
 * **agnostic**
+
+```
+ऐग्ˈनॉस्‌टिक्‌
+
+a person who is not sure if God exists or not
+ईश्‍वर की सत्ता के विषय में संशय रखने वाला; संशयवादी, अज्ञेयवादी
+```
+
 * **ailing**
+
+```
+ˈएलिङ्‌
+
+not in good health; weak
+बीमार; कमज़ोर
+```
+
 * **astray**
+
+```
+1. away from the correct path or direction.
+"we went astray but a man redirected us"
+
+2. into error or morally questionable behaviour.
+"he was led astray by boozy colleagues"
+```
+
 * **abscond**
+
+```
+अब्ˈस्‍कॉन्‍ड्‌
+
+to run away from a place where you should stay, sometimes with something that you should not take
+किसी स्‍थान से फ़रार होना; प्रपलायन करना
+```
+
 * **assault**
+
+```
+अˈसॉल्‍ट्‌
+
+a sudden attack on somebody/something
+अचानक हुआ हमला, प्रहार, धावा
+```
+
 * **acquaintance**
 * **abetment**
 * **ample**
