@@ -1,5 +1,12 @@
 # IELTS Speaking
 
+* Speaking: Fluency and Coherence
+* Speaking: Lexis and Vocabulary
+* Speaking: Grammar
+* Speaking: Pronunciation
+
+<br/>
+
 ## Vocabulary for IELTS speaking topics
 
 * [Friends and Family](#friends-and-family)
