@@ -60,6 +60,7 @@
 * for instance
 * such as
 * like
+* like so
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -237,7 +238,8 @@ a sudden attack on somebody/something
 * **abduct**
 * **agile**
 * **absurd**
-* **Assignation**
+* **assignation**
+* **abrogate**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -284,6 +286,7 @@ a sudden attack on somebody/something
 * **cruise**
 * **calibration**
 * **cherish**
+* **camaraderie**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -314,6 +317,7 @@ a sudden attack on somebody/something
 * **divestment**
 * **dupe**
 * **delineate**
+* **derivative **
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -333,6 +337,7 @@ a sudden attack on somebody/something
 * **Esplanade** 
 * **Errand**
 * **Ephemeral**
+* **Enablement**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -399,6 +404,7 @@ a sudden attack on somebody/something
 * **implode**
 * **inexplicable**
 * **incumbent**
+* **trample**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -421,7 +427,6 @@ a sudden attack on somebody/something
 ## L
 
 * **lure**
-* **like So**
 * **lewd**
 * **levy**
 * **leverage**
@@ -451,6 +456,7 @@ a sudden attack on somebody/something
 * **nerd**
 * **nuggets**
 * **nostalgic**
+* **nerdy**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -461,6 +467,7 @@ a sudden attack on somebody/something
 * **outage**
 * **outcry**
 * **Opaque**
+* **Obscene** 
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -552,6 +559,7 @@ The remuneration packages were revised according to the employee's performance.
 * **suffice**
 * **syndicate**
 * **sermonise**
+* **stint**
 
 
 <div align="right">
@@ -606,6 +614,7 @@ The remuneration packages were revised according to the employee's performance.
 * **waylaid**
 * **whistle**
 * **whopping**
+* **wayward**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
