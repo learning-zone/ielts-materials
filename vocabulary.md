@@ -226,20 +226,21 @@ a sudden attack on somebody/something
 अचानक हुआ हमला, प्रहार, धावा
 ```
 
-* **acquaintance**
-* **abetment**
-* **ample**
-* **ante**
-* **apparently**
-* **antigen**
-* **ablaze**
-* **accompanied**
-* **adverse**
-* **abduct**
-* **agile**
-* **absurd**
-* **assignation**
-* **abrogate**
+* **Acquaintance**
+* **Abetment**
+* **Ample**
+* **Ante**
+* **Apparently**
+* **Antigen**
+* **Ablaze**
+* **Accompanied**
+* **Adverse**
+* **Abduct**
+* **Agile**
+* **Absurd**
+* **Assignation**
+* **Abrogate**
+* **Ad interim**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -247,18 +248,18 @@ a sudden attack on somebody/something
 
 ## B
 
-* **bestowed**
-* **buck**
-* **broth**
-* **brew**
-* **behooves**
-* **blatant**
-* **bury**
-* **blunt instrument**
-* **boulder**
-* **butler**
-* **brevity**
-* **bevy**
+* **Bestowed**
+* **Buck**
+* **Broth**
+* **Brew**
+* **Behooves**
+* **Blatant**
+* **Bury**
+* **Blunt instrument**
+* **Boulder**
+* **Butler**
+* **Brevity**
+* **Bevy**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -266,27 +267,27 @@ a sudden attack on somebody/something
 
 ## C
 
-* **crucial**
-* **caveat**
-* **chime**
-* **composable**
-* **concedes**
-* **crew**
-* **condone**
-* **consent**
-* **consensual**
-* **chip-in**
-* **complacent**
-* **county**
-* **consent**
-* **chaos**
-* **cite**
-* **coercion**
-* **caucus**
-* **cruise**
-* **calibration**
-* **cherish**
-* **camaraderie**
+* **Crucial**
+* **Caveat**
+* **Chime**
+* **Composable**
+* **Concedes**
+* **Crew**
+* **Condone**
+* **Consent**
+* **Consensual**
+* **Chip-in**
+* **Complacent**
+* **County**
+* **Consent**
+* **Chaos**
+* **Cite**
+* **Coercion**
+* **Caucus**
+* **Cruise**
+* **Calibration**
+* **Cherish**
+* **Camaraderie**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -294,30 +295,30 @@ a sudden attack on somebody/something
 
 ## D
 
-* **dearth**
-* **defraud**
-* **discord**
-* **disregard**
-* **doom**
-* **diligent**
-* **damp**
-* **douse**
-* **dissuade**
-* **doting**
-* **deter**
-* **defer**
-* **dissent**
-* **deplorable**
-* **deserted**
-* **detour**
-* **dangling**
-* **disposition**
-* **deceased**
-* **diktat**
-* **divestment**
-* **dupe**
-* **delineate**
-* **derivative **
+* **Dearth**
+* **Defraud**
+* **Discord**
+* **Disregard**
+* **Doom**
+* **Diligent**
+* **Damp**
+* **Douse**
+* **Dissuade**
+* **Doting**
+* **Deter**
+* **Defer**
+* **Dissent**
+* **Deplorable**
+* **Deserted**
+* **Detour**
+* **Dangling**
+* **Disposition**
+* **Deceased**
+* **Diktat**
+* **Divestment**
+* **Dupe**
+* **Delineate**
+* **Derivative**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -325,19 +326,20 @@ a sudden attack on somebody/something
 
 ## E
 
-* **eavesdropping**
-* **etymology**
-* **expeditiously**
-* **exgratia**
-* **evasion**
-* **evident**
-* **expats**
-* **extradition**
-* **elevation**
+* **Eavesdropping**
+* **Etymology**
+* **Expeditiously**
+* **Exgratia**
+* **Evasion**
+* **Evident**
+* **Expats**
+* **Extradition**
+* **Elevation**
 * **Esplanade** 
 * **Errand**
 * **Ephemeral**
 * **Enablement**
+* **Encompass**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -345,16 +347,16 @@ a sudden attack on somebody/something
 
 ## F
 
-* **frightful**
-* **foe**
-* **forgo**
-* **fled**
-* **fiercely**
-* **fugitive**
-* **fable**
-* **fissure**
-* **foe**
-* **fuss**
+* **Frightful**
+* **Foe**
+* **Forgo**
+* **Fled**
+* **Fiercely**
+* **Fugitive**
+* **Fable**
+* **Fissure**
+* **Foe**
+* **Fuss**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -362,13 +364,13 @@ a sudden attack on somebody/something
 
 ## G
 
-* **geek**
-* **gotchas**
-* **gist**
-* **gravity**
-* **grin**
-* **gloomy**
-* **go off the rails**
+* **Geek**
+* **Gotchas**
+* **Gist**
+* **Gravity**
+* **Grin**
+* **Gloomy**
+* **Go off the rails**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -376,17 +378,17 @@ a sudden attack on somebody/something
 
 ## H
 
-* **honing**
-* **hinder**
-* **hilarious**
+* **Honing**
+* **Hinder**
+* **Hilarious**
 * **Heads Up**
-* **hitch**
-* **hone**
-* **herd**
-* **hurl**
-* **hostage**
-* **hurl**
-* **homage**
+* **Hitch**
+* **Hone**
+* **Herd**
+* **Hurl**
+* **Hostage**
+* **Hurl**
+* **Homage**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -394,17 +396,16 @@ a sudden attack on somebody/something
 
 ## I
 
-* **impersonation**
-* **impediment**
-* **inadvertently**
-* **illicit**
-* **impending**
-* **instigating**
-* **intoxicated**
-* **implode**
-* **inexplicable**
-* **incumbent**
-* **trample**
+* **Impersonation**
+* **Impediment**
+* **Inadvertently**
+* **Illicit**
+* **Impending**
+* **Instigating**
+* **Intoxicated**
+* **Implode**
+* **Inexplicable**
+* **Incumbent**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -412,7 +413,7 @@ a sudden attack on somebody/something
 
 ## J
 
-* **jolt**
+* **Jolt**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -426,11 +427,11 @@ a sudden attack on somebody/something
 
 ## L
 
-* **lure**
-* **lewd**
-* **levy**
-* **leverage**
-* **lucrative**
+* **Lure**
+* **Lewd**
+* **Levy**
+* **Leverage**
+* **Lucrative**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -438,12 +439,12 @@ a sudden attack on somebody/something
 
 ## M
 
-* **mere**
-* **moot**
-* **multilateralism**
-* **mundane**
-* **meddled**
-* **mitigation**
+* **Mere**
+* **Moot**
+* **Multilateralism**
+* **Mundane**
+* **Meddled**
+* **Mitigation**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -451,12 +452,12 @@ a sudden attack on somebody/something
 
 ## N
 
-* **nagged**
-* **nabbed**
-* **nerd**
-* **nuggets**
-* **nostalgic**
-* **nerdy**
+* **Nagged**
+* **Nabbed**
+* **Nerd**
+* **Nuggets**
+* **Nostalgic**
+* **Nerdy**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -464,10 +465,10 @@ a sudden attack on somebody/something
 
 ## O
 
-* **outage**
-* **outcry**
+* **Outage**
+* **Outcry**
 * **Opaque**
-* **Obscene** 
+* **Obscene**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -475,29 +476,29 @@ a sudden attack on somebody/something
 
 ## P
 
-* **pact**
-* **precipitation**
-* **pondering**
-* **prolong**
-* **pertinent**
-* **pesky**
-* **percolate**
-* **persistence**
-* **patrons**
-* **purging**
-* **propagation**
-* **puddle**
-* **prosthetic**
-* **possession**
-* **probe**
-* **passers**
-* **peculiar**
-* **power outage**
-* **picky**
-* **perpetual**
-* **partner**
-* **per se**
-* **pitch**
+* **Pact**
+* **Precipitation**
+* **Pondering**
+* **Prolong**
+* **Pertinent**
+* **Pesky**
+* **Percolate**
+* **Persistence**
+* **Patrons**
+* **Purging**
+* **Propagation**
+* **Puddle**
+* **Prosthetic**
+* **Possession**
+* **Probe**
+* **Passers**
+* **Peculiar**
+* **Power outage**
+* **Picky**
+* **Perpetual**
+* **Partner**
+* **Per se**
+* **Pitch**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -511,13 +512,13 @@ a sudden attack on somebody/something
 
 ## R
 
-* **roger**
-* **rejuvenate**
-* **rages**
-* **regime**
-* **redact**
-* **replenish**
-* **remuneration**
+* **Roger**
+* **Rejuvenate**
+* **Rages**
+* **Regime**
+* **Redact**
+* **Replenish**
+* **Remuneration**
 
 ```
 रिˌम्‌यूनˈरेश्‌न्
@@ -533,33 +534,33 @@ The remuneration packages were revised according to the employee's performance.
 
 ## S
 
-* **sabotage**
-* **strangulated**
-* **stint**
-* **silos**
-* **sane**
-* **scintillating**
-* **sloppy**
-* **stipulate**
-* **solely**
-* **stance**
-* **stranded**
-* **succumbed**
-* **stumbled**
-* **sentinels**
-* **slog**
-* **spike**
-* **surge**
-* **snooping**
-* **swab**
-* **sting**
-* **stargazers**
-* **stalemate**
-* **sombre**
-* **suffice**
-* **syndicate**
-* **sermonise**
-* **stint**
+* **Sabotage**
+* **Strangulated**
+* **Stint**
+* **Silos**
+* **Sane**
+* **Scintillating**
+* **Sloppy**
+* **Stipulate**
+* **Solely**
+* **Stance**
+* **Stranded**
+* **Succumbed**
+* **Stumbled**
+* **Sentinels**
+* **Slog**
+* **Spike**
+* **Surge**
+* **Snooping**
+* **Swab**
+* **Sting**
+* **Stargazers**
+* **Stalemate**
+* **Sombre**
+* **Suffice**
+* **Syndicate**
+* **Sermonise**
+* **Stint**
 
 
 <div align="right">
@@ -568,9 +569,10 @@ The remuneration packages were revised according to the employee's performance.
 
 ## T
 
-* **toddler**
-* **teeming**
-* **tidied**
+* **Toddler**
+* **Teeming**
+* **Tidied**
+* **Trample**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -578,12 +580,12 @@ The remuneration packages were revised according to the employee's performance.
 
 ## U
 
-* **upon**
-* **unveil**
-* **uneven**
-* **unfurls**
-* **turmoil**
-* **urges**
+* **Upon**
+* **Unveil**
+* **Uneven**
+* **Unfurls**
+* **Uurmoil**
+* **Urges**
 * **Uproar**
 
 <div align="right">
@@ -592,16 +594,16 @@ The remuneration packages were revised according to the employee's performance.
 
 ## V
 
-* **vigilant**
-* **valour**
-* **vows**
-* **vigil**
-* **veer**
-* **vested**
-* **vest**
-* **vanity freak**
-* **vegetation**
-* **vitals**
+* **Vigilant**
+* **Valour**
+* **Vows**
+* **Vigil**
+* **Veer**
+* **Vested**
+* **Vest**
+* **Vanity freak**
+* **Vegetation**
+* **Vitals**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -609,12 +611,12 @@ The remuneration packages were revised according to the employee's performance.
 
 ## W
 
-* **waning**
-* **wee**
-* **waylaid**
-* **whistle**
-* **whopping**
-* **wayward**
+* **Waning**
+* **Wee**
+* **Waylaid**
+* **Whistle**
+* **Whopping**
+* **Wayward**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
