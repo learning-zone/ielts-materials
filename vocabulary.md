@@ -371,6 +371,7 @@ a sudden attack on somebody/something
 * **Grin**
 * **Gloomy**
 * **Go off the rails**
+* **Gimmick**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -390,6 +391,7 @@ a sudden attack on somebody/something
 * **Hurl**
 * **Homage**
 
+
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
 </div>
@@ -406,6 +408,7 @@ a sudden attack on somebody/something
 * **Implode**
 * **Inexplicable**
 * **Incumbent**
+* **Incarnate**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -561,6 +564,7 @@ The remuneration packages were revised according to the employee's performance.
 * **Syndicate**
 * **Sermonise**
 * **Stint**
+* **Saxon**
 
 
 <div align="right">
@@ -629,6 +633,8 @@ The remuneration packages were revised according to the employee's performance.
 </div>
 
 ## Y
+
+* **Yelling**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
