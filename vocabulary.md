@@ -1,5 +1,16 @@
 # IELTS Vocabulary
 
+## Word puzzle
+
+1. What is the only word in the English language with 2 synonyms that are antonyms of each other?
+2. What are the only two English words with three consecutive repeated letters?
+3. What are the two longest English words that don’t repeat letters?
+4. Which is the 7-letter word in English that consists of 10 words without rearranging any letters?
+5. What is the dot over the letters “i” & “j” called as?
+6. What is the longest word in the English Language that has no vowels?
+7. What are the only two words in English Language that have all the five vowels in order?
+
+
 ## Adding more information
 
 * and
@@ -241,6 +252,8 @@ a sudden attack on somebody/something
 * **Assignation**
 * **Abrogate**
 * **Ad interim**
+* **Assess**
+* **Asylum**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -319,6 +332,7 @@ a sudden attack on somebody/something
 * **Dupe**
 * **Delineate**
 * **Derivative**
+* **Delineate**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -372,6 +386,7 @@ a sudden attack on somebody/something
 * **Gloomy**
 * **Go off the rails**
 * **Gimmick**
+* **Genocide**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -409,6 +424,7 @@ a sudden attack on somebody/something
 * **Inexplicable**
 * **Incumbent**
 * **Incarnate**
+* **Intermittent**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -565,6 +581,8 @@ The remuneration packages were revised according to the employee's performance.
 * **Sermonise**
 * **Stint**
 * **Saxon**
+* **Stumbled**
+* **Swamped**
 
 
 <div align="right">
