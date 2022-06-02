@@ -155,6 +155,21 @@
 |Use|Employ, Utilise, Exhaust, Spend|
 |Wrong|Incorrect, Inaccurate, Mistaken, Erroneous, Improper, Unsuitable|
 
+
+## Word List
+
+|Informal  |Formal           |
+|----------|-------------------|
+|I think...|In my opinion    
+|Because... |As a result of the fact/ Due to the fact|
+|Also...    |Furthermore/Moreover |
+|But...     |However          |
+|And...     |In addition       |
+|So...      |Therefore/Consequently/As a result|
+|Anyway...  |Nevertheless     |
+|In the end...|Eventually      |
+|In a nutshell/ Basically |To Summarise...|
+
 ## A
 
 * **adage**
@@ -254,6 +269,8 @@ a sudden attack on somebody/something
 * **Ad interim**
 * **Assess**
 * **Asylum**
+* **Abruptly**
+* **Aka**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -333,6 +350,9 @@ a sudden attack on somebody/something
 * **Delineate**
 * **Derivative**
 * **Delineate**
+* **Deceive**
+* **Disguise**
+* **Diligence**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -354,6 +374,7 @@ a sudden attack on somebody/something
 * **Ephemeral**
 * **Enablement**
 * **Encompass**
+* **Embargo**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -538,6 +559,8 @@ a sudden attack on somebody/something
 * **Redact**
 * **Replenish**
 * **Remuneration**
+* **Retaliation**
+* **reluctance**
 
 ```
 रिˌम्‌यूनˈरेश्‌न्
