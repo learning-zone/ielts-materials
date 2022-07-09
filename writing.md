@@ -3,6 +3,22 @@
 * Writing: Grammar
 * Writing: Task response/Task achievement
 
+<br/>
+
+## Essay Wirting Techniques
+
+> ## P-E-S-T-H-E-L
+
+1. Psychological Angle
+2. Economics Angle
+3. Social Angle
+4. Tech Angle
+5. Health Angle
+6. Environment Angle
+7. Law/Regulations Angle
+
+<br/>
+
 ## IELTS WRITING: TASK - 1 ( 150 words )
 
 <br/>
