@@ -108,6 +108,7 @@ a sudden attack on somebody/something
 
 ## B
 
+* **brash**
 * **Bestowed**
 * **Buck**
 * **Broth**
@@ -278,6 +279,7 @@ a sudden attack on somebody/something
 * **Incumbent**
 * **Incarnate**
 * **Intermittent**
+* **Intuitive**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
