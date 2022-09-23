@@ -208,6 +208,7 @@ a sudden attack on somebody/something
 * **Encompass**
 * **Embargo**
 * **Expulsion**
+* **Encroachment**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -332,6 +333,7 @@ a sudden attack on somebody/something
 * **Nuggets**
 * **Nostalgic**
 * **Nerdy**
+* **Nimble**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -374,6 +376,7 @@ a sudden attack on somebody/something
 * **Partner**
 * **Per se**
 * **Pitch**
+* **Punk**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -441,6 +444,7 @@ The remuneration packages were revised according to the employee's performance.
 * **Saxon**
 * **Stumbled**
 * **Swamped**
+* **Simulate**
 
 
 <div align="right">
