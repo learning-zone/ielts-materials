@@ -101,6 +101,7 @@ a sudden attack on somebody/something
 * **Asylum**
 * **Abruptly**
 * **Aka**
+* **Atypical**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -150,6 +151,7 @@ a sudden attack on somebody/something
 * **Calibration**
 * **Cherish**
 * **Camaraderie**
+* **Chores**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -281,6 +283,9 @@ a sudden attack on somebody/something
 * **Incarnate**
 * **Intermittent**
 * **Intuitive**
+* **Intimidated**
+* **Intractable**
+* **Introspection**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -307,6 +312,7 @@ a sudden attack on somebody/something
 * **Levy**
 * **Leverage**
 * **Lucrative**
+* **Liaising**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -320,6 +326,8 @@ a sudden attack on somebody/something
 * **Mundane**
 * **Meddled**
 * **Mitigation**
+* **Manoeuvre**
+* **Mediocre**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -377,6 +385,7 @@ a sudden attack on somebody/something
 * **Per se**
 * **Pitch**
 * **Punk**
+* **Procrastinate**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
@@ -445,6 +454,9 @@ The remuneration packages were revised according to the employee's performance.
 * **Stumbled**
 * **Swamped**
 * **Simulate**
+* **Sarcastic**
+* **Seldom**
+* **Stubbed**
 
 
 <div align="right">
@@ -457,6 +469,7 @@ The remuneration packages were revised according to the employee's performance.
 * **Teeming**
 * **Tidied**
 * **Trample**
+* **Threshold**
 
 <div align="right">
     <b><a href="#">↥ back to top</a></b>
