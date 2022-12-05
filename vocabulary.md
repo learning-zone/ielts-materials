@@ -84,6 +84,7 @@ a sudden attack on somebody/something
 
 * **Acquaintance**
 * **Abetment**
+* **Adaptive** 
 * **Ample**
 * **Ante**
 * **Apparently**
