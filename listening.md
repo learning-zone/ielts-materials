@@ -242,7 +242,7 @@ It consists of **4 sections** with **40 questions** total.
 
 ## 2017 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Enrolling in a Sports Club
 
@@ -432,7 +432,7 @@ Coral reefs cover less than __________ of the ocean floor but support around **2
 
 ## 2018 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Reporting a Lost Item
 
@@ -650,7 +650,7 @@ Coral reefs cover less than __________ of the ocean floor but support around **2
 
 ## 2019 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Renting a Bicycle
 
@@ -849,7 +849,7 @@ D) Updated data  E) Different presenter
 
 ## 2020 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Making a Doctor\'s Appointment
 
@@ -1058,7 +1058,7 @@ Choose from:
 
 ## 2021 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Hotel Check-in Complaint
 
@@ -1241,7 +1241,7 @@ Choose from:
 
 ## 2022 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Signing Up for a Language Class
 
@@ -1472,7 +1472,7 @@ Choose from:
 
 ## 2023 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Enrolling in a Children\'s Activity Programme
 
@@ -1679,7 +1679,7 @@ Choose from:
 
 ## 2024 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Joining a Library
 
@@ -1921,7 +1921,7 @@ Choose from:
 
 ## 2025 — Practice Questions
 
----
+<br>
 
 ## Section 1 — Renting a Flat
 
