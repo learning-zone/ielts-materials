@@ -1,594 +1,542 @@
-# IELTS WRITING
+# IELTS General Training Writing
 
-* Writing: Grammar
-* Writing: Task response/Task achievement
+## Overview
 
-<br/>
+| Task | Type | Words | Time | Weight |
+|------|------|-------|------|--------|
+| **Task 1** | Letter (formal / semi-formal / informal) | ≥ 150 | ~20 min | 1/3 |
+| **Task 2** | Essay (opinion / discussion / problem-solution) | ≥ 250 | ~40 min | 2/3 |
 
-## Essay Wirting Techniques
+---
 
-> ## P-E-S-T-H-E-L
+## PART A — Task 1: Letters with Band 9 Model Answers
 
-1. Psychological Angle
-2. Economics Angle
-3. Social Angle
-4. Tech Angle
-5. Health Angle
-6. Environment Angle
-7. Law/Regulations Angle
+---
 
-<br/>
+### 2025 – Task 1
 
-## IELTS WRITING: TASK - 1 ( 150 words )
+**Question:**
+> You recently stayed at a hotel and were unhappy with the service. Write a letter to the hotel manager. In your letter:
+> - describe the problem you experienced
+> - explain how it affected your stay
+> - suggest what the hotel should do to improve
 
-<br/>
+**Band 9 Model Answer:**
 
-## Q. ***The graph below shows the proportion of four different materials that were recycled from 1982 to 2010 in a particular country. Summarize the information by selecting and reporting the main features and make comparison where relevant.***
+Dear Sir or Madam,
 
-<p align="center">
-  <img src="assets/recycling_materials_proportion.png" alt="RECYCLING MATERIALS PROPORTION" width="600px" />
-</p>
+I am writing to express my dissatisfaction with the standard of service I received during my recent stay at your establishment from 14th to 17th April 2025. I booked a superior double room through your official website, however, the experience fell significantly short of the expectations set by your promotional material.
 
-The given line graph shows the recycling rate for four different materials during the period from 1982 to 2010 in a particular country. It is evident that paper & cardboard is the most recycled material. About 65 percent of paper & cardboard was recycled in 1982. The recycling of these materials reached their peak value of 80 percent in 1994. From then onwards, there was a steady decline in the amount of paper & cardboard recycled.
+Upon arrival, I was allocated a room adjacent to the hotel\'s maintenance area, which generated considerable noise throughout both day and night. Despite reporting this issue to the front desk on two separate occasions, no remedial action was taken, and I was not offered an alternative room. As a direct consequence, I was unable to sleep adequately, which severely impaired my ability to attend the business meetings that were the sole purpose of my visit. The fatigue I experienced resulted in a loss of professional effectiveness that I find entirely unacceptable.
 
-Glass containers are the second most recycled material. While in 1982 about 50% of glass containers were recycled, that figure rose to 60% in 2010. The recycling of aluminum cans started in 1984. While only about 5 percent of aluminum cans were recycled in that year that figure rose steadily to 45 percent in 2010.
+I would strongly urge the management to implement a more robust system for handling guest complaints, ensuring that concerns are escalated promptly and resolved within a reasonable timeframe. Furthermore, I would appreciate a partial refund for the nights affected, as recompense for the inconvenience caused.
 
-Plastic is the least recycled material. The recycling of plastic started around 1988. However, there has only been a small increase in the amount of plastic recycled over the years.
+I trust that you will treat this matter with the seriousness it deserves and look forward to your prompt response.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+Yours faithfully,
+James Whitfield
 
-## IELTS WRITING: TASK - 2 ( 250 words )
+---
 
-<br/>
+### 2024 – Task 1
 
-**1. TASK ACHIEVEMENT: (25%)**
+**Question:**
+> You have seen a job advertisement and would like to apply. Write a letter to the employer. In your letter:
+> - explain why you are interested in the job
+> - describe your relevant skills and experience
+> - say when you would be available to start
 
-* Pay attention to ALL issues in the essay question
-* Write about the issues rather than just the general topic
-* Answer the essay question with relevant main points
-* Plan your supporting points so they don’t go off the topic
-* Write over 250 words
+**Band 9 Model Answer:**
 
-**2. COHERENCE AND COHESION: (25%)**
+Dear Hiring Manager,
 
-* Have either four or five paragraphs but not more and not less
-* Have just one central topic in each body paragraph
-* Include an introduction and conclusion
-* Support main points with an explanation and then an example
-* Use cohesive linking words accurately and appropriately
-* Vary your linking phrases using synonyms
+I am writing to apply for the position of Senior Marketing Coordinator, as advertised in the Daily Herald on 3rd March 2024. Having followed your company\'s innovative campaigns with great admiration over the past few years, I believe this role represents an outstanding opportunity to contribute meaningfully to your team while furthering my own professional development.
 
-**3. LEXICAL RESOURCE: (25%)**
+Over the past six years, I have accumulated extensive experience in digital marketing, brand management, and content strategy, primarily within the technology sector. In my current role at Nexus Digital, I have successfully led campaigns that resulted in a 40 per cent increase in online engagement and a 25 per cent growth in lead generation within a single financial year. I am proficient in a range of industry tools, including Google Analytics, HubSpot, and Adobe Creative Suite, and I possess strong project management and cross-functional collaboration skills.
 
-* Pay attention to collocations (which verb matches which noun)
-* Paraphrase carefully to avoid errors
-* Try to vary your vocabulary using accurate synonyms
-* Use less common question specific words that accurately convey meaning
-* Check your work for spelling and word formation mistakes
-* Avoid using informal language
+I am particularly drawn to this position because of your company\'s commitment to data-driven, customer-centric marketing — an approach that closely mirrors my own professional philosophy.
 
-**4. GRAMMATICAL RANGE: (25%)**
+Should my application be successful, I would be available to commence employment at four weeks' notice from the date of appointment.
 
-* Use a variety of complex and simple sentences
-* Check your writing for errors
-* Use different grammar tenses (conditionals, perfect tenses, passive voice, past, future etc)
-* Pay attention to word order in your sentences
-* Use a range of sentence structures
-* Use the correct punctuation (full stops and commas)
-* Avoid errors in grammar (articles, plural nouns, uncountable nouns, word order)
+I have enclosed my curriculum vitae for your consideration and would welcome the opportunity to discuss my application further at interview.
 
-To get an excellent score in the IELTS Task 2 writing section, one of the easiest and most effective tips is structuring your writing in the most solid format. A great argument essay structure may be divided to four paragraphs, in which comprises of four sentences (excluding the conclusion paragraph, which comprises of three sentences).
+Yours sincerely,
+Priya Sharma
 
-For we to consider an essay structure a great one, it should be looking like this:
+---
 
-* Paragraph 1 - Introduction
-  * Sentence 1 - Background statement
-  * Sentence 2 - Detailed background statement
-  * Sentence 3 - Thesis
-  * Sentence 4 - Outline sentence
-* Paragraph 2 - First supporting paragraph
-  * Sentence 1 - Topic sentence
-  * Sentence 2 - Example
-  * Sentence 3 - Discussion
-  * Sentence 4 - Conclusion
-* Paragraph 3 - Second supporting paragraph
-  * Sentence 1 - Topic sentence
-  * Sentence 2 - Example
-  * Sentence 3 - Discussion
-  * Sentence 4 - Conclusion
-* Paragraph 4 - Conclusion
-  * Sentence 1 - Summary
-  * Sentence 2 - Restatement of thesis
-  * Sentence 3 - Prediction or recommendation
+### 2023 – Task 1
 
-<br/>
+**Question:**
+> You ordered a product online but it arrived damaged. Write a letter to the company. In your letter:
+> - describe the item and the damage
+> - explain the problem this has caused you
+> - say what you would like the company to do
 
-**STEP 1: INTRODUCTION**
+**Band 9 Model Answer:**
 
-* **Repeat the question in your own words**
+Dear Customer Services Team,
 
-In the essay introduction, you should start by repeating the question. This does NOT mean that you should COPY the question. You should say the question again, but using different words that mean the same thing (synonyms).
+I am writing to report a serious issue with an order I recently placed on your website. On 8th February 2023, I purchased a professional espresso machine (Model: BrewMaster Pro X500, Order Reference: BM-2023-78432) at a cost of £349. The item was delivered on 15th February, however, upon opening the packaging, I discovered that the machine\'s steam wand was snapped in two and the control panel displayed a deep crack across its surface.
 
-For example, if your question was something like: Some people believe that capital punishment should never be used. Others believe that it could be used for the most serious crimes. Discuss both views and give your opinion.
+The damage is clearly structural rather than superficial, rendering the machine entirely non-functional. This has caused me considerable inconvenience, as I had purchased the appliance specifically for use at a small catering event scheduled for 20th February. Given that the machine arrived in this condition, I was forced to hire a replacement unit at additional expense, which I consider wholly unreasonable.
 
-Then the opening sentence of your introduction should use synonyms to say the question again in your own words. for example: It is a commonly held belief that the death penalty is a Draconian penalty and not appropriate in modern society. However, there is also an argument that the most despicable crimes should have this most severe of punishments.
+I would therefore request that you arrange for the collection of the damaged item at your earliest convenience and issue either a full replacement or a complete refund of the purchase price within 14 days. I would also appreciate reimbursement of the £85 I incurred in hiring a substitute appliance as a direct result of your failure to deliver goods in satisfactory condition.
 
-* **Give your opinion**
+I look forward to a swift and satisfactory resolution and trust that this matter will be treated with appropriate urgency.
 
-As soon as you have restated the question, then give your opinion on the subject. This gives the examiner an overview of what is to come in your essay.
+Yours faithfully,
+Daniel Okafor
 
-It is important to note that it does not matter what your opinion is! There is no right or wrong answer to an IELTS essay question. You do NOT have to try and think "What will the examiner think is the right answer here". The examiner is only interested in the level of your English. So just give your first instinct opinion and don\'t try to out-think yourself.
+---
 
-**STEP 2: Support your opinion**
+### 2022 – Task 1
 
-Now that you have given your opinion, you need to back it up. The best way to do this is to give examples.
+**Question:**
+> A friend has asked you to look after their house while they are on holiday. Write a letter to your friend. In your letter:
+> - agree to help and ask about any specific tasks
+> - ask about the house and any arrangements you need to know
+> - say what you plan to do while staying there
 
-You can begin this paragraph with phrases like:
+**Band 9 Model Answer:**
 
-Personally, I believe that...
-From my point of view...
-I am convinced that...
-In my opinion...
-In my view...
+Dear Sophie,
 
-So, if your opinion was that you are against capital punishment, then as an example you could write about situations where people have been jailed for life for murder and then decades later they have been released as they were proven to be innocent. The relevant vocabulary here is "a miscarriage of justice".
+What wonderful news that you are heading off on holiday — you have certainly earned a well-deserved break! I would be absolutely delighted to look after your house while you are away, so please do not give it a second thought.
 
-Your argument would be that when a miscarriage of justice occurs, the prisoner would most likely have faced the death penalty and would have been killed even though they were innocent.
+That said, I do have a few questions to make sure everything runs smoothly in your absence. Are there any specific tasks you would like me to handle, such as watering plants, collecting post, or feeding any pets? I want to be certain I have covered everything you need. Also, would you be able to leave me the contact details of a neighbour I could call in case of an emergency? It would also be helpful to know if there are any quirks about the house — for instance, any appliances that need special attention or areas that are off limits.
 
-Another example could be that many murders are committed in 'hot blood' and often as an 'act of passion'.. This means that the murder was so angry about something that they were not thinking properly.
+As for my plans while I am there, I am hoping to use the time to catch up on some reading and perhaps do a bit of exploring in the local area. I know you mentioned there is a lovely farmers' market in the village on Saturdays, so I am looking forward to that! I will, of course, ensure the house is left exactly as I found it.
 
-**STEP 3: Give the other side of the argument**
+Do let me know the details when you get a chance, and have an absolutely wonderful trip!
 
-In your next paragraph, you should look at the question from the opposite viewpoint to yours. This shows the examiner that you have balance in your writing and it is a sign of a good essay.
+Warm regards,
+Natalie
 
-You can start this paragraph with phrases such as:
+---
 
-It can also be argued that...
-Someone who held the opposing view would say that...
-However, there is also another side to this discussion.
-In contrast, some people hold the view that...
+### 2021 – Task 1
 
-**STEP 4: Conclusion - Summarise your opinion**
+**Question:**
+> You are unhappy with a course you are currently taking at a college. Write a letter to the course director. In your letter:
+> - describe what you expected from the course
+> - explain what the problems are
+> - suggest how the course could be improved
 
-To finish off your IELTS task 2 essay, you need to summarise your whole argument as a conclusion. Essentially, this means that you give your opinion again that you stated in the introduction.
+**Band 9 Model Answer:**
 
-To prove to the IELTS examiner that you have a good command of English vocabulary you should try again to use synonyms and not just copy your previous sentence. Now, you can add your expanded arguments (from step 2) into your opinion.
+Dear Dr. Harrington,
 
-A conclusion that weighs up the arguments already mentioned is a really good opportunity to use a conditional sentence.
+I am writing to express my concerns regarding the Advanced Business Communication course (Course Code: BUS-402), which I enrolled in at the beginning of this semester. I hope that by raising these issues directly, we can work together to improve the experience for all participants.
 
-If capital punishment was reintroduced into society, I do not believe that it would act as a deterrent for heinous crimes. It is my strongly held belief that the death penalty would only result in future miscarriages of justice that serve no purpose in civilised society.
+When I registered for this course, I anticipated a rigorous, professionally focused programme that would equip me with advanced written and verbal communication skills applicable to high-level business contexts. The course description explicitly promised workshops on negotiation, formal report writing, and cross-cultural communication, all of which I considered essential to my career development.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+However, I am disappointed to report that the delivery has fallen considerably short of these expectations. The sessions have, thus far, focused almost exclusively on foundational grammar exercises, which offer little value to students at this level. Furthermore, the scheduled workshops have been repeatedly postponed without explanation, and the course materials distributed are visibly outdated, referencing communication models that have been superseded for over a decade.
 
-## Q. ***Learning English at school is often seen as more important than learning local languages. If these are not taught, many are at risk of dying out. In your opinion, is it important for everyone to learn English? Should we try to ensure the survival of local languages and, if so, how?***
+I would respectfully suggest that the course content be reviewed and updated to reflect current professional standards. Reinstating the practical workshops at the earliest opportunity and incorporating contemporary case studies would significantly enhance the learning experience. I would also welcome more structured feedback on written assignments, as this has been entirely absent to date.
 
-Over the recent years, globalization has led to the free exchange of ideas and cultures. This inturn led to an extensive use of english as a **lingua franca**. In todays world learning this language is mandatory to succeed in life. At the same time local languages have to be preserved.
+I trust that you will give this matter your serious consideration, and I remain very willing to discuss these points further at a mutually convenient time.
 
-To begin with, the usage of as a bridge language desirable as it enhances cross cultural communication. These days job opportunities are various for people who are proficient in this language as this is the language of business. Most of the multinational companies open their branches across the world and mostly people who are well versed with english language are provided with high paid job. Apart from that if a country is to become competent in any field it is imperative for it to learn english. Succeeding in life is seldom seen without this.
+Yours sincerely,
+Marcus Allen
 
-Furthermore, it embodies a clear accessible standard for everybody to follow be it in books, movies or the internet. Most of the books, movies and magazines published in the world are in english. This is the language of technology, science, medicine, industry and education.
+---
 
-However, the decreased use of local language would lead to its death and language death means loss of culture. Culture forms language and language resolves around culture, the of one means the same for the other. Government must take appropriate action to protect their language from **extinction**. Appropriate legislation should be made and government must provide **adequate** funds for local language training institutions. Additionally individuals should continue using their mother langue.
+### 2020 – Task 1
 
-To conclude, while proficiency in english is a much needed aspect to lead a successful life, one should also take pride in learning their local languages which is mandatory for the survival of these languages.
+**Question:**
+> A friend from another country is coming to visit you for the first time. Write a letter to this friend. In your letter:
+> - tell them when they can visit
+> - describe what you plan to do together
+> - give advice on what to bring
 
-|Words used    | Meaning                              |
-|--------------|--------------------------------------|
-|Lingua franca |A common language used by speakers of different languages |
-|Competent     | (of a person) efficient and capable. |
-|Imperative    | of vital importance; crucial.        |
-|Seldom        | rarely                               |
+**Band 9 Model Answer:**
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+Dear Mei,
 
-## Q. ***Some people think that having a set retirement age (e.g. 65 years) for everybody, regardless of occupation is unfair. They believe that certain workers deserve to retire and receive a pension at an earlier age. Do you agree or disagree? Which type of workers do you think should benefit from early retirement?***
+I was absolutely thrilled to hear that you are finally planning a visit — I have been hoping for this for such a long time! You are more than welcome to come any time during the first two weeks of August, as I will be on annual leave from work and completely free to spend proper time with you.
 
-Since the inception of human civilization, the debate over the retirement age is widespread. Although people usually continue working after retirement, in most countries retirement is regulated. Some countries, with huge youth workforce, allow their citizens to retire early as 50. Similarly, countries that struggle with lack of workforce allow people to work more than 60 as 65 or 70 too.  However, there are few occupations which demand exceptions over age limits. For example: in politics, people work with no age limit as this occupation is paramount and requires significantly long and skilled experience and in the military, servicemen are allowed to actively serve till 45 years only as the job  necessitates impeccable physical fitness and dynamic adaptability.
+I have already been thinking about all the things we can do together. I would love to take you on a tour of the city, including the old town quarter, which is simply stunning in the summer. I have also booked tickets in advance for a classical music concert at the riverside amphitheatre — I think you will absolutely love it. Beyond that, I am planning a day trip to the national park about an hour\'s drive away, where we can hike through the forest and have a picnic by the lake. And of course, I cannot wait to introduce you to some of the fantastic local cuisine!
 
-Firstly, countries with huge youth workforce have enacted rules to force an average worker to end their careers early at an age of 50.  Eminently, this decision is influenced by the requirement to engage maximum workforce to employment. Moreover, youth bring extra energy and new innovative ideas to turn jobs more productive and less costly. However, even in these countries, we find retired people working as freelancers after retirement as early retirement for most is not a rewarding experience, and in most cases, early retirement does not suffice all monetary requirements. For example: officially, China, a country with the largest youth and overall population, does not allow its citizens to work after 50.
+In terms of what to pack, I would suggest bringing light, breathable clothing as August can be quite warm here, often reaching 30 degrees. However, it is worth including a light jacket for the evenings, as temperatures tend to drop after sunset. Comfortable walking shoes are also essential, especially for the hiking trip. If you have a universal travel adaptor, do bring that too, as our plug sockets differ from those in your country.
 
-Secondly, some countries like Poland, Iceland etc. allow their citizens to work till 70 as these countries are enduring with low workforce and high ageing people, who hold a major share of the population.  Obviously, this has some repercussions over the productivity. But, many people support this idea as this allows them to muster enough money and resources to spend happy and independent life afterwards. For example, Austria,  a country with the highest share of senior citizens, allow people to work till 70, and in order to tackle the issue, the country has announced a skilled migration scheme to attract skilled workers from other countries.
+I truly cannot wait to see you. Please let me know your confirmed travel dates as soon as possible so I can finalise our plans.
 
-In conclusion, I believe that a retirement age should be selected after intensive research into a country\'s job market, population ratio and other factors impacting society. Also, certain occupations must be vetted differently as they required some specific skills. For example, politicians must not be barred after any age, and similarly, servicemen must get retired after 50.
+With much love,
+Aisha
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+---
 
-## Q. ***Solar energy is becoming more and more popular as a source of household energy in many countries around the world. Why is this? What are the advantages and disadvantages of solar energy?***
+### 2019 – Task 1
 
-Solar power as a source of domestic household energy is becoming more desirable because many individuals are concerned that burning fossil fuels adds carbon to the atmosphere and thus accelerates global warming and climate change. Carbon emitted in the atmosphere from burning fuels has turned people to use alternative sources of energy. They have found that solar power has many benefits and fewer drawbacks.
+**Question:**
+> You are not happy about a plan to build a shopping centre in your neighbourhood. Write a letter to the local council. In your letter:
+> - say who you are
+> - explain your objections to the plan
+> - suggest an alternative plan
 
-To begin with, the main advantage of solar energy is that after the initial installation, it is entirely free and renewable. Hence, there are no extra costs involved in producing the energy which is never going to expire. Individuals will continue to get solar energy as long as the Sun is there. Moreover, it is silent and environmentally friendly as well it does not destroy and poison the ecosystem. This is because the raw material -sunshine- does not need to be extracted. It has the capability to produce power in remote areas that are not necessarily connected to a power grid. A prime example of this is in space, where satellites are controlled by high productivity solar cells. The establishment of solar panels in remote areas is substantially more financially savvy than laying expensive voltage wires.
+**Band 9 Model Answer:**
 
-However, the greatest disadvantage of solar power is that it is totally reliant on sunlight, which is not always constant. In fact, there are some places where it may not be practicable for example Sweden, Norway, and Alaska. In addition, the panels are big and cumbersome requiring a larger place to be set up even the initial purchase. And installation of the equipment is expensive
+Dear Members of the Planning Committee,
 
-To conclude, the benefits of a clean, quiet, and eco-friendly source of energy far outweigh the drawbacks, assisting secure natural resources for posterity.
+I am writing as a long-term resident of Elmwood Grove — specifically, as a homeowner at 14 Chestnut Avenue, which is situated directly adjacent to the proposed development site. I wish to formally register my strong objection to the planning application for a new retail shopping complex in our neighbourhood, submitted under Reference: ELM-PC-2019-114.
 
-|Words used    | Meaning                   |
-|--------------|---------------------------|
-|Cumbersome    |difficult to handle or use |
-|Feasible      |practicable, possible      |
+My principal concern relates to the significant increase in traffic congestion that such a development would inevitably generate. Chestnut Avenue and the surrounding streets are already operating at capacity during peak hours, and the volume of vehicles associated with a large retail centre would render the area effectively inaccessible for local residents and create a serious road safety hazard, particularly for children travelling to and from the nearby primary school.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+I am also deeply concerned about the environmental impact of this project. The site currently consists of mature woodland and green space, which provides an irreplaceable habitat for local wildlife and serves as the primary recreational area for residents across the neighbourhood. Its permanent removal would represent a devastating and irrecoverable loss to the community.
 
-## Q. ***It is generally accepted that exercise is good for children and teenagers. Therefore, physical education and sport should be compulsory for all students in all schools. What do you think? Give reasons for your answers and include any relevant examples from your own knowledge or experience.***
+Rather than proceeding with this development, I would strongly urge the council to consider repurposing the site as a community park and cultural centre, incorporating a small library, sports facilities, and green recreational areas. Such a development would enrich the lives of all residents, increase local property values, and serve the genuine long-term needs of the community.
 
-According to a large number of people, exercise is good for young children and teenagers. Hence, schools should make physical education and sports mandatory for all students. In my opinion, I completely agree with this idea of giving importance to physical education and sport in the school curriculum.
+I respectfully request that this letter be formally acknowledged and that my objections be considered before any final planning decision is made.
 
-To start with, exercise is the key to physical and mental health. It keeps the body of a child active and brings enthusiasm in him to complete other activities during the day. As most of the physical exercises are done in open grounds, they give young people a chance to connect with the nature. In addition, youngsters who play sports on a regular basis learn to accept success and defeat gracefully. These players get to compare their performance with each other and get encouraged to perform better. Team spirit is also one of the major benefits of playing sports which includes team participation.
+Yours faithfully,
+Robert Langley
 
-Moreover, these exercises and sports help children to fight their sedentary lifestyle. For example, a child who has a sports competition next week will practice his skills at home as well. It also encourages the parents to spend their time with their children to train them for the league. This makes the entire family shift towards a healthy lifestyle that consists of regular physical exercise. Introducing exercise in the school timetable helps students to get a break from the exhaustive academic subjects and return to it with renewed interest. A student who is not very strong at academics gets a wonderful opportunity to build her career in sports if these sports are taught at school.
+---
 
-In conclusion, I strongly support the idea of making physical exercise and sports compulsory in primary and secondary learning institutions because sports benefit the overall growth and development of children.
+### 2018 – Task 1
 
-|Words used    | Meaning                   |
-|--------------|---------------------------|
-|Sedentary     |Requiring sitting or little activity |
+**Question:**
+> Write a letter to an English-speaking friend about a new hobby you have taken up. In your letter:
+> - describe the hobby
+> - explain how you started doing it
+> - say why you enjoy it
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+**Band 9 Model Answer:**
 
-## Q. ***Rising university fees and scarce employment prospects for graduates have led some people to say that universities should not teach arts subjects, like philosophy and history and only offer practical degree courses that maximise chances of employment. To what extent do you agree or disagree?***
+Dear Chris,
 
-Owing to the rising unemployment and increasing cost of university education, it is considered by many people that subjects, such as philosophy and history, should be excluded from the curriculum and in order to increase job prospects, only practical subjects should be taught. In my opinion, even though practical subjects increase the chances of employment, art subjects have their own importance in contributing to the growth of an individual and the society/nation.
+I hope this letter finds you in excellent spirits! I have been meaning to write for ages, and I finally have something genuinely exciting to share with you — I have recently taken up landscape photography, and I am absolutely hooked.
 
-Arts subjects are crucial for the growth of the individual. This is primarily because many individuals are passionate about studying these subjects. By studying them, people are able to understand the human behavior. As a result, they would know the causes behind the unethical behavior of the humans. This would enable them to be creative and come up with the innovative ideas to avoid such behavior and make the world a better place to live in. Thus, these subjects would enhance the thinking ability of the individuals.
+It all began rather unexpectedly last autumn when a colleague at work invited me to join a local photography club that meets on Saturday mornings. I initially went along purely out of curiosity, having never held a proper camera in my life, but within the very first session I was completely captivated. I subsequently invested in a second-hand DSLR camera, enrolled in an online course on composition and lighting, and have barely put the camera down since.
 
-However, diminishing employment opportunities and increased university fees have made professional courses more viable options.  By teaching practical subjects, such as accountancy and law, job prospects would increase for an individual. This is mainly because employers prefer a candidate fully equipped with the practical knowledge. For instance, multinational companies shortlist only those candidates who can prepare the financial statements which require accountancy skills. Once people find jobs, the unemployment rate comes down and the nation progresses. It is apparent / obvious that the demand for practical/professional courses is at an all time high.
+What I love most about it is the way it forces me to look at familiar places with entirely fresh eyes. I have been going for early morning walks in the countryside near my home, and I keep discovering breathtaking scenes that I had previously walked past without a second glance — mist rolling across fields at dawn, dew on spider webs, the extraordinary quality of golden-hour light filtering through trees. There is also something wonderfully meditative about the process; it requires complete focus and has become one of the most effective ways I have found to disconnect from the stresses of daily life.
 
-To conclude, practical subjects, no doubt, increase job opportunities for the people and help them with their daily needs. Art subjects, however, are also crucial for the development of the individual and the society. Hence, in my opinion, universities should offer both types of courses.
+I would love to show you some of my photos when we next meet. Perhaps we could even go out for a shoot together — I recall you mentioning an interest in the outdoors, and I think you might enjoy it enormously.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+Do write back soon!
 
-## Q. ***Most people accept that we now live in a globalised world but not everyone agrees that this is beneficial. To what extend is globalisation a positive or negative development?***
+Warmest wishes,
+Elena
 
-Globalisation is here to stay, driven by advances in information technology and resulting in scientific technological and economic progress and increased international trade and investment. It has had  wde-ranging positive and negative effects on employment and economic development, scientific research, language and culture and the environment.
+---
 
-One positive result of globalisation is the global distribution of labour. It is now much easier to move to other countries to find work and this leads to better employment prospects for individuals and to more diverse workspaces. In addition capital and industrial resources have migrated to developing  countries, thus providing local jobs and boosting local economies. It has also resulted in greater contract between different cultures, as travel has become relatively safer and les expensive than it used to be. Ease of communication has encouraged an unprecedented level of global scientific research and co-operation and a subsequent explosion of knowledge and information. 
+### 2017 – Task 1
 
-A downside of this global economy is that when a catastrophe occurs as in the recent global financial crisis  that started in the USA, it affects the whole world. Similarly, when a virus emerges in one region of the world, it spreads rapidly, threatening world wide health. Globalization affect culture and language too; minority languages are dying out because of the necessity of learning english for international business and indigenous cultures are being rejected in favour of a dominant often USA-based culture. Finally, levels of population are rising as countries strive for economic growth and a competitive edge in the global market.
+**Question:**
+> You recently borrowed something from a friend and it was accidentally damaged. Write a letter to your friend. In your letter:
+> - apologise for what happened
+> - explain how the damage occurred
+> - offer to repair or replace the item
 
-In conclusion, globalisation is a double edged sword that has created jobs and promoted international co-operation but has led to cultural losses, more environmental damage, increased health risks and exposure to economic crises. However, our world will continue to shrink as technology expands and we need to accept globalisation as fact of life in the 21st century.
+**Band 9 Model Answer:**
 
-|Words used    | Meaning                   |
-|--------------|---------------------------|
-|unprecedented |never done or known before. |
-|strive        |make great efforts to achieve something. |
-|dominant      |having power and influence over others. |
+Dear Tom,
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+I am writing to sincerely apologise for what happened to your camera — I feel absolutely terrible about it and wanted to address the matter properly rather than simply send a brief text message.
 
-## Q. ***Some people believe the aim of university education is to help graduates get better jobs. Others believe there are much wider benefits of university education for both individuals and society. Discuss both views and give your opinion.***
+As I mentioned briefly when I returned the camera, the damage occurred during our hiking trip to the Lake District last weekend. I had carefully packed the camera in my rucksack, but on the final descent, I slipped on a wet rock and fell heavily. Unfortunately, the impact caused the lens filter to crack and dented the body of the camera along the left-hand side. I was horrified when I examined it afterwards and discovered the extent of the damage. I want you to know that I had taken every precaution I could think of — I genuinely did not anticipate falling on what seemed like a well-maintained path.
 
-University education is very important for the personal and professional growth of students and has various advantages. While some people might think that it is only useful for getting a good job, in my opinion, it enhances the overall personality of the student and thus offers multiple benefits.
+I have already contacted a reputable camera repair specialist here in town, and they have given me an initial estimate of £75 to replace the filter and assess the body damage. I am fully prepared to cover all costs associated with the repair. Alternatively, if you would prefer, I am happy to replace the camera entirely with an equivalent model — please just let me know which you would prefer.
 
-Firstly, in my opinion, university education helps in building a very strong profile. There is no doubt that now-a- days organizations look for applicants with a university degree and it is an added advantage during placements. Especially, in the case of mass placements, if the university is good then the companies may hire more than 50 students from the same institution. Also, graduates are much less likely to be unemployed than people who do not have a degree. They also command higher salaries. Obviously, university education is indispensable for the career growth of most people.
+Once again, I am genuinely sorry. I feel awful that your generosity in lending me the camera led to this outcome, and I am absolutely committed to making it right. Please do not hesitate to let me know how you would like to proceed.
 
-However, graduating from university has many other benefits too. Students become smart, independent and it enhances their all round development. For instance, students get a chance to organise inter-college events, educational trips and college festivals which boost up their confidence. They learn to socialize with their class and roommates and help each other in studies, health and so on. They also get chance to work on projects which gives practical experience. Education till high school is focussed and students stay at home. University education helps them to build a family away from family, enjoy life, polish their skills and learn about different cultures. Even if a student does not get direct college placement, he is well qualified to apply and get best offers from companies. University students have started to organize health awareness programs, teaching and other campaigns which benefit social causes. These campaigns / such initiatives empower the youth and contribute to the society.
+With sincere apologies,
+Ben
 
-To sum up, it is important for students to opt for university education. It equips them with the skills to grow professionally and also enhance their overall personality and character.
+---
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+### 2016 – Task 1
 
-## Q. ***Some people think that the main factors influencing a child\'s development these days are things such as television, friends, and music. Others believe that the family still remains more important. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
+**Question:**
+> You need to take some time off work to look after a sick relative. Write a letter to your manager. In your letter:
+> - explain the situation
+> - say how long you will need off work
+> - suggest how your work could be covered in your absence
 
-Nowadays, children have become addicted to electronic items, and also tend to give more importance to their friends and favorite music. Although many argue that these parameters have potential effects on a child\'s growth, I strongly believe that family plays a vital role in building a child\'s character. This essay will shed light on both these views.
+**Band 9 Model Answer:**
 
-On one hand, some factors such as television, friends, and music are believed to be have more influence on children. For instance, news reports shown on television keep children updated with latest information around the world. Besides, children also obtain inspiration by watching talent shows on TV. Apart from television, children spend plenty of time with their friends and like listening to music. Friendship teaches them how to be supportive and now maintain trust. Moreover, another benefit music is that it keeps children calm and focused on their studies.
+Dear Mr. Patterson,
 
-On the other hand, the formation of a child\'s personality is mostly based on the family, in which he has grown up . The basis values such as respect, discipline and right behavior can only be taught by responsible parents. Moreover, a child learns family traditions and religious rituals by observing their elders. For example, during my childhood, I had always followed the footsteps of my parents and grand parents in numerous ways such as white putting on particular clothes according to occasions as well as respectfully treating my guests. Despite the fact that factors external to family have an impact on a child\'s development, family has the most significant potential to turn a child into a well-behaved adult.
+I am writing to inform you of a personal situation that has arisen and to formally request a period of compassionate leave. My mother has been unexpectedly hospitalised following a medical emergency, and as her closest family member in the area, it falls to me to provide care during what is likely to be a difficult recovery period.
 
-To recapitulate, this essay illustrated that television, friends and music are some of the key factors in the process of a child\'s development; however, family is the most prominent one among these factors.
+Her physician has advised that she will require round-the-clock assistance for a minimum of two weeks following her discharge from hospital, which is expected to take place on 12th September. I would therefore like to request leave of absence from Monday, 10th September through to Friday, 21st September, inclusive. I appreciate the short notice and want to assure you that I have given considerable thought to how my responsibilities can be managed during this time.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+I have already spoken informally with Sarah Jenkins, who has kindly agreed to cover my day-to-day client correspondence and to chair the weekly project update meetings in my absence. I will prepare a comprehensive handover document by end of business this Friday, outlining the current status of all active projects, upcoming deadlines, and any outstanding action items. I also intend to remain contactable by email during evenings, should any urgent matters arise that require my input.
 
-## Q. ***Some people think that parents should teach children how to be good members of society. Others, however, believe that school is the place to learn this. Discuss both views and give your opinion. Give reasons for your answer and include any relevant examples from your own knowledge or experience.***
+I am grateful for your understanding and support at this difficult time, and I will of course provide any medical documentation required to formalise this request. Please let me know if you would like to discuss the arrangements further.
 
-Man is a social being and no one can exist as an island. While some people hold the view that parents have the responsibility to teach their children to become a good member of the society, others feel that the school is the best place to learn social values. In my opinion, both the parents and the teachers have an indispensable role in shaping the character of their children.
+Yours sincerely,
+Catherine Moore
 
-Firstly, parents are the primary teachers and home is the first school where the personality development of children is initiated. From birth to preschool children are under the sole custody of their parents. They imitate the actions of their parents and for this reason it is important for parents to become a good role model for their children. Parents are the best people to teach them the concept of good and bad. When they are taught to make this distinction from a young age, they are unlikely to go astray when they grow up.
+---
 
-However, parents are not the only influence on children. Teachers at school have an equally important role to play in the formation of their character. The school is essentially a microcosm of the universe. Here the children get to interact with other children of different character, personality and family backgrounds. This exposure that they get at school plays a crucial role in the formation of their parents. It is the duty of parents to instil in them the values of discipline and social commitment.
+### 2015 – Task 1
 
-To conclude, parents and teachers both have an equally important role in moulding the character of children. In my opinion, their roles are complementary.
+**Question:**
+> You recently saw an advertisement for a training course that interests you, but you need some more information before booking. Write a letter to the training centre. In your letter:
+> - explain why you are interested in the course
+> - ask about the specific details you need
+> - ask about booking arrangements
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+**Band 9 Model Answer:**
 
-## Q. ***Nowadays the way many people interact with each other has changed because of technology. In what ways has technology affected personal relationships? Has this become a positive or negative development?***
+Dear Course Administrator,
 
-Advancements in technology have changed the way we interact with one another. People often debate whether this development has any negative impact on relationships. In my opinion, although technology has some negative aspects, its impact on our lives has been largely positive. The most important benefit of advanced communication tools is that they enable us to receive instant replies from the other person.
+I am writing to enquire about the Professional Data Analysis course advertised in the October edition of Business Monthly. Having recently transitioned into a data-focused role at my current employer, I am keen to formalise my skills and gain a recognised qualification, and this course appears to align very closely with my professional development objectives.
 
-Earlier, people had to wait for a longer time to get reply from the other person. However, with the advances of technology, an individual can communicate from any corner of the world without any interference or dependency on others. For example, the postman used to take days to deliver messages from sender to receiver because that message had to physically travel from its source to the destination. However, same message could be delivered instantly to the other person through digital applications like WhatsApp and Skype.
+Before confirming my enrolment, I would be grateful if you could clarify several points. Firstly, could you please confirm whether the course is available in a part-time evening format, as I would need to continue working full-time throughout? Secondly, I would like to know more about the course assessment structure — specifically, whether it is entirely coursework-based or includes written examinations. I would also appreciate confirmation of the software tools covered, as my role currently requires proficiency in both Python and SQL, and I want to ensure the course addresses these in sufficient depth.
 
-On the other hand, there is an argument that new age technologies have made people less sociable. They do not interact with their family members or neighbors because they are busy communicating with their virtual friends on Facebook or Twitter. This is certainly an alarming development. Even so, these applications help people to remain in contact with each other even if they are located in faraway places. Using services like Facebook or Instagram, we can keep ourselves updated about the happenings in the lives This is because these platforms provide all the updates about the individual events in life like birthday, hobbies and many others, and these offer an opportunity to the people to interact with one another. By contrast, this was not possible in earlier years, because as a human one cannot remember every aspect of others’ life. Hence, these technologies have brought people closer than before.
+Regarding logistics, could you advise on the most efficient method for securing a place? I understand from the advertisement that places are limited and fill quickly. I would also like to know whether a deposit is required at the point of booking, and whether an instalment payment option is available for the full course fee.
 
-In conclusion, new communication tools have certainly made people less sociable; however, they also allow us to stay in constant touch with our near and dear ones wherever they may be. In my opinion, if these tools are used responsibly they are a boon to mankind.
+I look forward to receiving the relevant information and hope to finalise my decision within the next few days. Please do not hesitate to contact me should you require any further details.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+Yours faithfully,
+Hannah Brooks
 
-## Q. Increasing the price of petrol is the best way to solve growing traffic and pollution problems. To what extent do you agree or disagree? What other measures do you think might be effective?
+---
 
-### IDEA GENERATION
+## PART B — Task 2: Essays with Band 9 Model Answers
 
-There are two questions to answer:
+---
 
-1. Do you think increasing the price of petrol is the best way to solve growing traffic and pollution problems?
-2. What other measures do you think might be effective to solve traffic and pollution problems?
+### 2025 – Task 2, Question 1
 
-**1. Increasing the price of petrol:**
+**Question:**
+> *Many people believe that individuals who commit crimes should be given longer prison sentences. Others argue that there are better ways to reduce crime. Discuss both views and give your own opinion.*
 
-  * If the price is increased, less people will be able to afford it
-  * If less people can afford petrol, less people will drive cars
-  * If less people drive cars, there will be less congestion on the roads
-  * If less people drive, there will be less air pollution
+**Band 9 Model Answer** *(approx. 310 words)*
 
-**2. Other ways to solve traffic and pollution problems:**
+The question of how best to address criminal behaviour has long been a subject of considerable debate. While proponents of lengthy incarceration argue that it protects society and deters potential offenders, others maintain that alternative approaches are far more effective in tackling the root causes of crime.
 
-  * Traffic problems can be solved by improving public transport to encourage more people to use it rather than to  use their own cars
-  * Public transport can be improved by having more public transport available, making it more punctual and reducing the price of tickets to make it more affordable to the average person
-  * Another measure is to have no traffic zones in city centers which will  reduce both congestion and pollution in urban centers.
+Those who favour longer prison sentences contend that extended periods of incarceration serve multiple purposes simultaneously. By removing offenders from society for prolonged periods, the public is protected from repeat victimisation. Furthermore, the prospect of a lengthy sentence may discourage individuals from committing crimes in the first place, particularly for premeditated offences. In high-profile cases, there is also a strong public expectation that serious crimes will be met with appropriately severe consequences.
 
-<br/>
+However, the evidence in favour of alternative approaches is compelling. Research consistently demonstrates that high recidivism rates in countries that rely heavily on imprisonment suggest that custodial sentences alone do little to rehabilitate offenders or address the underlying social, economic, and psychological factors that drive criminal behaviour. Programmes that combine education, vocational training, and mental health support within both community and custodial settings have been shown to produce significantly lower reoffending rates. Moreover, investment in preventative measures — such as improving access to education and employment in deprived communities — addresses criminogenic conditions before individuals come into contact with the justice system at all.
 
-**Sample Answer:**
+In my view, while serious and violent offences undoubtedly warrant custodial sentences, society\'s ultimate goal should be the reduction of crime rather than punishment for its own sake. A justice system that prioritises rehabilitation over retribution, and prevention over incarceration, is not only more humane but demonstrably more effective. Governments should therefore redirect resources towards evidence-based interventions rather than continuing to expand prison populations.
 
-Over the last half-century, there has been a dramatic increase in the number of vehicles. This has resulted in numerous traffic jams especially in the big cities and consequently, high levels of air pollution. Although, there are those who believe that increasing oil prices might help solve this problem. I am strongly inclined to believe that higher petrol prices will have serious drawbacks on our society.
+---
 
-Firstly, oil and gas play a fundamental role in the industry, since most of the heavy machinery used in different industries are operated by petrol. For example, a recent study conducted in Japan has revealed that the nearly 80% of all businesses are sensitive to the price of petrol. In addition, higher prices of petrol will indirectly influence the prices of the various goods in the market through increasing the cost of their transportation. Lastly, this will burden the people and limit their freedom to travel to enjoy their leisure time. Undoubtedly, the growth of oil and gas prices will create new problems.
+### 2025 – Task 2, Question 3
 
-On the other hand, there are some other ways to tackle traffic and pollutions problem in cities. To begin with, improving methods of public transportation as well as the increase in their availability everywhere around the clock, will significantly reduce the use of private cars. To illustrate, a recent study published in Canada has shown that the upward trend in the various means of public transportation such as buses and trains resulted in decrease the number of traffic jams and road accidents by around 25%. Moreover, the government should invest more on repairing and maintaining roads as well as constructing  new roads to solve the problem and traffic congestion. Furthermore, the scientists should search for the sources of clean energy such as solar power and nuclear power to replace the fossil fuel.
+**Question:**
+> *In many countries, the number of animals and plants is declining. Why is this happening? How can this problem be solved?*
 
-To sum up, it can be clearly seen that the cons of increasing petrol prices outweigh the pros hence I am strongly against the idea of increasing gasoline prices. Government and scientists can prevent the situation from further deterioration through new mobility solutions and innovation in renewable energy.
+**Band 9 Model Answer** *(approx. 310 words)*
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+The accelerating loss of biodiversity represents one of the most pressing environmental crises of our time. The decline of both animal and plant species across the globe can be attributed to a convergence of interconnected human-driven factors, each of which demands a targeted and sustained response.
 
-## Q. In some countries, the average weight of people is increasing and their level of health and fitness is decreasing. What do you think are the causes of these problems and what measures could be taken to solve them? Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+The principal driver of species decline is habitat destruction, most notably through deforestation, the conversion of natural land to agricultural use, and rapid urban expansion. As ecosystems are fragmented and degraded, species lose the food, shelter, and breeding grounds essential to their survival. Compounding this is the escalating threat of climate change, which disrupts seasonal patterns, alters precipitation, and raises temperatures beyond the adaptive capacity of many species. Additionally, pollution of waterways and soils, the introduction of invasive species, and unsustainable harvesting of wild populations through poaching and overfishing further accelerate decline.
 
-### IDEA GENERATION
+Addressing this crisis requires intervention at multiple levels. At the governmental level, it is essential to strengthen and enforce international conservation agreements, expand the network of legally protected natural reserves, and introduce stringent regulations that hold corporations accountable for the environmental impact of their operations. Equally important is the transition to sustainable agricultural practices that preserve soil health and reduce chemical inputs harmful to pollinators and other wildlife.
 
-*Essay Type:* **Causes and Solutions**
+At the community and individual level, awareness campaigns can foster a culture of environmental stewardship, while ecotourism initiatives that generate income from biodiversity preservation provide communities with a direct economic incentive to protect local ecosystems. Investment in scientific research to monitor species populations and develop restoration techniques is also critical.
 
-<br/>
+In conclusion, the decline of biodiversity is a multifaceted problem rooted in unsustainable human activity. Only through coordinated global action — combining legislative reform, corporate accountability, and community-level engagement — can this trend be meaningfully reversed.
 
-*Causes:* **Why people\'s weight is increasing and their health condition and fitness are decreasing in many countries?**
+---
 
-* The popularity of eating high-calorie fast foods across the world.
-* People have become less active than before due to changing of lifestyle (Using more private vehicles, using  machines to do their tasks, or sitting in front of the computer and TV).
-* The role of food advertisement in the media, which has tremendously increased the rate of obesity among children.
-* Producing more variety of high caloric food products by food companies compared to the past.
-* Shortage of health budget in some developing countries due to overpopulation and obese patients are less monitored by doctors.
-* Trusting to other commercial methods for weight losing. People have less monitoring on their weight because they think there are better methods than sports to lose their weights.
-* The role video games and computer games on children\'s inactivity.
-* People\'s busy lifestyle forced them to depend on fast foods rather than cooking meals at home.
-* Parents' carelessness often causes obesity among children.
-* Ready to eat foods like chips, cheese and packet foods do more damage to our digestion system.
-* The GM (Genetically Modified) foods contain high fats and we are consuming these GM foods every day.
-* People\'s diet habit often makes them eat a large amount of food at a time rather than eating it in installments. 
-* Lack of awareness, sedentary lifestyle and lack of exercise.
-* People\'s choices of tasty but unhealthy foods lead them to gain weight.
+### 2024 – Task 2, Question 1
 
-<br/>
+**Question:**
+> *Some people think that governments should ban dangerous sports and activities. To what extent do you agree or disagree?*
 
-*Solutions:* **What measures could be taken to solve these problems?**
+**Band 9 Model Answer** *(approx. 300 words)*
 
-* A healthy diet could be the best solution to tackle the obesity and health related issues.
-* Restricted legislation on TV food advertisements by governments.
-* School authorities must encourage young to do more daily exercise.
-* Timely consumption of meals and ensuring that they are full of nutrition\'s is the key factor in living a healthy lifestyle.
-* Considering more substantial health budget for obesity and its side effects.
-* Avoiding GM foods and eating more fresh and organic vegetables and fruits.
-* Popularizing bicycle as a more leading method of transportation in many cities.
-* Increasing the number of sports facilities.
-* Increasing sports facilities in schools and encouraging children to do exercise more.
-* Commercial methods for losing must be banned by health authorities.
-* Increasing the awareness of people about the heinous effects of obesity.
-* Parents should be more attentive to their children\'s health.
-* Arranging sports and exercise facilities at the workplaces.
-* People must be trained by the local council about how much is obesity dangerous for their health.
-* Unhealthy foods must be banned from schools.
-* Drinking a lot of water every day and avoiding alcohol totally.
-* Avoiding fast food and drinks that contain high fat and sugar.
-* Having more trained teachers who know more about children\'s diet.
-* A healthy lifestyle, balance diet, exercise, outdoor activities can reduce this problem to a great extent.
-* Monitoring packet foods and fast food items and their ingredients by the food authority are required to control the quantity of fats and sugars these items contain.
-* Walking, making face-to-face communication and using the bicycle whenever possible.
+The notion that governments should prohibit sports and activities deemed dangerous is one that, while superficially appealing from a public safety perspective, ultimately rests on a flawed understanding of personal freedom and the role of the state. I strongly disagree with this position for several reasons.
 
-<br/>
+It is undeniable that extreme sports such as free-solo rock climbing, base jumping, and motorcycle racing carry inherent risks of serious injury or death. Proponents of a ban argue that the medical costs associated with treating injured participants place an undue burden on public healthcare systems and that governments have both a right and a duty to protect citizens from harm. These are not insignificant concerns.
 
-**Sample Answer:**
+However, the fundamental principle at stake is personal autonomy. In a democratic society, adults must retain the right to make informed choices about their own lives, provided those choices do not endanger others. Dangerous sports are pursued voluntarily by individuals who are fully aware of the associated risks and who derive enormous physical, psychological, and social benefit from their participation. To criminalise these activities would represent a disproportionate and paternalistic overreach of government authority.
 
-Despite knowing the detrimental impact of obesity on health, people around the world are getting heavier than before. This essay will examine the major causes of this issue and suggest some viable solutions to tackle it.
+Furthermore, banning dangerous sports would be largely unenforceable and might simply drive them underground, where they would be practised with even less safety oversight than currently exists. A far more effective approach would be for governments to implement and enforce robust safety standards, require adequate training and certification for participants, and mandate appropriate insurance coverage. This framework protects both the individual and the public purse without unnecessarily curtailing freedom.
 
-The main causes of increasing body weight and decreasing fitness levels are the sedentary lifestyle of people and excessive consumption of junk food. Fast food companies are spending millions of dollars to promote their products on TV and the internet. These commercials make unhealthy food seem extremely tempting and mouth-watering. As a result, people especially children unconsciously gorge on them. Unfortunately, excessive consumption of junk leads to obesity and health problems because obese people are more likely to develop diabetes and heart trouble.
+In conclusion, rather than banning dangerous sports outright, governments should focus on creating a well-regulated environment in which individuals can pursue their chosen activities as safely as possible. The right to take calculated risks is a cornerstone of individual liberty.
 
-Another factor contributing to growing cases of obesity is the sedentary lifestyle of people. Due to the growing academic and work pressure, children as well as adults do not get enough time to work out. Worse, even when people are free, instead of working out in a gym, they prefer to watch a movie on the TV or computer. This way of life has a negative impact on their health.
+---
 
-Promoting health awareness among people and enforcing strict censorship on food advertisements are the best ways to combat this issue. The government and the media should inform people of the harmful consequences of leading an inactive life. Once the public are aware of the negative effect of obesity, they are more likely to take actions to change their lifestyle. Another solution is to ban misleading food advertisements that target children. The government must ensure that food companies are not promoting unhealthy food as healthy.
+### 2023 – Task 2, Question 1
 
-To conclude, there is no denying the fact that the growing cases of obesity and decreasing levels of health are a major concern around the world. To combat this issue, the government should launch health awareness campaigns and ban misleading ads that encourage the consumption of fast food.
+**Question:**
+> *Some people think that it is better to educate boys and girls in separate schools. Others believe that boys and girls benefit more from attending mixed schools. Discuss both views and give your own opinion.*
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+**Band 9 Model Answer** *(approx. 305 words)*
 
-## Q. ***Some people think that it is better to educate boys and girls in separate schools. Others, however believe that girls and boys benefits more from attending mixed schools. Discuss both views and give your own opinion.***
+The debate over single-sex versus co-educational schooling has persisted for generations, with passionate advocates on both sides. While there are legitimate arguments in favour of separating boys and girls for educational purposes, I am ultimately persuaded that mixed schools better prepare young people for life in a diverse society.
 
-### IDEA GENERATION
+Supporters of single-sex education frequently cite academic evidence suggesting that removing gender-related distractions from the classroom environment allows students — particularly girls — to engage more confidently with subjects from which they might otherwise feel discouraged, such as mathematics and the physical sciences. In an environment free from gender stereotyping and social self-consciousness, students may develop greater academic confidence and achieve higher results. Some research does support this claim, particularly in relation to girls' performance in STEM subjects.
 
-*Essay Type:* **Discuss both views + Opinion**
+Nevertheless, the case for co-education is, in my view, more compelling in the broader sense. School is not merely a place of academic instruction; it is where children develop the interpersonal skills, social awareness, and mutual respect that will define their relationships throughout adult life. A mixed environment provides daily exposure to different perspectives and communication styles, which is invaluable preparation for the workplace and wider society, both of which are inherently co-educational. Furthermore, the argument that single-sex environments eliminate harmful stereotyping may actually produce the opposite effect by reinforcing the notion that boys and girls are fundamentally incompatible as peers.
 
-<br/>
+In conclusion, while single-sex schools may offer certain academic advantages in specific contexts, these benefits are outweighed by the broader social and developmental gains that a mixed educational environment provides. Education should equip young people not only with knowledge, but with the social competence and empathy needed to navigate a complex, diverse world, and co-educational schools are better positioned to achieve this.
 
-*First View:* **It is better to educate boys and girls in separate schools**
+---
 
-* Better concentration in the class and achieving higher grades because they spend less time on other activities.
-* Reduction the rate of inappropriate sexual relationship.
-* This does not contradict with some religious beliefs like Islamic belief.
-* It is observed that when boys and girls are separated, it would make them more disciplined.
-* Less report of sex discrimination (giving more opportunity to specific gender)
-* In this system, students tend to be more focused on studies rather than being distracted to all fantasies of  teenage.
-* This system is better in terms of students’ engagement in extra-curricular activities like sports.
+### 2022 – Task 2, Question 1
 
-<br/>
+**Question:**
+> *Some people believe that visitors to other countries should follow local customs and behaviour. Others disagree and think that the host country should welcome cultural differences. Discuss both views and give your own opinion.*
 
-*Second View:* **It is better to have coeducation schools**
+**Band 9 Model Answer** *(approx. 300 words)*
 
-* Better communication with opposite gender in real life (work, family, marriage).
-* Participation in more team working.
-* Being respectful to opposite gender.
-* Both genders have different abilities to learn different study materials, so they can help the opposite sex to learn better.
-* Co-education system enhances the understanding between the two genders.
-* Maintaining co-education system would be less costly. Clearly, to divide girls and boys, governments have to spend more money on education.
-* Each gender would be able to co-work as well as participate in competition with the other gender. Such friendly competition and co-working would enhance the overall performance of the students.
+The relationship between visiting travellers and the cultures they encounter raises profound questions about identity, respect, and mutual accommodation. While there are valid arguments for both adaptation and the celebration of cultural diversity, the most constructive position lies somewhere between the two extremes.
 
-**My opinion**
+Those who believe that visitors should adopt local customs argue that doing so demonstrates a fundamental respect for the host culture and its values. Adhering to local dress codes, social conventions, and behavioural norms is, from this perspective, simply a matter of courtesy, analogous to observing the rules of a guest in someone else\'s home. In countries where certain behaviours carry deep religious or cultural significance, disregarding these norms may cause genuine offence and contribute to an erosion of trust between visitors and local communities.
 
-* Both sides of the discussion have indisputable virtues and benefits. However, I agree that co-education system is far better than the unisexual schools. 
-* I opine that separate schooling for boys and girls has far more benefits and that's why I support this system.
+On the other hand, those who argue that host countries should embrace cultural differences contend that rigid expectations of conformity can border on cultural intolerance and fail to acknowledge the enriching influence that diverse perspectives bring to any society. A healthy, open culture is, by definition, one that is capable of accommodating difference without feeling threatened by it. Moreover, placing the entire burden of cultural adaptation on the visitor neglects the reciprocal responsibility that hosts bear in any genuine exchange.
 
-<br/>
+In my view, a balanced approach is most appropriate. Visitors should make every reasonable effort to understand and respect the essential customs of their host country, particularly those with religious or communal significance. However, host societies should also cultivate an attitude of openness and curiosity towards cultural difference, recognising that the interaction of diverse traditions ultimately enriches everyone involved. Mutual respect, rather than one-sided accommodation, is the foundation upon which meaningful cross-cultural exchange is built.
 
-**Sample Answer:**
+---
 
-Nowadays, the co-educational system is considered as the best option in many countries. Some believe that it is better that young females and males study separately, while others mention that studying together can be more beneficial. I will discuss both sides and will give my opinion.
+### 2021 – Task 2, Question 1
 
-On the one hand, those believing that education systems should be a separate gender-based system have their own reasons. One is that this method can be safer. Every year, numerous sexual offences are reported by the local or national news, regarding of rape or other inappropriate sexual behaviors, especially in countries permitting both genders to study in one school. However, studying in single-gender-institutions can reduce the rate of these figures. As a prime example, thousands of sexual assaults are reported in the U.S. schools annually but had the government considered unisex education, these rates would have dramatically decreased. Another reason is that this system may raise religious conflicts. In some countries, some opponents are not interested in sending their children to these types of schools, and this has become hot potato between different religious groups. For instance, French Islamic citizens prefer their children to study in a single sex school, whereas the administration admits both genders in one educational place.
+**Question:**
+> *Some people think that a sense of competition in children should be encouraged. Others believe that children who are taught to co-operate rather than compete become more useful adults. Discuss both views and give your own opinion.*
 
-On the other hand, I personally give a green light to those supporting co-educational system. The first reason behind it is that this system definitely would be less costly. Clearly, to divide girls and boys, governments have to spend more money on education because they cannot use empty spaces of a female school for a male one, or vice versa. As a result, less educational facilities should be provided for scholars, declining the total education budget. Furthermore, this method can improve students communication skills. Obviously, having a better relationship with the opposite sex, juveniles will have a closer relationship not only during their study but during their matrimonial life. They generally have fewer marriage problems with their partner due to having a better experience before. In this way, Sigmund Freud, a very familiar former psychologist, believe that humans’ social skills are fundamentally developed as they have closer feelings to their opposite sex during childhood.
+**Band 9 Model Answer** *(approx. 305 words)*
 
-In conclusion, although in some countries co-educational system is not popular, I agree with it. Not only in this measure more governmental budget can be saved, but youth can have better relationships with the opposite gender. Hopefully, a global tendency will propagate this method of education in the near future.
+Whether children benefit more from a competitive or cooperative upbringing is a question that touches on fundamental values in education and child development. Both approaches carry distinct merits, though I ultimately believe that fostering cooperation is of greater long-term benefit to society.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+Proponents of competitive learning argue that it reflects the realities of adult life, in which individuals must compete for jobs, resources, and opportunities. Introducing children to healthy competition at an early age can cultivate resilience, ambition, and the motivation to maximise their potential. Competitive environments also provide clear benchmarks of progress and can drive higher standards of academic and personal achievement. Sports, academic competitions, and performance-based assessments all serve to develop a work ethic that will stand children in good stead throughout their lives.
 
-## Q. ***The best way to reduce youth crime is to educate their parents with parental skills. To what extent do you agree or disagree?***
+Despite these merits, I find the arguments for prioritising cooperation more persuasive. The modern workplace increasingly demands the ability to function effectively within diverse teams, to share knowledge generously, and to resolve conflict constructively. These are skills most effectively cultivated through cooperative learning experiences. Furthermore, an excessive emphasis on competition can generate anxiety, erode self-esteem in those who consistently underperform relative to their peers, and foster an individualistic mindset that is ultimately detrimental to social cohesion. Research in developmental psychology suggests that children who learn to collaborate exhibit higher levels of empathy, better problem-solving skills, and greater emotional intelligence.
 
-A number of crimes are happening on the streets of the planet and increasing rapidly. The majority of those crimes are done by youngsters. Some people believe, that educating the parents solely can help decrease these offences, while others are of diverse opinion. In my opinion, society is equally responsible for this and hence teaching skills to parents alone, cannot help in improving this dire situation.
+It is, of course, neither realistic nor desirable to eliminate all competition from childhood experience. However, if the aim of education is to produce well-rounded, socially capable adults who contribute positively to their communities and workplaces, then the emphasis must fall primarily on cooperation. An education system that places collaboration at its core, while maintaining space for healthy individual challenge, serves children and society most effectively.
 
-Firstly, society can influence the youngsters to a great extent. As, the young minds are impressionable, they tend to imitate, what they see. To cite an example, a child growing up in high criminal activity sectors, is likely to learn the same acts. Therefore, a crime free society is, the prominent, for resolving this situation. This can be done through strict law enforcement. For instance, If fear is instilled, in the minds of criminals, they are less likely to commit offences.Hence, the chances of youth being exposed to misdeeds, will be significantly reduced, which can help improve the current condition.
+---
 
-On the other hand, parenting skills can help reduce crimes, as this can assist the guardians on how to use adequate techniques to teach discipline, control and balanced supervision and how to set boundaries, when a child disobeys the rules. For example, a survey conducted in 2015, showed that parents who participated in these classes, we're able to avoid their young children, from being involved in criminal offences. These methods are vigorously tested and supported by evidence, which is the reason behind the success of these programs. Hence, it can be said, that parenting skills can assist in bringing down the teen crime rates.
+### 2020 – Task 2, Question 1
 
-To conclude, community as well as parents is responsible for the increasing offences committed by the minority and hence, in my view, providing parental skills alone cannot reduce the felonies.
+**Question:**
+> *Some people think that they can learn better by themselves than with a teacher. Others think that it is always better to have a teacher. Discuss both views and give your own opinion.*
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+**Band 9 Model Answer** *(approx. 300 words)*
 
-## Q. ***High school students are usually not good at managing money. What are the reasons? What are the solutions?***
+The question of whether self-directed learning or teacher-guided instruction produces superior educational outcomes has gained renewed relevance in an age of unprecedented access to information. Both approaches offer genuine advantages, and the most effective learning experiences typically combine elements of both.
 
-Financial management is a useful skill that everyone must have. Many people argue that secondary school students should be taught money management at school. I agree with this view.
+Those who advocate for independent study argue that self-directed learners develop a deeper sense of ownership over their intellectual development, pursuing subjects at their own pace and according to their own priorities. With access to a vast array of online resources, academic texts, and instructional videos, motivated individuals can now acquire sophisticated knowledge and skills without ever entering a formal classroom. Self-teaching also cultivates valuable metacognitive skills — the ability to identify gaps in one\'s own understanding and devise strategies to address them — which are arguably more important than any specific body of knowledge.
 
-To commence with, teaching teenagers about saving and managing money can help them to understand its value. At this age most of them are already aware of the financial status of their family. They know how hard their parents work to send them to school and provide them other amenities. Also, most children receive some pocket money when they are in high school. If they have money management lessons in their syllabus they will figure out the best way to use their pocket money. These lessons will give children an understanding of the need to budget everything. They will also learn about the functioning of national and international economies. Better still, they will learn to respect the efforts put in by their parents.
+Conversely, the value of an experienced teacher is difficult to overstate. A skilled educator does not merely transmit information but actively diagnoses student misconceptions, provides targeted feedback, adapts their explanations to the needs of individual learners, and creates a structured environment that sustains motivation over time. For complex subjects, in particular, the guidance of an expert who can pre-empt common errors and provide step-by-step scaffolding is often essential. Additionally, classroom environments provide social learning opportunities — discussion, debate, and collaborative problem-solving — that independent study cannot replicate.
 
-In addition to this, schools can enhance the money management skills of young people by allowing them to run a canteen or other services inside the school campus. They can also start a saving scheme for students and encourage them to deposit their pocket money in it. Schools should also encourage financially well-off students to help their underprivileged peers by helping them pay their fee or buying them textbooks.
+In my view, neither approach is universally superior. The optimal model depends heavily on the learner\'s motivation, experience, and the nature of the subject matter. However, for most learners — particularly younger students or those tackling a new discipline — the structured support of a qualified teacher provides an invaluable foundation from which independent learning can subsequently flourish. The two approaches are most powerful when treated as complementary rather than competing.
 
-To conclude, money management is all about making the best use of the available resources. It takes only a few years for teenagers to become adults and if they did not figure out how to manage their finances at high school, they will struggle as adults when they have to manage everything on their own. Hence, I believe that high school students should be taught financial management.
+---
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+### 2019 – Task 2, Question 1
 
-## Q. ***The mobile phone is used both for work and personal phone calls at all times for the days every day of the week. Do you think this has more positive or negative effects both for individuals and society?***
+**Question:**
+> *Some people believe that it is best to accept a bad situation, such as an unsatisfactory job or shortage of money. Others argue that it is better to try and improve such situations. Discuss both views and give your own opinion.*
 
-### IDEA GENERATION
+**Band 9 Model Answer** *(approx. 305 words)*
 
-<br/>
+The question of whether individuals should accept unfavourable circumstances or actively strive to change them touches on deeply held philosophical and cultural values. While there is wisdom in both perspectives, I firmly believe that the impulse to seek improvement is, on balance, more conducive to human progress and personal fulfilment.
 
-**Pros:**
+Those who advocate acceptance often draw on traditions of mindfulness and philosophical stoicism, which counsel that suffering is frequently aggravated not by our circumstances themselves but by our resistance to them. Constant striving for change, they argue, leads to perpetual dissatisfaction and an inability to appreciate what one already has. There is also a pragmatic dimension: accepting certain situations that are genuinely beyond one\'s control preserves emotional energy and prevents the paralysis caused by futile struggle.
 
-* Being accessible for company work 24/7 is great for business.
-* Customer always have a number to call for problems or enquires.
-* Bosses can keep better contact with their employees.
-* It enables some people to work from home and be more flexible.
-* People can use their phones in emergencies.
-* People will feel safer knowing hey can contact people wherever they are.
-* People can easily and quickly report accidents and get help.
-* Parents can keep contact with their children and offer them more support regardless of where they are.
-* Family member can easily contact each other over long distances.
-* People can feel connected to the wider world.
-* Disabled people are no longer isolated.
-* People in remote areas can have immediate contact with other people.
+However, the case for actively pursuing improvement is, in my view, far more compelling. Virtually every advance in human welfare — from the abolition of unjust social conditions to improvements in working rights and living standards — has been achieved precisely because individuals refused to accept circumstances that fell short of what was possible. On a personal level, an individual who accepts an unfulfilling career or chronic financial hardship without attempting to change their situation is unlikely to realise their potential or achieve lasting satisfaction. The capacity to envision a better future and to take concrete steps towards it is, arguably, one of the defining characteristics of human agency.
 
-<br/>
+In conclusion, while there is genuine value in cultivating equanimity in the face of truly unalterable circumstances, the default disposition of individuals facing genuinely changeable situations should be one of constructive action. Acceptance should be a considered response reserved for situations that are truly beyond influence, not a general attitude towards life\'s challenges.
 
-**Cons:**
+---
 
-* Some people use their mobile phones while driving
-* Using mobil phones around certain medical equipment is not safe.
-* Constant use of mobile phones is supposed to be bad for people health.
-* Being accessible for work through a mobile phone 24/7 means lack of rest time and constant stress.
-* Demanding bosses may put too much work pressure on staff.
-* There is not cut off between work and free time.
-* Children may feel bothered by their parents continual surveillance.
-* Children can't escape from peer pressure.
-* If people know you are easily accessible by phone, they will expect to always be able to reach you.
-* Constant calling can exhaust people.
-* Some people continue distance relationship by phone rather than know their neighbors.
-* Local community has less important due to long distance communication.
+### 2018 – Task 2, Question 2
 
-<br/>
+**Question:**
+> *The internet has transformed the way information is shared and consumed, but it has also created problems that did not exist before. What are the most serious problems associated with the internet and what solutions can you suggest?*
 
-**Sample Answer:**
+**Band 9 Model Answer** *(approx. 310 words)*
 
-In the modern world, The technology is upgrade and make life simple such as phone, we used to communicate or answer the office calls and family calls at anytime at anywhere. I think this progress and more positive effect some negative effect. Because it is very comfortable and easy way to learn. However, it's miss used. In the coming paragraphs I will discuss both effects. 
+The internet has undeniably revolutionised communication, commerce, and the dissemination of knowledge. However, alongside its extraordinary benefits, it has introduced a range of significant challenges that demand urgent and thoughtful responses from governments, corporations, and individuals alike.
 
-Firstly, The mobile is an electronic gadget which makes life easier and more pleasant. Because it helps to communicate anywhere and we learn a lot of things through this electronic device. Furthermore, it improves our relationship, such as a man who live in United kingdom, he makes a call to contact with their relative. Because he do not come, but he makes better way to talk. Although it is the best device to earn money. For instance, nowadays, some people create a channel on YouTube and share their video with other people, it’s also earn money through steaming to sit at home.
+Perhaps the most serious concern is the proliferation of misinformation and deliberately fabricated content — what has come to be known as "fake news." The ease with which false information can be published and shared at scale, combined with algorithmic systems that prioritise engagement over accuracy, has created a deeply fragmented information landscape in which public consensus on basic facts has become increasingly difficult to maintain. This phenomenon has demonstrably influenced elections, public health responses, and social cohesion. A closely related problem is the exploitation of personal data by technology corporations, which harvest vast quantities of user information for commercial purposes with insufficient transparency or user consent, raising profound questions about privacy and autonomy.
 
-Secondly, this electronic media have some negative effects. If we use over mean whole day this phone will be affected on our eyes and mentally healthy. Therefore, some people do not get information through mobile, they used to acquire bad habits. Moreover, it was the cause of some unemployment. For example, before this improvement people used post offices to send their documents but nowadays people use email to send their papers. These facts Make unemployment.
+Cybercrime represents a further significant challenge. From financial fraud and identity theft to large-scale corporate data breaches, the internet has created fertile ground for criminal activity that operates across national boundaries, making enforcement extremely difficult.
 
-In conclusion, after analyzing all the information I reach in my opinion, these developments have more positive effects compare with negative affect.
+To address these issues, a multifaceted response is required. Governments must introduce and enforce robust legislation that mandates platform accountability for the content they host, protects citizens' data rights, and establishes international frameworks for cooperation in prosecuting cybercrime. Technology companies themselves must invest in more transparent algorithmic systems and provide users with genuine, accessible control over their personal data. At the individual level, digital literacy education — teaching people to critically evaluate online sources and recognise manipulation — must be embedded in school curricula from an early age.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+In conclusion, the problems generated by the internet are serious but not insurmountable. With coordinated action across legislative, corporate, and educational spheres, the enormous potential of the internet can be harnessed while mitigating its most damaging consequences.
 
-## Q. ***Unemployment remains the biggest challenge to school-leavers in most countries. How far do you agree with this assessment? What other challenges face young people today?***
+---
 
-Unemployment is on the rise. In fact, even highly qualified graduates are now finding it difficult to get a job. There are several reasons behind this unfortunate development.
-The ongoing economic crisis is one of the main reasons of unemployment. Recession has forced many organizations to stop hiring new people. As a result, fresh graduates receive no job offer. Even employed people are getting laid off due to the financial turmoil in world’s major economies. It should also be noted that major economies like the US, the UK and Germany have long stopped growing. When economic growth remains stagnant, the need for new talent also diminishes. This is the main reason behind the increase in unemployment in the developed world.
+### 2017 – Task 2, Question 2
 
-At the same time, there is an increase in the number of people graduating from universities. This is particularly true in the case of developing nations. Thanks to the economic growth in these nations, more and more students can now afford university education. For example, in India, the number of people who graduated in 2016 was significantly higher than the number of people who graduated from universities ten or fifteen years ago. Unfortunately, in spite of its rapid economic growth, the country still does not have enough jobs for all of its people. Another reason that leads to unemployment in developed nations is the outsourcing of jobs to developing nations where cheap labour is available.
+**Question:**
+> *Many people find it hard to balance their work and personal life. What are the problems caused by work-life imbalance? What steps could be taken to improve this situation?*
 
-Unemployment is likely to be a cause for concern in the coming years too. In my opinion, young graduates should stop waiting for job offers from Fortune 500 companies. Instead, they should find jobs themselves. The internet has actually made this easier. It allows people to sell their products or services to interested parties all over the world. Also, graduates seeking employment must stop the obsession with white collar jobs. If they don’t mind sweating it out, jobs are still available.
+**Band 9 Model Answer** *(approx. 305 words)*
 
-To conclude, unemployment can be attributed to two factors – the increase in the number of graduates and the decrease in economic growth. The only way to solve this problem is to encourage people to find employment themselves. This might require them to take up manual jobs but having a job is way better than having none at all.
+In an era characterised by perpetual connectivity and intensifying professional demands, the erosion of the boundary between working life and personal time has become one of the most pervasive challenges facing working adults across the world. The consequences of chronic work-life imbalance are serious and wide-ranging, affecting individuals, families, and organisations alike.
 
-**Vocabulary Used**
+At the individual level, the most immediate consequence is the deterioration of physical and mental health. Prolonged overwork is strongly associated with burnout, anxiety, depression, cardiovascular disease, and disrupted sleep. Relationships also suffer significantly when one partner consistently prioritises professional obligations over family commitments, leading to marital breakdown, strained parent-child bonds, and social isolation. These personal consequences carry substantial economic costs: reduced productivity, increased absenteeism, and higher staff turnover impose enormous financial burdens on businesses, while the wider healthcare and social costs are borne by governments and communities.
 
-|Words         | Meaning                   |
-|--------------|---------------------------|
-|turmoil       |a state of great disturbance, confusion, or uncertainty. |
-|stagnant      |Not circulating or flowing |
-|obsession     |craze |
+Addressing this issue requires intervention at both the organisational and policy levels. Employers have a direct responsibility — and, increasingly, a legal obligation in many jurisdictions — to prevent excessive working hours and to create cultures in which taking leave is actively encouraged rather than implicitly discouraged. Implementing flexible working arrangements, including remote work and variable hours, has been shown to improve both employee wellbeing and productivity. Technology companies, meanwhile, should develop tools that allow employees to set and enforce boundaries on after-hours communication.
 
-## Q. ***Unemployment remains the biggest challenge to school-leavers in most countries. How far do you agree with this assessment? What other challenges face young people today?***
+At the governmental level, stronger enforcement of existing working time regulations is essential, along with the introduction of enhanced parental leave provisions and affordable childcare, which disproportionately affects working parents, particularly women. Public awareness campaigns that challenge the cultural glorification of overwork would also contribute to a meaningful shift in societal attitudes.
 
-<div align="right">
-    <b><a href="#">↥ back to top</a></b>
-</div>
+In conclusion, work-life balance is not a luxury but a prerequisite for individual wellbeing and sustained organisational performance. Achieving it requires systemic change rather than individual willpower alone.
+
+---
+
+### 2016 – Task 2, Question 1
+
+**Question:**
+> *Some people think that the government should make it compulsory for people to have medical check-ups at regular intervals. To what extent do you agree or disagree with this view?*
+
+**Band 9 Model Answer** *(approx. 295 words)*
+
+The proposal that governments should mandate regular medical check-ups for all citizens is motivated by a genuine and laudable concern for public health. However, I believe that making such check-ups compulsory would be disproportionate and raises significant ethical concerns, even though preventative healthcare is undeniably important.
+
+The strongest argument in favour of compulsory check-ups is that many serious conditions — including hypertension, diabetes, and certain cancers — are asymptomatic in their early stages and are therefore frequently undiagnosed until they have progressed to a point where treatment is both more complex and more costly. By identifying such conditions early, regular screening could save lives and reduce the long-term financial burden on public health systems. Governments already require various forms of compulsory health measures, such as childhood vaccinations, and a similar rationale could be applied here.
+
+Nevertheless, I strongly believe that compulsion is the wrong approach. Forcing adults to undergo medical examinations against their will represents a serious intrusion on bodily autonomy and personal liberty — values that are fundamental to any democratic society. Furthermore, the enforcement of such a policy would be logistically extremely challenging and would risk disproportionately penalising vulnerable groups, such as those living in poverty or in rural areas with limited access to healthcare. The financial costs of implementation would also be enormous.
+
+A far more effective strategy would be to invest heavily in public education campaigns that highlight the benefits of preventative healthcare, to remove financial barriers by ensuring that check-ups are freely available, and to incentivise participation through positive means — such as reduced health insurance premiums — rather than through compulsion. Encouraging healthy behaviour through education and accessibility is both more respectful and, evidence suggests, more effective in the long run.
+
+---
+
+### 2015 – Task 2, Question 1
+
+**Question:**
+> *Some people think that having a gap year before going to university is a good idea. Others feel that it is a waste of time. Do you agree or disagree?*
+
+**Band 9 Model Answer** *(approx. 300 words)*
+
+The decision of whether to take a gap year between school and university is one that divides opinion sharply. I firmly believe, however, that a well-planned gap year can be an enormously valuable experience, and the characterisation of it as a waste of time is both reductive and largely inaccurate.
+
+Critics of gap years often argue that students who take a year out lose academic momentum, allow knowledge acquired during school to fade, and may struggle to re-engage with formal study upon returning. There is a further concern that, for some students, a gap year becomes an indefinite period of aimless deferral rather than purposeful development.
+
+These concerns, while not entirely without merit, overlook the profound benefits that a well-structured gap year provides. Students who spend this period working, volunteering, or travelling abroad return to university with a significantly enhanced sense of self-awareness, clearer academic and career goals, and a greater appreciation for the value of higher education. Research from several UK and Australian universities indicates that gap year students consistently outperform their peers academically in their first year and are considerably less likely to drop out. This may be because they have chosen their degree programme with greater deliberation and are intrinsically more motivated as a result.
+
+Furthermore, the experiences gained during a gap year — whether developing professional skills in a workplace, acquiring a second language abroad, or building resilience through independent travel — represent a form of personal education that no classroom curriculum can fully replicate. These qualities are highly valued by graduate employers and contribute to the development of well-rounded, adaptable individuals.
+
+In conclusion, provided it is approached with intention and used productively, a gap year is not merely acceptable but actively beneficial. The risk of wasting time is real, but it is one that responsible, motivated young people are well-equipped to manage.
+
+---
+
+## Key Tips for IELTS General Writing Band 9
+
+### Task 1 – Letter Writing
+- **Match the register precisely:** formal (`Dear Sir or Madam` / `Yours faithfully`), semi-formal (`Dear Mr. Smith` / `Yours sincerely`), informal (`Dear Tom` / `Warm regards`)
+- **Cover all three bullet points** with roughly equal detail — examiners check each one
+- **Open with a clear statement of purpose** in the first line
+- **Never use contractions in formal letters**
+- **Minimum 150 words** — aim for 170–185 to show range without padding
+
+### Task 2 – Essay Writing
+- **Spend 5 minutes planning** before writing — map out your thesis and two body paragraphs
+- **Write a clear position in the introduction** — never leave the examiner guessing your view
+- **One main idea per paragraph** — develop it fully with explanation and an example
+- **Avoid bullet points and lists** — all content must be in coherent prose
+- **Vary sentence structure** — mix complex sentences with shorter ones for impact
+- **Minimum 250 words** — aim for 280–320 for Task 2
+- **Leave 2–3 minutes to proofread** — fix spelling, punctuation, and article errors
+
+### Band 9 Checklist
+
+| Criterion | What examiners look for |
+|-----------|------------------------|
+| **Task Achievement** | All parts fully addressed; clear, well-developed position; relevant examples |
+| **Coherence & Cohesion** | Logical paragraph structure; varied, natural linking language; no repetition |
+| **Lexical Resource** | Wide, precise vocabulary; correct collocation; minimal spelling errors |
+| **Grammatical Range** | Varied structures (conditionals, passives, relative clauses); virtually error-free |
