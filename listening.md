@@ -20,7 +20,7 @@ It consists of **4 sections** with **40 questions** total.
 
 ## 2016 — Practice Questions
 
----
+<br>
 
 ### Section 1 — Booking a Holiday Apartment
 
@@ -97,8 +97,6 @@ It consists of **4 sections** with **40 questions** total.
   <b><a href="#overview">↥ back to top</a></b>
 </div>
 
----
-
 ### Section 2 — Museum Audio Guide
 
 > **Listening Passage — Transcript**
@@ -136,8 +134,6 @@ It consists of **4 sections** with **40 questions** total.
 <div align="right">
   <b><a href="#overview">↥ back to top</a></b>
 </div>
-
----
 
 ### Section 3 — University Assignment Discussion
 
@@ -200,8 +196,6 @@ It consists of **4 sections** with **40 questions** total.
 <div align="right">
   <b><a href="#overview">↥ back to top</a></b>
 </div>
-
----
 
 ### Section 4 — Lecture: The History of Paper
 
@@ -308,8 +302,6 @@ A) Monday  B) Tuesday  C) Saturday  D) Sunday  E) Wednesday
   <b><a href="#overview">↥ back to top</a></b>
 </div>
 
----
-
 ### Section 2 — City Bus Tour Commentary
 
 > **Listening Passage — Transcript**
@@ -349,8 +341,6 @@ A) Monday  B) Tuesday  C) Saturday  D) Sunday  E) Wednesday
 <div align="right">
   <b><a href="#overview">↥ back to top</a></b>
 </div>
-
----
 
 ### Section 3 — Research Project Planning
 
@@ -411,8 +401,6 @@ Choose from: **A** (positive) **B** (negative) **C** (mixed feelings)
 <div align="right">
   <b><a href="#overview">↥ back to top</a></b>
 </div>
-
----
 
 ### Section 4 — Lecture: Coral Reef Ecosystems
 
@@ -511,8 +499,6 @@ Coral reefs cover less than __________ of the ocean floor but support around **2
   <b><a href="#overview">↥ back to top</a></b>
 </div>
 
----
-
 ### Section 2 — Radio Programme: Community Garden Project
 
 > **Listening Passage — Transcript**
@@ -569,8 +555,6 @@ Coral reefs cover less than __________ of the ocean floor but support around **2
   <b><a href="#overview">↥ back to top</a></b>
 </div>
 
----
-
 ### Section 3 — Academic Tutorial: Climate Change Report
 
 > **Listening Passage — Transcript**
@@ -624,8 +608,6 @@ Coral reefs cover less than __________ of the ocean floor but support around **2
 <div align="right">
   <b><a href="#overview">↥ back to top</a></b>
 </div>
-
----
 
 ### Section 4 — Lecture: Psychology of Decision Making
 
@@ -933,8 +915,6 @@ D) Updated data  E) Different presenter
 <div align="right">
   <b><a href="#overview">↥ back to top</a></b>
 </div>
-
----
 
 ### Section 2 — Podcast: Remote Work Trends
 
@@ -1764,8 +1744,6 @@ Choose from:
   <b><a href="#overview">↥ back to top</a></b>
 </div>
 
----
-
 ### Section 2 — Podcast: Sustainable Fashion
 
 > **Listening Passage — Transcript**
@@ -2009,8 +1987,6 @@ Choose from:
 <div align="right">
   <b><a href="#overview">↥ back to top</a></b>
 </div>
-
----
 
 ### Section 2 — Talk: Space Exploration Today
 
