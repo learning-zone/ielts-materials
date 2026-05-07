@@ -1,4 +1,4 @@
-# IELTS General Training Study Materials -– Complete Guide for Band 9.0
+# IELTS General Training Study Materials 
 
 > *Click &#9733; if you like the project. Your contributions are heartily ♡ welcome.*
 
