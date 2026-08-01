@@ -440,6 +440,7 @@ Lexical Resource accounts for **25% of your Writing and Speaking score**. A Band
 | TED Talks / BBC Radio 4 | Listening practice with diverse accents and complex ideas |
 | Anki (flashcard app) | Spaced repetition vocabulary learning |
 | E2 Language / IELTS Simon | Writing and speaking model answers and strategies |
+| [IELTS Writing Checker](https://ieltswritingchecker.org/) | Task 1 and Task 2 scores and feedback |
 
 <div align="right">
   <b><a href="#table-of-contents">↥ back to top</a></b>
